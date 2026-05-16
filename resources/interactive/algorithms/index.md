@@ -1,6 +1,16 @@
 ---
 title: '💻 Algorithms & Data Structures'
-description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
+description: '23 algorithms & data structures resources for developers. 15 free algorithms & data structures platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '23 algorithms & data structures resources for developers. 15 free algorithms & data structures platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Algorithms & Data Structures - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Algorithms & Data Structures","description":"23 algorithms & data structures resources for developers. 15 free algorithms & data structures platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interactive/algorithms","numberOfItems":23}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

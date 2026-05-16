@@ -1,6 +1,16 @@
 ---
 title: '🏛️ Open Courseware'
-description: 'Free university-level computer science education.'
+description: '17 open courseware resources for developers. 16 free open courseware platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '17 open courseware resources for developers. 16 free open courseware platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Open Courseware - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Open Courseware","description":"17 open courseware resources for developers. 16 free open courseware platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/university/open-courseware","numberOfItems":17}'
 ---
 
 Free university-level computer science education.

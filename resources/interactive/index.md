@@ -1,6 +1,16 @@
 ---
 title: '💻 Interactive Coding Platforms'
-description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
+description: '73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Interactive Coding Platforms - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interactive Coding Platforms","description":"73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interactive","numberOfItems":73}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

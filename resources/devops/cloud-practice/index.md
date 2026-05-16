@@ -1,6 +1,16 @@
 ---
 title: '🐧 Cloud Platforms'
-description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
+description: '11 cloud platforms resources for developers. 5 free cloud platforms platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '11 cloud platforms resources for developers. 5 free cloud platforms platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Cloud Platforms - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Cloud Platforms","description":"11 cloud platforms resources for developers. 5 free cloud platforms platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/devops/cloud-practice","numberOfItems":11}'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

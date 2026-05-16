@@ -1,6 +1,16 @@
 ---
 title: '🗣️ Interview Preparation'
-description: 'Practice for technical interviews, system design, and behavioral questions.'
+description: '36 curated interview preparation resources for developers. 15 free resources available across 2 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '36 curated interview preparation resources for developers. 15 free resources available across 2 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Interview Preparation - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interview Preparation","description":"36 curated interview preparation resources for developers. 15 free resources available across 2 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interview","numberOfItems":36}'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.

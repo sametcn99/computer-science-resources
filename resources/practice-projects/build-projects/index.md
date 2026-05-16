@@ -1,6 +1,16 @@
 ---
 title: '🛠️ Build Projects'
-description: 'Build real-world projects to learn and practice programming skills.'
+description: '15 build projects resources for developers. 14 free build projects platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '15 build projects resources for developers. 14 free build projects platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Build Projects - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Build Projects","description":"15 build projects resources for developers. 14 free build projects platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/practice-projects/build-projects","numberOfItems":15}'
 ---
 
 Build real-world projects to learn and practice programming skills.

@@ -1,6 +1,16 @@
 ---
 title: '🎮 Game-Based Learning'
-description: 'Learn programming through gamified platforms and coding games.'
+description: '24 curated game-based learning resources for developers. 13 free resources available across 1 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '24 curated game-based learning resources for developers. 13 free resources available across 1 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Game-Based Learning - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Game-Based Learning","description":"24 curated game-based learning resources for developers. 13 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/games","numberOfItems":24}'
 ---
 
 Learn programming through gamified platforms and coding games.

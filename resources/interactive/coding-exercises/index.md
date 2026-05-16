@@ -1,6 +1,16 @@
 ---
 title: '💻 Coding Exercises & Practice'
-description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
+description: '35 coding exercises & practice resources for developers. 14 free coding exercises & practice platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '35 coding exercises & practice resources for developers. 14 free coding exercises & practice platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Coding Exercises & Practice - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Coding Exercises & Practice","description":"35 coding exercises & practice resources for developers. 14 free coding exercises & practice platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interactive/coding-exercises","numberOfItems":35}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

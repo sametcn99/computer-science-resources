@@ -34,21 +34,6 @@ description: 'Curated computer science resources, coding challenge, and online l
 
 ---
 
-## 🔮 Future Expansions
-
-Consider adding these categories in the future:
-
-- Frontend Practice - React, Vue, Angular, CSS, UI/UX
-- Backend Practice - Node.js, Python, Go, databases
-- Mobile Development - React Native, Flutter, Swift, Kotlin
-- Data Science & ML - Python, TensorFlow, PyTorch, Kaggle
-- Database Practice - SQL, NoSQL, PostgreSQL, MongoDB
-- API Development - REST, GraphQL, gRPC
-- Testing & QA - Unit testing, integration testing, automation
-- Version Control - Git, GitHub, GitLab workflows
-
----
-
 ## 🤝 Contributing
 
 Found a great resource? Contributions are welcome!

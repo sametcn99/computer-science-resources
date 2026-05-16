@@ -10,6 +10,8 @@ const resourcesDir = path.join(rootDir, 'resources')
 
 const data = JSON.parse(fs.readFileSync(path.join(dataDir, 'resources.json'), 'utf-8'))
 
+const SITE_URL = 'https://computer-science-resources.vercel.app'
+
 function getBadgeType(price) {
   const badgeMap = { free: 'tip', freemium: 'warning', paid: 'danger' }
   return badgeMap[price] || 'warning'
@@ -21,10 +23,32 @@ function getBadgeText(price) {
 
 function generateCategoryPage(category) {
   const resourcesCount = category.subcategories.reduce((sum, sub) => sum + sub.resources.length, 0)
+  const freeCount = category.subcategories.reduce(
+    (s, sub) => s + sub.resources.filter((r) => r.price === 'free').length,
+    0
+  )
+  const desc = `${resourcesCount} curated ${category.name.toLowerCase()} resources for developers. ${freeCount} free resources available across ${category.subcategories.length} subcategories.`
 
   return `---
 title: "${category.icon} ${category.name}"
-description: "${category.description}"
+description: "${desc}"
+head:
+  - - meta
+    - property: og:description
+      content: "${desc}"
+  - - meta
+    - property: og:title
+      content: "${category.name} - CS Resources"
+  - - script
+    - type: application/ld+json
+      content: '${JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: `${category.name}`,
+        description: desc,
+        url: `${SITE_URL}/resources/${category.id}`,
+        numberOfItems: resourcesCount
+      })}'
 ---
 
 ${category.description}
@@ -63,9 +87,30 @@ ${sub.resources
 }
 
 function generateSubcategoryPage(category, subcategory) {
+  const count = subcategory.resources.length
+  const freeCount = subcategory.resources.filter((r) => r.price === 'free').length
+  const desc = `${count} ${subcategory.name.toLowerCase()} resources for developers. ${freeCount} free ${subcategory.name.toLowerCase()} platforms and tools to practice and learn.`
+
   return `---
 title: "${category.icon} ${subcategory.name}"
-description: "${category.description}"
+description: "${desc}"
+head:
+  - - meta
+    - property: og:description
+      content: "${desc}"
+  - - meta
+    - property: og:title
+      content: "${subcategory.name} - CS Resources"
+  - - script
+    - type: application/ld+json
+      content: '${JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: `${subcategory.name}`,
+        description: desc,
+        url: `${SITE_URL}/resources/${category.id}/${subcategory.id}`,
+        numberOfItems: count
+      })}'
 ---
 
 ${category.description}
@@ -188,21 +233,6 @@ ${data.categories
 | <Badge type="tip" text="Free" /> | Fully accessible without payment |
 | <Badge type="warning" text="Freemium" /> | Limited free content with paid upgrades |
 | <Badge type="danger" text="Paid" /> | Requires subscription or purchase |
-
----
-
-## 🔮 Future Expansions
-
-Consider adding these categories in the future:
-
-- Frontend Practice - React, Vue, Angular, CSS, UI/UX
-- Backend Practice - Node.js, Python, Go, databases
-- Mobile Development - React Native, Flutter, Swift, Kotlin
-- Data Science & ML - Python, TensorFlow, PyTorch, Kaggle
-- Database Practice - SQL, NoSQL, PostgreSQL, MongoDB
-- API Development - REST, GraphQL, gRPC
-- Testing & QA - Unit testing, integration testing, automation
-- Version Control - Git, GitHub, GitLab workflows
 
 ---
 

@@ -1,6 +1,16 @@
 ---
 title: '📚 Online Learning Platforms'
-description: 'University-level courses, certifications, and guided learning paths.'
+description: '31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Online Learning Platforms - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Online Learning Platforms","description":"31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/courses","numberOfItems":31}'
 ---
 
 University-level courses, certifications, and guided learning paths.

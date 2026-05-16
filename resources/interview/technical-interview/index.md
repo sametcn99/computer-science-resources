@@ -1,6 +1,16 @@
 ---
 title: '🗣️ Technical Interview'
-description: 'Practice for technical interviews, system design, and behavioral questions.'
+description: '22 technical interview resources for developers. 8 free technical interview platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '22 technical interview resources for developers. 8 free technical interview platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Technical Interview - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Technical Interview","description":"22 technical interview resources for developers. 8 free technical interview platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interview/technical-interview","numberOfItems":22}'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.

@@ -1,6 +1,16 @@
 ---
 title: '🐧 Linux & Terminal'
-description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
+description: '17 linux & terminal resources for developers. 15 free linux & terminal platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '17 linux & terminal resources for developers. 15 free linux & terminal platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Linux & Terminal - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Linux & Terminal","description":"17 linux & terminal resources for developers. 15 free linux & terminal platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/devops/linux-terminal","numberOfItems":17}'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

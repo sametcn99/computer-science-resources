@@ -1,6 +1,16 @@
 ---
 title: '📚 Courses & Certifications'
-description: 'University-level courses, certifications, and guided learning paths.'
+description: '31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Courses & Certifications - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Courses & Certifications","description":"31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/courses/course-platforms","numberOfItems":31}'
 ---
 
 University-level courses, certifications, and guided learning paths.

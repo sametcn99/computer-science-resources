@@ -1,6 +1,16 @@
 ---
 title: '💻 SQL & Database Practice'
-description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
+description: '15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'SQL & Database Practice - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"SQL & Database Practice","description":"15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interactive/sql-practice","numberOfItems":15}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

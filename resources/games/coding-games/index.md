@@ -1,6 +1,16 @@
 ---
 title: '🎮 Coding Games'
-description: 'Learn programming through gamified platforms and coding games.'
+description: '24 coding games resources for developers. 13 free coding games platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '24 coding games resources for developers. 13 free coding games platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Coding Games - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Coding Games","description":"24 coding games resources for developers. 13 free coding games platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/games/coding-games","numberOfItems":24}'
 ---
 
 Learn programming through gamified platforms and coding games.

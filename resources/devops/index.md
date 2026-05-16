@@ -1,6 +1,16 @@
 ---
 title: '🐧 Linux & DevOps Labs'
-description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
+description: '42 curated linux & devops labs resources for developers. 32 free resources available across 3 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '42 curated linux & devops labs resources for developers. 32 free resources available across 3 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Linux & DevOps Labs - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Linux & DevOps Labs","description":"42 curated linux & devops labs resources for developers. 32 free resources available across 3 subcategories.","url":"https://computer-science-resources.vercel.app/resources/devops","numberOfItems":42}'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

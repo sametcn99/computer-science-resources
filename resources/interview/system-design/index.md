@@ -1,6 +1,16 @@
 ---
 title: '🗣️ System Design'
-description: 'Practice for technical interviews, system design, and behavioral questions.'
+description: '14 system design resources for developers. 7 free system design platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '14 system design resources for developers. 7 free system design platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'System Design - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"System Design","description":"14 system design resources for developers. 7 free system design platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interview/system-design","numberOfItems":14}'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.

@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://computer-science-resources.vercel.app/sitemap.xml
+
+# Disallow admin / internal paths (if any)
+Disallow: /.vitepress/
+Disallow: /node_modules/

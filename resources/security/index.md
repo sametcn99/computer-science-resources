@@ -1,6 +1,16 @@
 ---
 title: '🛡️ Cybersecurity Labs'
-description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
+description: '36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Cybersecurity Labs - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Cybersecurity Labs","description":"36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.","url":"https://computer-science-resources.vercel.app/resources/security","numberOfItems":36}'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.

@@ -1,6 +1,16 @@
 ---
 title: '🛡️ Security Training'
-description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
+description: '18 security training resources for developers. 12 free security training platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '18 security training resources for developers. 12 free security training platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Security Training - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Security Training","description":"18 security training resources for developers. 12 free security training platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/security/security-training","numberOfItems":18}'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.

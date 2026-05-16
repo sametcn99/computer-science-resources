@@ -1,6 +1,16 @@
 ---
 title: '🐧 Container & Kubernetes'
-description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
+description: '14 container & kubernetes resources for developers. 12 free container & kubernetes platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '14 container & kubernetes resources for developers. 12 free container & kubernetes platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Container & Kubernetes - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Container & Kubernetes","description":"14 container & kubernetes resources for developers. 12 free container & kubernetes platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/devops/container-kubernetes","numberOfItems":14}'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

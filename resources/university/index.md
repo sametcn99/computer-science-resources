@@ -1,6 +1,16 @@
 ---
 title: '🏛️ University & Academic'
-description: 'Free university-level computer science education.'
+description: '17 curated university & academic resources for developers. 16 free resources available across 1 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '17 curated university & academic resources for developers. 16 free resources available across 1 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'University & Academic - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"University & Academic","description":"17 curated university & academic resources for developers. 16 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/university","numberOfItems":17}'
 ---
 
 Free university-level computer science education.

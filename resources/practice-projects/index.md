@@ -1,6 +1,16 @@
 ---
 title: '🛠️ Project-Based Practice'
-description: 'Build real-world projects to learn and practice programming skills.'
+description: '15 curated project-based practice resources for developers. 14 free resources available across 1 subcategories.'
+head:
+  - - meta
+    - property: og:description
+      content: '15 curated project-based practice resources for developers. 14 free resources available across 1 subcategories.'
+  - - meta
+    - property: og:title
+      content: 'Project-Based Practice - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Project-Based Practice","description":"15 curated project-based practice resources for developers. 14 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/practice-projects","numberOfItems":15}'
 ---
 
 Build real-world projects to learn and practice programming skills.

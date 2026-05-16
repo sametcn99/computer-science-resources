@@ -1,6 +1,16 @@
 ---
 title: '🛡️ Capture The Flag (CTF)'
-description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
+description: '18 capture the flag (ctf) resources for developers. 14 free capture the flag (ctf) platforms and tools to practice and learn.'
+head:
+  - - meta
+    - property: og:description
+      content: '18 capture the flag (ctf) resources for developers. 14 free capture the flag (ctf) platforms and tools to practice and learn.'
+  - - meta
+    - property: og:title
+      content: 'Capture The Flag (CTF) - CS Resources'
+  - - script
+    - type: application/ld+json
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Capture The Flag (CTF)","description":"18 capture the flag (ctf) resources for developers. 14 free capture the flag (ctf) platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/security/ctf","numberOfItems":18}'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
