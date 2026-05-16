@@ -7,12 +7,12 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Filter by Price
 
-- [All](/resources/security/security-training) - 18 resources
-- [Free](/resources/security/security-training/free) - 12 resources
+- [All](/resources/security/security-training) - 20 resources
+- [Free](/resources/security/security-training/free) - 14 resources
 - [Freemium](/resources/security/security-training/freemium) - 4 resources
 - [Paid](/resources/security/security-training/paid) - 2 resources
 
-## Free Resources (12)
+## Free Resources (14)
 
 - **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** <Badge type="tip" text="Free" />
   - Free web security training from Burp Suite creators.
@@ -38,3 +38,7 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Deliberately insecure web application for learning web security flaws.
 - **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** <Badge type="tip" text="Free" />
   - Free web security training with hands-on labs for common vulnerabilities.
+- **[Guyinatuxedo](https://guyinatuxedo.github.io/)** <Badge type="tip" text="Free" />
+  - Introduction to binary exploitation and reverse engineering with hands-on challenges.
+- **[Google Gruyere](https://google-gruyere.appspot.com/)** <Badge type="tip" text="Free" />
+  - Hands-on web security lab for learning common vulnerabilities and exploits.

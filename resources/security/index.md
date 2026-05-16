@@ -1,16 +1,16 @@
 ---
 title: '🛡️ Cybersecurity Labs'
-description: '36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.'
+description: '38 curated cybersecurity labs resources for developers. 28 free resources available across 2 subcategories.'
 head:
   - - meta
     - property: og:description
-      content: '36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.'
+      content: '38 curated cybersecurity labs resources for developers. 28 free resources available across 2 subcategories.'
   - - meta
     - property: og:title
       content: 'Cybersecurity Labs - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Cybersecurity Labs","description":"36 curated cybersecurity labs resources for developers. 26 free resources available across 2 subcategories.","url":"https://computer-science-resources.vercel.app/resources/security","numberOfItems":36}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Cybersecurity Labs","description":"38 curated cybersecurity labs resources for developers. 28 free resources available across 2 subcategories.","url":"https://computer-science-resources.vercel.app/resources/security","numberOfItems":38}'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
@@ -18,9 +18,9 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 ## Subcategories
 
 - **[Capture The Flag (CTF)](/resources/security/ctf)** - 18 resources (14 free, 4 freemium, 0 paid)
-- **[Security Training](/resources/security/security-training)** - 18 resources (12 free, 4 freemium, 2 paid)
+- **[Security Training](/resources/security/security-training)** - 20 resources (14 free, 4 freemium, 2 paid)
 
-## All Resources (36)
+## All Resources (38)
 
 ### Capture The Flag (CTF)
 
@@ -99,3 +99,7 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Guided cybersecurity learning paths from beginner to advanced.
 - **[RangeForce](https://www.rangeforce.com/)** <Badge type="danger" text="Paid" />
   - Interactive cybersecurity training with gamified modules and simulations.
+- **[Guyinatuxedo](https://guyinatuxedo.github.io/)** <Badge type="tip" text="Free" />
+  - Introduction to binary exploitation and reverse engineering with hands-on challenges.
+- **[Google Gruyere](https://google-gruyere.appspot.com/)** <Badge type="tip" text="Free" />
+  - Hands-on web security lab for learning common vulnerabilities and exploits.

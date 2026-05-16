@@ -1,25 +1,25 @@
 ---
 title: '📚 Courses & Certifications'
-description: '31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
+description: '32 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
 head:
   - - meta
     - property: og:description
-      content: '31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
+      content: '32 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.'
   - - meta
     - property: og:title
       content: 'Courses & Certifications - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Courses & Certifications","description":"31 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/courses/course-platforms","numberOfItems":31}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Courses & Certifications","description":"32 courses & certifications resources for developers. 10 free courses & certifications platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/courses/course-platforms","numberOfItems":32}'
 ---
 
 University-level courses, certifications, and guided learning paths.
 
 ## Filter by Price
 
-- [All](/resources/courses/course-platforms) - 31 resources
+- [All](/resources/courses/course-platforms) - 32 resources
 - [Free](/resources/courses/course-platforms/free) - 10 resources
-- [Freemium](/resources/courses/course-platforms/freemium) - 10 resources
+- [Freemium](/resources/courses/course-platforms/freemium) - 11 resources
 - [Paid](/resources/courses/course-platforms/paid) - 11 resources
 
 ## All Resources
@@ -86,3 +86,5 @@ University-level courses, certifications, and guided learning paths.
   - Career accelerator with mentorship for tech job seekers.
 - **[Maven](https://maven.com/)** <Badge type="danger" text="Paid" />
   - Cohort-based courses taught by industry experts on specialized topics.
+- **[Analytics Vidhya](https://www.analyticsvidhya.com/)** <Badge type="warning" text="Freemium" />
+  - Data science and machine learning community with courses, competitions, and resources.

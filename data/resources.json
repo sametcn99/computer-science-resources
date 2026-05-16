@@ -460,6 +460,18 @@
               "url": "https://www.stratascratch.com/",
               "description": "Real SQL and Python interview questions from FAANG companies.",
               "price": "freemium"
+            },
+            {
+              "name": "Learn SQL Online",
+              "url": "https://www.learnsqlonline.org/",
+              "description": "Interactive SQL tutorials for beginners with hands-on exercises.",
+              "price": "free"
+            },
+            {
+              "name": "SQLTeaching",
+              "url": "https://www.sqlteaching.com/",
+              "description": "Interactive SQL lessons with real-time query execution in the browser.",
+              "price": "free"
             }
           ]
         }
@@ -660,6 +672,12 @@
               "url": "https://maven.com/",
               "description": "Cohort-based courses taught by industry experts on specialized topics.",
               "price": "paid"
+            },
+            {
+              "name": "Analytics Vidhya",
+              "url": "https://www.analyticsvidhya.com/",
+              "description": "Data science and machine learning community with courses, competitions, and resources.",
+              "price": "freemium"
             }
           ]
         }
@@ -1410,6 +1428,18 @@
               "url": "https://www.rangeforce.com/",
               "description": "Interactive cybersecurity training with gamified modules and simulations.",
               "price": "paid"
+            },
+            {
+              "name": "Guyinatuxedo",
+              "url": "https://guyinatuxedo.github.io/",
+              "description": "Introduction to binary exploitation and reverse engineering with hands-on challenges.",
+              "price": "free"
+            },
+            {
+              "name": "Google Gruyere",
+              "url": "https://google-gruyere.appspot.com/",
+              "description": "Hands-on web security lab for learning common vulnerabilities and exploits.",
+              "price": "free"
             }
           ]
         }

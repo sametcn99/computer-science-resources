@@ -1,25 +1,25 @@
 ---
 title: '📚 Online Learning Platforms'
-description: '31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
+description: '32 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
 head:
   - - meta
     - property: og:description
-      content: '31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
+      content: '32 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.'
   - - meta
     - property: og:title
       content: 'Online Learning Platforms - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Online Learning Platforms","description":"31 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/courses","numberOfItems":31}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Online Learning Platforms","description":"32 curated online learning platforms resources for developers. 10 free resources available across 1 subcategories.","url":"https://computer-science-resources.vercel.app/resources/courses","numberOfItems":32}'
 ---
 
 University-level courses, certifications, and guided learning paths.
 
 ## Subcategories
 
-- **[Courses & Certifications](/resources/courses/course-platforms)** - 31 resources (10 free, 10 freemium, 11 paid)
+- **[Courses & Certifications](/resources/courses/course-platforms)** - 32 resources (10 free, 11 freemium, 11 paid)
 
-## All Resources (31)
+## All Resources (32)
 
 ### Courses & Certifications
 
@@ -85,3 +85,5 @@ University-level courses, certifications, and guided learning paths.
   - Career accelerator with mentorship for tech job seekers.
 - **[Maven](https://maven.com/)** <Badge type="danger" text="Paid" />
   - Cohort-based courses taught by industry experts on specialized topics.
+- **[Analytics Vidhya](https://www.analyticsvidhya.com/)** <Badge type="warning" text="Freemium" />
+  - Data science and machine learning community with courses, competitions, and resources.

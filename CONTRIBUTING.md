@@ -18,6 +18,7 @@ This project lists **practice platforms, exercise sites, and learning resources*
 - Framework documentation (Vue, Angular, Svelte, Next.js, etc.)
 - Tool documentation (Docker docs, Kubernetes docs, etc.)
 - Reference guides or API documentation
+- Youtube channels, podcasts, blogs, newsletters, or other content that is not primarily focused on interactive learning or practice
 
 **We DO accept:**
 
@@ -28,6 +29,17 @@ This project lists **practice platforms, exercise sites, and learning resources*
 - Linux/DevOps hands-on labs (OverTheWire, Katacoda, etc.)
 - University open courseware (MIT OCW, Harvard CS50, etc.)
 - Game-based coding learning platforms (CodinGame, CodeCombat, etc.)
+
+### Language Requirement
+
+All resources must be accessible in English. Resources that are only available in other languages without English translation are not accepted.
+
+### Reporting Invalid Resources
+
+If you find a resource that violates the above rules (e.g., documentation, reference materials, or content that is not primarily focused on interactive learning or practice), you can:
+
+- Open an issue to report it
+- Submit a pull request to remove it from `data/resources.json`
 
 ---
 

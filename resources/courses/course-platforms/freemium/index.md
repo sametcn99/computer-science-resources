@@ -7,12 +7,12 @@ University-level courses, certifications, and guided learning paths.
 
 ## Filter by Price
 
-- [All](/resources/courses/course-platforms) - 31 resources
+- [All](/resources/courses/course-platforms) - 32 resources
 - [Free](/resources/courses/course-platforms/free) - 10 resources
-- [Freemium](/resources/courses/course-platforms/freemium) - 10 resources
+- [Freemium](/resources/courses/course-platforms/freemium) - 11 resources
 - [Paid](/resources/courses/course-platforms/paid) - 11 resources
 
-## Freemium Resources (10)
+## Freemium Resources (11)
 
 - **[Coursera](https://www.coursera.org/)** <Badge type="warning" text="Freemium" />
   - University-level courses, certifications, and guided projects from top institutions.
@@ -34,3 +34,5 @@ University-level courses, certifications, and guided learning paths.
   - Learn Python and JavaScript through game-based courses.
 - **[Scrimba](https://scrimba.com/)** <Badge type="warning" text="Freemium" />
   - Interactive coding courses with editable code examples.
+- **[Analytics Vidhya](https://www.analyticsvidhya.com/)** <Badge type="warning" text="Freemium" />
+  - Data science and machine learning community with courses, competitions, and resources.

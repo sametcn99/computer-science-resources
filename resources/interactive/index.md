@@ -1,16 +1,16 @@
 ---
 title: '💻 Interactive Coding Platforms'
-description: '73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.'
+description: '75 curated interactive coding platforms resources for developers. 42 free resources available across 3 subcategories.'
 head:
   - - meta
     - property: og:description
-      content: '73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.'
+      content: '75 curated interactive coding platforms resources for developers. 42 free resources available across 3 subcategories.'
   - - meta
     - property: og:title
       content: 'Interactive Coding Platforms - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interactive Coding Platforms","description":"73 curated interactive coding platforms resources for developers. 40 free resources available across 3 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interactive","numberOfItems":73}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interactive Coding Platforms","description":"75 curated interactive coding platforms resources for developers. 42 free resources available across 3 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interactive","numberOfItems":75}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
@@ -19,9 +19,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 - **[Coding Exercises & Practice](/resources/interactive/coding-exercises)** - 35 resources (14 free, 11 freemium, 10 paid)
 - **[Algorithms & Data Structures](/resources/interactive/algorithms)** - 23 resources (15 free, 8 freemium, 0 paid)
-- **[SQL & Database Practice](/resources/interactive/sql-practice)** - 15 resources (11 free, 4 freemium, 0 paid)
+- **[SQL & Database Practice](/resources/interactive/sql-practice)** - 17 resources (13 free, 4 freemium, 0 paid)
 
-## All Resources (73)
+## All Resources (75)
 
 ### Coding Exercises & Practice
 
@@ -177,3 +177,7 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - SQL interview questions from top tech companies with solutions.
 - **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
   - Real SQL and Python interview questions from FAANG companies.
+- **[Learn SQL Online](https://www.learnsqlonline.org/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorials for beginners with hands-on exercises.
+- **[SQLTeaching](https://www.sqlteaching.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL lessons with real-time query execution in the browser.

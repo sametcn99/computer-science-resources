@@ -1,24 +1,24 @@
 ---
 title: '💻 SQL & Database Practice'
-description: '15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.'
+description: '17 sql & database practice resources for developers. 13 free sql & database practice platforms and tools to practice and learn.'
 head:
   - - meta
     - property: og:description
-      content: '15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.'
+      content: '17 sql & database practice resources for developers. 13 free sql & database practice platforms and tools to practice and learn.'
   - - meta
     - property: og:title
       content: 'SQL & Database Practice - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"SQL & Database Practice","description":"15 sql & database practice resources for developers. 11 free sql & database practice platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interactive/sql-practice","numberOfItems":15}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"SQL & Database Practice","description":"17 sql & database practice resources for developers. 13 free sql & database practice platforms and tools to practice and learn.","url":"https://computer-science-resources.vercel.app/resources/interactive/sql-practice","numberOfItems":17}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/sql-practice) - 15 resources
-- [Free](/resources/interactive/sql-practice/free) - 11 resources
+- [All](/resources/interactive/sql-practice) - 17 resources
+- [Free](/resources/interactive/sql-practice/free) - 13 resources
 - [Freemium](/resources/interactive/sql-practice/freemium) - 4 resources
 - [Paid](/resources/interactive/sql-practice/paid) - 0 resources
 
@@ -54,3 +54,7 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - SQL interview questions from top tech companies with solutions.
 - **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
   - Real SQL and Python interview questions from FAANG companies.
+- **[Learn SQL Online](https://www.learnsqlonline.org/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorials for beginners with hands-on exercises.
+- **[SQLTeaching](https://www.sqlteaching.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL lessons with real-time query execution in the browser.
