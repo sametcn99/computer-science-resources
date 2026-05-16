@@ -7,10 +7,10 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Subcategories
 
-- **[Capture The Flag (CTF)](/resources/security/ctf)** - 13 resources (9 free, 4 freemium, 0 paid)
-- **[Security Training](/resources/security/security-training)** - 13 resources (10 free, 2 freemium, 1 paid)
+- **[Capture The Flag (CTF)](/resources/security/ctf)** - 18 resources (14 free, 4 freemium, 0 paid)
+- **[Security Training](/resources/security/security-training)** - 18 resources (12 free, 4 freemium, 2 paid)
 
-## All Resources (26)
+## All Resources (36)
 
 ### Capture The Flag (CTF)
 
@@ -40,6 +40,16 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Embedded security challenges.
 - **[OverTheWire - Challenges](https://overthewire.org/wargames/)** <Badge type="tip" text="Free" />
   - Security wargames for learning.
+- **[PicoCTF](https://picoctf.org/)** <Badge type="tip" text="Free" />
+  - Beginner-friendly CTF competition designed for high school students.
+- **[CTFlearn](https://ctflearn.com/)** <Badge type="tip" text="Free" />
+  - Community-driven CTF platform with challenges across multiple categories.
+- **[Root Me](https://www.root-me.org/)** <Badge type="tip" text="Free" />
+  - French-origin hacking challenges platform with real-world scenarios.
+- **[CryptoHack](https://cryptohack.org/)** <Badge type="tip" text="Free" />
+  - Interactive cryptography challenges from basics to advanced ciphers.
+- **[ImaginaryCTF](https://imaginaryctf.org/)** <Badge type="tip" text="Free" />
+  - Regular CTF competitions with beginner-friendly challenges and writeups.
 
 ### Security Training
 
@@ -69,3 +79,13 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Various hacking challenges platform.
 - **[Pentest-Tools](https://pentest-tools.com/)** <Badge type="warning" text="Freemium" />
   - Online security testing tools.
+- **[OWASP WebGoat](https://owasp.org/www-project-webgoat/)** <Badge type="tip" text="Free" />
+  - Deliberately insecure web application for learning web security flaws.
+- **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** <Badge type="tip" text="Free" />
+  - Free web security training with hands-on labs for common vulnerabilities.
+- **[CyberDefenders](https://cyberdefenders.org/)** <Badge type="warning" text="Freemium" />
+  - Blue team training platform with real-world incident response challenges.
+- **[TryHackMe](https://tryhackme.com/)** <Badge type="warning" text="Freemium" />
+  - Guided cybersecurity learning paths from beginner to advanced.
+- **[RangeForce](https://www.rangeforce.com/)** <Badge type="danger" text="Paid" />
+  - Interactive cybersecurity training with gamified modules and simulations.

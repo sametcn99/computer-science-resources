@@ -7,10 +7,10 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/system-design) - 9 resources
-- [Free](/resources/interview/system-design/free) - 5 resources
-- [Freemium](/resources/interview/system-design/freemium) - 1 resources
-- [Paid](/resources/interview/system-design/paid) - 3 resources
+- [All](/resources/interview/system-design) - 14 resources
+- [Free](/resources/interview/system-design/free) - 7 resources
+- [Freemium](/resources/interview/system-design/freemium) - 2 resources
+- [Paid](/resources/interview/system-design/paid) - 5 resources
 
 ## All Resources
 
@@ -32,3 +32,13 @@ Practice for technical interviews, system design, and behavioral questions.
   - Free system design learning resources.
 - **[Scale Up](https://www.educative.io/scale-up)** <Badge type="danger" text="Paid" />
   - System design course for experienced engineers.
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
+  - GitHub repository with comprehensive system design interview resources.
+- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** <Badge type="danger" text="Paid" />
+  - In-depth course on designing large-scale distributed systems.
+- **[High Scalability](http://highscalability.com/)** <Badge type="tip" text="Free" />
+  - Real-world system architecture case studies from popular companies.
+- **[The System Design Newsletter](https://blog.pragmaticengineer.com/)** <Badge type="warning" text="Freemium" />
+  - Newsletter covering system design topics and engineering leadership.
+- **[Designing Data-Intensive Applications](https://dataintensive.net/)** <Badge type="danger" text="Paid" />
+  - Book on distributed systems, databases, and data processing architectures.

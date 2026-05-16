@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/algorithms) - 18 resources
-- [Free](/resources/interactive/algorithms/free) - 12 resources
-- [Freemium](/resources/interactive/algorithms/freemium) - 6 resources
+- [All](/resources/interactive/algorithms) - 23 resources
+- [Free](/resources/interactive/algorithms/free) - 15 resources
+- [Freemium](/resources/interactive/algorithms/freemium) - 8 resources
 - [Paid](/resources/interactive/algorithms/paid) - 0 resources
 
-## Freemium Resources (6)
+## Freemium Resources (8)
 
 - **[HackerRank - Algorithms](https://www.hackerrank.com/domains/algorithms)** <Badge type="warning" text="Freemium" />
   - Algorithm practice problems from warm-up to hard difficulty.
@@ -26,3 +26,7 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Interview preparation platform with curated problem sets.
 - **[LintCode](https://www.lintcode.com/)** <Badge type="warning" text="Freemium" />
   - Coding interview practice with 1000+ algorithm problems.
+- **[Brilliant - Computer Science](https://brilliant.org/courses/computer-science/)** <Badge type="warning" text="Freemium" />
+  - Interactive CS fundamentals including algorithms, logic, and cryptography.
+- **[GeeksforGeeks - DSA Self Paced](https://practice.geeksforgeeks.org/courses/dsa-self-paced)** <Badge type="warning" text="Freemium" />
+  - Structured data structures and algorithms course with practice problems.

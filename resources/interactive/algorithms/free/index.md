@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/algorithms) - 18 resources
-- [Free](/resources/interactive/algorithms/free) - 12 resources
-- [Freemium](/resources/interactive/algorithms/freemium) - 6 resources
+- [All](/resources/interactive/algorithms) - 23 resources
+- [Free](/resources/interactive/algorithms/free) - 15 resources
+- [Freemium](/resources/interactive/algorithms/freemium) - 8 resources
 - [Paid](/resources/interactive/algorithms/paid) - 0 resources
 
-## Free Resources (12)
+## Free Resources (15)
 
 - **[Kattis](https://open.kattis.com/)** <Badge type="tip" text="Free" />
   - Programming contest problems from various competitions.
@@ -38,3 +38,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Programming problems for beginners to experts.
 - **[Project Euler](https://projecteuler.net/)** <Badge type="tip" text="Free" />
   - Mathematical and computational programming problems.
+- **[VisualAlgo](https://visualgo.net/)** <Badge type="tip" text="Free" />
+  - Interactive algorithm visualizations for sorting, graph, and data structure algorithms.
+- **[USACO Guide](https://usaco.guide/)** <Badge type="tip" text="Free" />
+  - Curated learning path for competitive programming from bronze to platinum.
+- **[CP-Algorithms](https://cp-algorithms.com/)** <Badge type="tip" text="Free" />
+  - Comprehensive archive of algorithms and data structures with implementations.

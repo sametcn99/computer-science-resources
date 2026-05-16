@@ -7,11 +7,11 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Subcategories
 
-- **[Coding Exercises & Practice](/resources/interactive/coding-exercises)** - 30 resources (12 free, 10 freemium, 8 paid)
-- **[Algorithms & Data Structures](/resources/interactive/algorithms)** - 18 resources (12 free, 6 freemium, 0 paid)
-- **[SQL & Database Practice](/resources/interactive/sql-practice)** - 10 resources (8 free, 2 freemium, 0 paid)
+- **[Coding Exercises & Practice](/resources/interactive/coding-exercises)** - 35 resources (14 free, 11 freemium, 10 paid)
+- **[Algorithms & Data Structures](/resources/interactive/algorithms)** - 23 resources (15 free, 8 freemium, 0 paid)
+- **[SQL & Database Practice](/resources/interactive/sql-practice)** - 15 resources (11 free, 4 freemium, 0 paid)
 
-## All Resources (58)
+## All Resources (73)
 
 ### Coding Exercises & Practice
 
@@ -75,6 +75,16 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free one-on-one mentorship for code improvement in 70+ languages.
 - **[Codebasil](https://codebasil.io/)** <Badge type="warning" text="Freemium" />
   - Mock coding interviews with real-time collaboration.
+- **[Edabit](https://edabit.com/)** <Badge type="warning" text="Freemium" />
+  - Beginner-friendly coding challenges with instant feedback in multiple languages.
+- **[CodingBat](https://codingbat.com/)** <Badge type="tip" text="Free" />
+  - Free practice problems for Java and Python with instant testing.
+- **[Sphere Online Judge](https://www.spoj.com/)** <Badge type="tip" text="Free" />
+  - Large collection of algorithmic problems with community solutions.
+- **[VetBoss](https://www.vetboss.com/)** <Badge type="danger" text="Paid" />
+  - System design and coding interview simulation with real-world scenarios.
+- **[AlgoExpert - Systems Expert](https://www.algoexpert.io/products#systemsexpert)** <Badge type="danger" text="Paid" />
+  - System design interview course with real-world architecture problems.
 
 ### Algorithms & Data Structures
 
@@ -114,6 +124,16 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Programming problems for beginners to experts.
 - **[Project Euler](https://projecteuler.net/)** <Badge type="tip" text="Free" />
   - Mathematical and computational programming problems.
+- **[VisualAlgo](https://visualgo.net/)** <Badge type="tip" text="Free" />
+  - Interactive algorithm visualizations for sorting, graph, and data structure algorithms.
+- **[USACO Guide](https://usaco.guide/)** <Badge type="tip" text="Free" />
+  - Curated learning path for competitive programming from bronze to platinum.
+- **[CP-Algorithms](https://cp-algorithms.com/)** <Badge type="tip" text="Free" />
+  - Comprehensive archive of algorithms and data structures with implementations.
+- **[Brilliant - Computer Science](https://brilliant.org/courses/computer-science/)** <Badge type="warning" text="Freemium" />
+  - Interactive CS fundamentals including algorithms, logic, and cryptography.
+- **[GeeksforGeeks - DSA Self Paced](https://practice.geeksforgeeks.org/courses/dsa-self-paced)** <Badge type="warning" text="Freemium" />
+  - Structured data structures and algorithms course with practice problems.
 
 ### SQL & Database Practice
 
@@ -137,3 +157,13 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free online SQL database playground.
 - **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
   - SQL-based space strategy game.
+- **[SQLBolt Interactive](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorial with exercises built into the browser.
+- **[pgExercises](https://pgexercises.com/)** <Badge type="tip" text="Free" />
+  - PostgreSQL exercises from basic to advanced with a real database schema.
+- **[SQL Practice](https://sql-practice.com/)** <Badge type="tip" text="Free" />
+  - Browser-based SQL practice with instant query execution and results.
+- **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
+  - SQL interview questions from top tech companies with solutions.
+- **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
+  - Real SQL and Python interview questions from FAANG companies.

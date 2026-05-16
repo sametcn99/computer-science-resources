@@ -7,10 +7,10 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Subcategories
 
-- **[Technical Interview](/resources/interview/technical-interview)** - 17 resources (6 free, 3 freemium, 8 paid)
-- **[System Design](/resources/interview/system-design)** - 9 resources (5 free, 1 freemium, 3 paid)
+- **[Technical Interview](/resources/interview/technical-interview)** - 22 resources (8 free, 5 freemium, 9 paid)
+- **[System Design](/resources/interview/system-design)** - 14 resources (7 free, 2 freemium, 5 paid)
 
-## All Resources (26)
+## All Resources (36)
 
 ### Technical Interview
 
@@ -48,6 +48,16 @@ Practice for technical interviews, system design, and behavioral questions.
   - Technical interview preparation program.
 - **[Interview Ready](https://www.interviewready.io/)** <Badge type="danger" text="Paid" />
   - System design and coding interview prep platform.
+- **[Tech Interview Handbook](https://www.techinterviewhandbook.org/)** <Badge type="tip" text="Free" />
+  - Curated interview preparation guide covering algorithms, behavioral, and resume tips.
+- **[Blind 75](https://www.teamblind.com/post/New-Year-Gift---A-List-of-75-LeetCode-Questions-to-Get-Your-Interview-Ready)** <Badge type="tip" text="Free" />
+  - Curated list of 75 essential LeetCode problems for interview prep.
+- **[Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)** <Badge type="danger" text="Paid" />
+  - Pattern-based approach to solving coding interview problems.
+- **[Hello Interview](https://www.hellointerview.com/)** <Badge type="warning" text="Freemium" />
+  - AI-powered interview prep with mock interviews and problem walkthroughs.
+- **[ByteByteGo - System Design Interview](https://bytebytego.com/)** <Badge type="warning" text="Freemium" />
+  - System design interview preparation with visual architecture explanations.
 
 ### System Design
 
@@ -69,3 +79,13 @@ Practice for technical interviews, system design, and behavioral questions.
   - Free system design learning resources.
 - **[Scale Up](https://www.educative.io/scale-up)** <Badge type="danger" text="Paid" />
   - System design course for experienced engineers.
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
+  - GitHub repository with comprehensive system design interview resources.
+- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** <Badge type="danger" text="Paid" />
+  - In-depth course on designing large-scale distributed systems.
+- **[High Scalability](http://highscalability.com/)** <Badge type="tip" text="Free" />
+  - Real-world system architecture case studies from popular companies.
+- **[The System Design Newsletter](https://blog.pragmaticengineer.com/)** <Badge type="warning" text="Freemium" />
+  - Newsletter covering system design topics and engineering leadership.
+- **[Designing Data-Intensive Applications](https://dataintensive.net/)** <Badge type="danger" text="Paid" />
+  - Book on distributed systems, databases, and data processing architectures.

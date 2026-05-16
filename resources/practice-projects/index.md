@@ -7,9 +7,9 @@ Build real-world projects to learn and practice programming skills.
 
 ## Subcategories
 
-- **[Build Projects](/resources/practice-projects/build-projects)** - 10 resources (10 free, 0 freemium, 0 paid)
+- **[Build Projects](/resources/practice-projects/build-projects)** - 15 resources (14 free, 1 freemium, 0 paid)
 
-## All Resources (10)
+## All Resources (15)
 
 ### Build Projects
 
@@ -33,3 +33,13 @@ Build real-world projects to learn and practice programming skills.
   - Design portfolios and project inspiration.
 - **[Dev.to](https://dev.to/)** <Badge type="tip" text="Free" />
   - Developer community to share projects.
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** <Badge type="tip" text="Free" />
+  - Curated list of tutorials to build databases, compilers, Docker, and more from scratch.
+- **[App Ideas Collection](https://github.com/florinpop17/app-ideas)** <Badge type="tip" text="Free" />
+  - Progressive project ideas from beginner to advanced for portfolio building.
+- **[100Devs Projects](https://www.100devs.org/)** <Badge type="tip" text="Free" />
+  - Free full-stack development projects from Leon Noel's bootcamp.
+- **[Frontend Mentor](https://www.frontendmentor.io/)** <Badge type="warning" text="Freemium" />
+  - Real-world frontend challenges with designs and starter files.
+- **[JavaScript 30](https://javascript30.com/)** <Badge type="tip" text="Free" />
+  - 30-day vanilla JavaScript coding challenge building real projects.

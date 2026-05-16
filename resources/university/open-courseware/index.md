@@ -7,9 +7,9 @@ Free university-level computer science education.
 
 ## Filter by Price
 
-- [All](/resources/university/open-courseware) - 12 resources
-- [Free](/resources/university/open-courseware/free) - 12 resources
-- [Freemium](/resources/university/open-courseware/freemium) - 0 resources
+- [All](/resources/university/open-courseware) - 17 resources
+- [Free](/resources/university/open-courseware/free) - 16 resources
+- [Freemium](/resources/university/open-courseware/freemium) - 1 resources
 - [Paid](/resources/university/open-courseware/paid) - 0 resources
 
 ## All Resources
@@ -38,3 +38,13 @@ Free university-level computer science education.
   - Harvard CS50 video lectures archive.
 - **[Free CS Books](https://github.com/EbookFoundation/free-programming-books)** <Badge type="tip" text="Free" />
   - Free programming and CS textbooks.
+- **[Stanford Online](https://online.stanford.edu/)** <Badge type="warning" text="Freemium" />
+  - Free and paid Stanford courses in computer science and engineering.
+- **[Carnegie Mellon OLI](https://oli.cmu.edu/)** <Badge type="tip" text="Free" />
+  - Free Open Learning Initiative courses from Carnegie Mellon University.
+- **[NPTEL](https://nptel.ac.in/)** <Badge type="tip" text="Free" />
+  - Indian Institutes of Technology free engineering and CS courses.
+- **[OpenLearn - OU](https://www.open.edu/openlearn/)** <Badge type="tip" text="Free" />
+  - Free computing and IT courses from The Open University.
+- **[UC Berkeley Webcasts](https://webcast.berkeley.edu/)** <Badge type="tip" text="Free" />
+  - Free video recordings of UC Berkeley CS lectures and courses.

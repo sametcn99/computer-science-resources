@@ -7,12 +7,12 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/technical-interview) - 17 resources
-- [Free](/resources/interview/technical-interview/free) - 6 resources
-- [Freemium](/resources/interview/technical-interview/freemium) - 3 resources
-- [Paid](/resources/interview/technical-interview/paid) - 8 resources
+- [All](/resources/interview/technical-interview) - 22 resources
+- [Free](/resources/interview/technical-interview/free) - 8 resources
+- [Freemium](/resources/interview/technical-interview/freemium) - 5 resources
+- [Paid](/resources/interview/technical-interview/paid) - 9 resources
 
-## Paid Resources (8)
+## Paid Resources (9)
 
 - **[Interview Buddy](https://www.interviewbuddy.co/)** <Badge type="danger" text="Paid" />
   - Mock interviews with real engineers from top companies.
@@ -30,3 +30,5 @@ Practice for technical interviews, system design, and behavioral questions.
   - Technical interview preparation program.
 - **[Interview Ready](https://www.interviewready.io/)** <Badge type="danger" text="Paid" />
   - System design and coding interview prep platform.
+- **[Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)** <Badge type="danger" text="Paid" />
+  - Pattern-based approach to solving coding interview problems.

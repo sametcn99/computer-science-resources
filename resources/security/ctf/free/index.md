@@ -7,12 +7,12 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Filter by Price
 
-- [All](/resources/security/ctf) - 13 resources
-- [Free](/resources/security/ctf/free) - 9 resources
+- [All](/resources/security/ctf) - 18 resources
+- [Free](/resources/security/ctf/free) - 14 resources
 - [Freemium](/resources/security/ctf/freemium) - 4 resources
 - [Paid](/resources/security/ctf/paid) - 0 resources
 
-## Free Resources (9)
+## Free Resources (14)
 
 - **[picoCTF](https://picoctf.org/)** <Badge type="tip" text="Free" />
   - Free beginner-friendly cybersecurity competition.
@@ -32,3 +32,13 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Embedded security challenges.
 - **[OverTheWire - Challenges](https://overthewire.org/wargames/)** <Badge type="tip" text="Free" />
   - Security wargames for learning.
+- **[PicoCTF](https://picoctf.org/)** <Badge type="tip" text="Free" />
+  - Beginner-friendly CTF competition designed for high school students.
+- **[CTFlearn](https://ctflearn.com/)** <Badge type="tip" text="Free" />
+  - Community-driven CTF platform with challenges across multiple categories.
+- **[Root Me](https://www.root-me.org/)** <Badge type="tip" text="Free" />
+  - French-origin hacking challenges platform with real-world scenarios.
+- **[CryptoHack](https://cryptohack.org/)** <Badge type="tip" text="Free" />
+  - Interactive cryptography challenges from basics to advanced ciphers.
+- **[ImaginaryCTF](https://imaginaryctf.org/)** <Badge type="tip" text="Free" />
+  - Regular CTF competitions with beginner-friendly challenges and writeups.

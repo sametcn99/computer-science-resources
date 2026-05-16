@@ -7,10 +7,10 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Filter by Price
 
-- [All](/resources/security/security-training) - 13 resources
-- [Free](/resources/security/security-training/free) - 10 resources
-- [Freemium](/resources/security/security-training/freemium) - 2 resources
-- [Paid](/resources/security/security-training/paid) - 1 resources
+- [All](/resources/security/security-training) - 18 resources
+- [Free](/resources/security/security-training/free) - 12 resources
+- [Freemium](/resources/security/security-training/freemium) - 4 resources
+- [Paid](/resources/security/security-training/paid) - 2 resources
 
 ## All Resources
 
@@ -40,3 +40,13 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Various hacking challenges platform.
 - **[Pentest-Tools](https://pentest-tools.com/)** <Badge type="warning" text="Freemium" />
   - Online security testing tools.
+- **[OWASP WebGoat](https://owasp.org/www-project-webgoat/)** <Badge type="tip" text="Free" />
+  - Deliberately insecure web application for learning web security flaws.
+- **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** <Badge type="tip" text="Free" />
+  - Free web security training with hands-on labs for common vulnerabilities.
+- **[CyberDefenders](https://cyberdefenders.org/)** <Badge type="warning" text="Freemium" />
+  - Blue team training platform with real-world incident response challenges.
+- **[TryHackMe](https://tryhackme.com/)** <Badge type="warning" text="Freemium" />
+  - Guided cybersecurity learning paths from beginner to advanced.
+- **[RangeForce](https://www.rangeforce.com/)** <Badge type="danger" text="Paid" />
+  - Interactive cybersecurity training with gamified modules and simulations.

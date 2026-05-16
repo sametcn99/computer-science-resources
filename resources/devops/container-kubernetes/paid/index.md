@@ -7,9 +7,12 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Filter by Price
 
-- [All](/resources/devops/container-kubernetes) - 9 resources
-- [Free](/resources/devops/container-kubernetes/free) - 9 resources
-- [Freemium](/resources/devops/container-kubernetes/freemium) - 0 resources
-- [Paid](/resources/devops/container-kubernetes/paid) - 0 resources
+- [All](/resources/devops/container-kubernetes) - 14 resources
+- [Free](/resources/devops/container-kubernetes/free) - 12 resources
+- [Freemium](/resources/devops/container-kubernetes/freemium) - 1 resources
+- [Paid](/resources/devops/container-kubernetes/paid) - 1 resources
 
-## Paid Resources (0)
+## Paid Resources (1)
+
+- **[Killer.sh](https://killer.sh/)** <Badge type="danger" text="Paid" />
+  - CKA/CKS exam simulator with realistic Kubernetes challenges.

@@ -7,10 +7,10 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Filter by Price
 
-- [All](/resources/devops/cloud-practice) - 6 resources
-- [Free](/resources/devops/cloud-practice/free) - 3 resources
-- [Freemium](/resources/devops/cloud-practice/freemium) - 1 resources
-- [Paid](/resources/devops/cloud-practice/paid) - 2 resources
+- [All](/resources/devops/cloud-practice) - 11 resources
+- [Free](/resources/devops/cloud-practice/free) - 5 resources
+- [Freemium](/resources/devops/cloud-practice/freemium) - 2 resources
+- [Paid](/resources/devops/cloud-practice/paid) - 4 resources
 
 ## All Resources
 
@@ -26,3 +26,13 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Cloud computing training and labs.
 - **[A Cloud Guru](https://acloudguru.com/)** <Badge type="danger" text="Paid" />
   - Cloud certification training courses.
+- **[AWS Skill Builder](https://explore.skillbuilder.aws/)** <Badge type="tip" text="Free" />
+  - Free AWS training with digital courses and hands-on lab exercises.
+- **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)** <Badge type="warning" text="Freemium" />
+  - Hands-on labs and quests for Google Cloud Platform services.
+- **[Azure Learn Modules](https://learn.microsoft.com/en-us/training/)** <Badge type="tip" text="Free" />
+  - Interactive Azure learning paths with sandbox environments.
+- **[Whizlabs](https://www.whizlabs.com/)** <Badge type="danger" text="Paid" />
+  - Cloud certification prep with practice tests and hands-on labs.
+- **[A Cloud Guru](https://acloudguru.com/)** <Badge type="danger" text="Paid" />
+  - Cloud certification courses for AWS, Azure, and GCP with hands-on labs.

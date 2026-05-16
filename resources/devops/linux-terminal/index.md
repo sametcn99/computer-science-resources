@@ -7,9 +7,9 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Filter by Price
 
-- [All](/resources/devops/linux-terminal) - 12 resources
-- [Free](/resources/devops/linux-terminal/free) - 11 resources
-- [Freemium](/resources/devops/linux-terminal/freemium) - 1 resources
+- [All](/resources/devops/linux-terminal) - 17 resources
+- [Free](/resources/devops/linux-terminal/free) - 15 resources
+- [Freemium](/resources/devops/linux-terminal/freemium) - 2 resources
 - [Paid](/resources/devops/linux-terminal/paid) - 0 resources
 
 ## All Resources
@@ -38,3 +38,13 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Terminal practice with challenges.
 - **[Root Me](https://www.root-me.org/?lang=en)** <Badge type="tip" text="Free" />
   - Linux system challenges and exercises.
+- **[OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)** <Badge type="tip" text="Free" />
+  - Wargame that teaches Linux command line basics through progressive challenges.
+- **[Linux Journey](https://linuxjourney.com/)** <Badge type="tip" text="Free" />
+  - Free interactive guide covering Linux fundamentals from beginner to advanced.
+- **[Command Line Challenge](https://cmdchallenge.com/)** <Badge type="tip" text="Free" />
+  - Browser-based bash command line challenges with instant feedback.
+- **[SadServers](https://sadservers.com/)** <Badge type="warning" text="Freemium" />
+  - Linux troubleshooting scenarios in real browser-based terminal environments.
+- **[Terminus Game](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)** <Badge type="tip" text="Free" />
+  - Interactive game teaching terminal commands through puzzle-solving.

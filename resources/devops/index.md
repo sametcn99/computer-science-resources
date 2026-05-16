@@ -7,11 +7,11 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Subcategories
 
-- **[Linux & Terminal](/resources/devops/linux-terminal)** - 12 resources (11 free, 1 freemium, 0 paid)
-- **[Container & Kubernetes](/resources/devops/container-kubernetes)** - 9 resources (9 free, 0 freemium, 0 paid)
-- **[Cloud Platforms](/resources/devops/cloud-practice)** - 6 resources (3 free, 1 freemium, 2 paid)
+- **[Linux & Terminal](/resources/devops/linux-terminal)** - 17 resources (15 free, 2 freemium, 0 paid)
+- **[Container & Kubernetes](/resources/devops/container-kubernetes)** - 14 resources (12 free, 1 freemium, 1 paid)
+- **[Cloud Platforms](/resources/devops/cloud-practice)** - 11 resources (5 free, 2 freemium, 4 paid)
 
-## All Resources (27)
+## All Resources (42)
 
 ### Linux & Terminal
 
@@ -39,6 +39,16 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Terminal practice with challenges.
 - **[Root Me](https://www.root-me.org/?lang=en)** <Badge type="tip" text="Free" />
   - Linux system challenges and exercises.
+- **[OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)** <Badge type="tip" text="Free" />
+  - Wargame that teaches Linux command line basics through progressive challenges.
+- **[Linux Journey](https://linuxjourney.com/)** <Badge type="tip" text="Free" />
+  - Free interactive guide covering Linux fundamentals from beginner to advanced.
+- **[Command Line Challenge](https://cmdchallenge.com/)** <Badge type="tip" text="Free" />
+  - Browser-based bash command line challenges with instant feedback.
+- **[SadServers](https://sadservers.com/)** <Badge type="warning" text="Freemium" />
+  - Linux troubleshooting scenarios in real browser-based terminal environments.
+- **[Terminus Game](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)** <Badge type="tip" text="Free" />
+  - Interactive game teaching terminal commands through puzzle-solving.
 
 ### Container & Kubernetes
 
@@ -60,6 +70,16 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Free Kubernetes learning platform.
 - **[Dcos Academy](https://dcos.io/learn/)** <Badge type="tip" text="Free" />
   - Container orchestration training.
+- **[Kubernetes Docs - Tutorials](https://kubernetes.io/docs/tutorials/)** <Badge type="tip" text="Free" />
+  - Official Kubernetes interactive tutorials for beginners and advanced users.
+- **[Killer.sh](https://killer.sh/)** <Badge type="danger" text="Paid" />
+  - CKA/CKS exam simulator with realistic Kubernetes challenges.
+- **[KodeKloud](https://kodekloud.com/)** <Badge type="warning" text="Freemium" />
+  - Hands-on Kubernetes and DevOps courses with lab environments.
+- **[Docker Curriculum](https://docker-curriculum.com/)** <Badge type="tip" text="Free" />
+  - Step-by-step Docker tutorial from basics to production deployment.
+- **[Play with Kubernetes](https://labs.play-with-k8s.com/)** <Badge type="tip" text="Free" />
+  - Free browser-based Kubernetes playground with multi-node clusters.
 
 ### Cloud Platforms
 
@@ -75,3 +95,13 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Cloud computing training and labs.
 - **[A Cloud Guru](https://acloudguru.com/)** <Badge type="danger" text="Paid" />
   - Cloud certification training courses.
+- **[AWS Skill Builder](https://explore.skillbuilder.aws/)** <Badge type="tip" text="Free" />
+  - Free AWS training with digital courses and hands-on lab exercises.
+- **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)** <Badge type="warning" text="Freemium" />
+  - Hands-on labs and quests for Google Cloud Platform services.
+- **[Azure Learn Modules](https://learn.microsoft.com/en-us/training/)** <Badge type="tip" text="Free" />
+  - Interactive Azure learning paths with sandbox environments.
+- **[Whizlabs](https://www.whizlabs.com/)** <Badge type="danger" text="Paid" />
+  - Cloud certification prep with practice tests and hands-on labs.
+- **[A Cloud Guru](https://acloudguru.com/)** <Badge type="danger" text="Paid" />
+  - Cloud certification courses for AWS, Azure, and GCP with hands-on labs.

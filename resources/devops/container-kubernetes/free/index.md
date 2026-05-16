@@ -7,12 +7,12 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Filter by Price
 
-- [All](/resources/devops/container-kubernetes) - 9 resources
-- [Free](/resources/devops/container-kubernetes/free) - 9 resources
-- [Freemium](/resources/devops/container-kubernetes/freemium) - 0 resources
-- [Paid](/resources/devops/container-kubernetes/paid) - 0 resources
+- [All](/resources/devops/container-kubernetes) - 14 resources
+- [Free](/resources/devops/container-kubernetes/free) - 12 resources
+- [Freemium](/resources/devops/container-kubernetes/freemium) - 1 resources
+- [Paid](/resources/devops/container-kubernetes/paid) - 1 resources
 
-## Free Resources (9)
+## Free Resources (12)
 
 - **[Play with Docker](https://play.docker.com/)** <Badge type="tip" text="Free" />
   - Free browser-based Docker playground and training.
@@ -32,3 +32,9 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Free Kubernetes learning platform.
 - **[Dcos Academy](https://dcos.io/learn/)** <Badge type="tip" text="Free" />
   - Container orchestration training.
+- **[Kubernetes Docs - Tutorials](https://kubernetes.io/docs/tutorials/)** <Badge type="tip" text="Free" />
+  - Official Kubernetes interactive tutorials for beginners and advanced users.
+- **[Docker Curriculum](https://docker-curriculum.com/)** <Badge type="tip" text="Free" />
+  - Step-by-step Docker tutorial from basics to production deployment.
+- **[Play with Kubernetes](https://labs.play-with-k8s.com/)** <Badge type="tip" text="Free" />
+  - Free browser-based Kubernetes playground with multi-node clusters.

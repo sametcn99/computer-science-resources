@@ -7,12 +7,12 @@ University-level courses, certifications, and guided learning paths.
 
 ## Filter by Price
 
-- [All](/resources/courses/course-platforms) - 26 resources
-- [Free](/resources/courses/course-platforms/free) - 7 resources
+- [All](/resources/courses/course-platforms) - 31 resources
+- [Free](/resources/courses/course-platforms/free) - 10 resources
 - [Freemium](/resources/courses/course-platforms/freemium) - 10 resources
-- [Paid](/resources/courses/course-platforms/paid) - 9 resources
+- [Paid](/resources/courses/course-platforms/paid) - 11 resources
 
-## Paid Resources (9)
+## Paid Resources (11)
 
 - **[Udacity](https://www.udacity.com/)** <Badge type="danger" text="Paid" />
   - Nanodegree programs focused on software engineering, AI, cloud, and data.
@@ -32,3 +32,7 @@ University-level courses, certifications, and guided learning paths.
   - Cloud and Linux training courses.
 - **[O'Reilly Learning](https://www.oreilly.com/)** <Badge type="danger" text="Paid" />
   - Technical books, videos, and courses platform.
+- **[Pathrise](https://www.pathrise.com/)** <Badge type="danger" text="Paid" />
+  - Career accelerator with mentorship for tech job seekers.
+- **[Maven](https://maven.com/)** <Badge type="danger" text="Paid" />
+  - Cohort-based courses taught by industry experts on specialized topics.

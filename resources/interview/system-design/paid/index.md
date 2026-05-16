@@ -7,12 +7,12 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/system-design) - 9 resources
-- [Free](/resources/interview/system-design/free) - 5 resources
-- [Freemium](/resources/interview/system-design/freemium) - 1 resources
-- [Paid](/resources/interview/system-design/paid) - 3 resources
+- [All](/resources/interview/system-design) - 14 resources
+- [Free](/resources/interview/system-design/free) - 7 resources
+- [Freemium](/resources/interview/system-design/freemium) - 2 resources
+- [Paid](/resources/interview/system-design/paid) - 5 resources
 
-## Paid Resources (3)
+## Paid Resources (5)
 
 - **[Grokking the System Design](https://www.educative.io/courses/grokking-the-system-design-interview)** <Badge type="danger" text="Paid" />
   - System design course with real-world examples.
@@ -20,3 +20,7 @@ Practice for technical interviews, system design, and behavioral questions.
   - Comprehensive system design preparation course.
 - **[Scale Up](https://www.educative.io/scale-up)** <Badge type="danger" text="Paid" />
   - System design course for experienced engineers.
+- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** <Badge type="danger" text="Paid" />
+  - In-depth course on designing large-scale distributed systems.
+- **[Designing Data-Intensive Applications](https://dataintensive.net/)** <Badge type="danger" text="Paid" />
+  - Book on distributed systems, databases, and data processing architectures.

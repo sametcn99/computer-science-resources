@@ -7,10 +7,10 @@ University-level courses, certifications, and guided learning paths.
 
 ## Filter by Price
 
-- [All](/resources/courses/course-platforms) - 26 resources
-- [Free](/resources/courses/course-platforms/free) - 7 resources
+- [All](/resources/courses/course-platforms) - 31 resources
+- [Free](/resources/courses/course-platforms/free) - 10 resources
 - [Freemium](/resources/courses/course-platforms/freemium) - 10 resources
-- [Paid](/resources/courses/course-platforms/paid) - 9 resources
+- [Paid](/resources/courses/course-platforms/paid) - 11 resources
 
 ## Freemium Resources (10)
 

@@ -7,12 +7,12 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/technical-interview) - 17 resources
-- [Free](/resources/interview/technical-interview/free) - 6 resources
-- [Freemium](/resources/interview/technical-interview/freemium) - 3 resources
-- [Paid](/resources/interview/technical-interview/paid) - 8 resources
+- [All](/resources/interview/technical-interview) - 22 resources
+- [Free](/resources/interview/technical-interview/free) - 8 resources
+- [Freemium](/resources/interview/technical-interview/freemium) - 5 resources
+- [Paid](/resources/interview/technical-interview/paid) - 9 resources
 
-## Free Resources (6)
+## Free Resources (8)
 
 - **[Interviewing.io](https://interviewing.io/)** <Badge type="tip" text="Free" />
   - Free anonymous technical interview practice with real engineers.
@@ -26,3 +26,7 @@ Practice for technical interviews, system design, and behavioral questions.
   - Curated problems for interview preparation.
 - **[Impossible Interviews](https://impossible-interviews.com/)** <Badge type="tip" text="Free" />
   - Collection of real interview questions from tech companies.
+- **[Tech Interview Handbook](https://www.techinterviewhandbook.org/)** <Badge type="tip" text="Free" />
+  - Curated interview preparation guide covering algorithms, behavioral, and resume tips.
+- **[Blind 75](https://www.teamblind.com/post/New-Year-Gift---A-List-of-75-LeetCode-Questions-to-Get-Your-Interview-Ready)** <Badge type="tip" text="Free" />
+  - Curated list of 75 essential LeetCode problems for interview prep.

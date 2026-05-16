@@ -7,10 +7,10 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/coding-exercises) - 30 resources
-- [Free](/resources/interactive/coding-exercises/free) - 12 resources
-- [Freemium](/resources/interactive/coding-exercises/freemium) - 10 resources
-- [Paid](/resources/interactive/coding-exercises/paid) - 8 resources
+- [All](/resources/interactive/coding-exercises) - 35 resources
+- [Free](/resources/interactive/coding-exercises/free) - 14 resources
+- [Freemium](/resources/interactive/coding-exercises/freemium) - 11 resources
+- [Paid](/resources/interactive/coding-exercises/paid) - 10 resources
 
 ## All Resources
 
@@ -74,3 +74,13 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free one-on-one mentorship for code improvement in 70+ languages.
 - **[Codebasil](https://codebasil.io/)** <Badge type="warning" text="Freemium" />
   - Mock coding interviews with real-time collaboration.
+- **[Edabit](https://edabit.com/)** <Badge type="warning" text="Freemium" />
+  - Beginner-friendly coding challenges with instant feedback in multiple languages.
+- **[CodingBat](https://codingbat.com/)** <Badge type="tip" text="Free" />
+  - Free practice problems for Java and Python with instant testing.
+- **[Sphere Online Judge](https://www.spoj.com/)** <Badge type="tip" text="Free" />
+  - Large collection of algorithmic problems with community solutions.
+- **[VetBoss](https://www.vetboss.com/)** <Badge type="danger" text="Paid" />
+  - System design and coding interview simulation with real-world scenarios.
+- **[AlgoExpert - Systems Expert](https://www.algoexpert.io/products#systemsexpert)** <Badge type="danger" text="Paid" />
+  - System design interview course with real-world architecture problems.

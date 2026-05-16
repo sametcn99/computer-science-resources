@@ -50,7 +50,7 @@ export default defineConfig({
       { text: 'Resources', link: '/resources' },
       {
         text: 'Contribute',
-        link: 'https://github.com/sametcn99/computer-science-resources/main/CONTRIBUTING.md'
+        link: 'https://github.com/sametcn99/computer-science-resources/blob/main/CONTRIBUTING.md'
       }
     ],
 
@@ -78,7 +78,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/sametcn99/computer-science-resources/main/CONTRIBUTING.md',
+      pattern: 'https://github.com/sametcn99/computer-science-resources/blob/main/CONTRIBUTING.md',
       text: 'Edit this page on GitHub'
     },
 

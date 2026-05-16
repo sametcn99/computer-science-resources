@@ -190,6 +190,36 @@
               "url": "https://codebasil.io/",
               "description": "Mock coding interviews with real-time collaboration.",
               "price": "freemium"
+            },
+            {
+              "name": "Edabit",
+              "url": "https://edabit.com/",
+              "description": "Beginner-friendly coding challenges with instant feedback in multiple languages.",
+              "price": "freemium"
+            },
+            {
+              "name": "CodingBat",
+              "url": "https://codingbat.com/",
+              "description": "Free practice problems for Java and Python with instant testing.",
+              "price": "free"
+            },
+            {
+              "name": "Sphere Online Judge",
+              "url": "https://www.spoj.com/",
+              "description": "Large collection of algorithmic problems with community solutions.",
+              "price": "free"
+            },
+            {
+              "name": "VetBoss",
+              "url": "https://www.vetboss.com/",
+              "description": "System design and coding interview simulation with real-world scenarios.",
+              "price": "paid"
+            },
+            {
+              "name": "AlgoExpert - Systems Expert",
+              "url": "https://www.algoexpert.io/products#systemsexpert",
+              "description": "System design interview course with real-world architecture problems.",
+              "price": "paid"
             }
           ]
         },
@@ -304,6 +334,36 @@
               "url": "https://projecteuler.net/",
               "description": "Mathematical and computational programming problems.",
               "price": "free"
+            },
+            {
+              "name": "VisualAlgo",
+              "url": "https://visualgo.net/",
+              "description": "Interactive algorithm visualizations for sorting, graph, and data structure algorithms.",
+              "price": "free"
+            },
+            {
+              "name": "USACO Guide",
+              "url": "https://usaco.guide/",
+              "description": "Curated learning path for competitive programming from bronze to platinum.",
+              "price": "free"
+            },
+            {
+              "name": "CP-Algorithms",
+              "url": "https://cp-algorithms.com/",
+              "description": "Comprehensive archive of algorithms and data structures with implementations.",
+              "price": "free"
+            },
+            {
+              "name": "Brilliant - Computer Science",
+              "url": "https://brilliant.org/courses/computer-science/",
+              "description": "Interactive CS fundamentals including algorithms, logic, and cryptography.",
+              "price": "freemium"
+            },
+            {
+              "name": "GeeksforGeeks - DSA Self Paced",
+              "url": "https://practice.geeksforgeeks.org/courses/dsa-self-paced",
+              "description": "Structured data structures and algorithms course with practice problems.",
+              "price": "freemium"
             }
           ]
         },
@@ -370,6 +430,36 @@
               "url": "https://schemaverse.com/",
               "description": "SQL-based space strategy game.",
               "price": "free"
+            },
+            {
+              "name": "SQLBolt Interactive",
+              "url": "https://sqlbolt.com/",
+              "description": "Interactive SQL tutorial with exercises built into the browser.",
+              "price": "free"
+            },
+            {
+              "name": "pgExercises",
+              "url": "https://pgexercises.com/",
+              "description": "PostgreSQL exercises from basic to advanced with a real database schema.",
+              "price": "free"
+            },
+            {
+              "name": "SQL Practice",
+              "url": "https://sql-practice.com/",
+              "description": "Browser-based SQL practice with instant query execution and results.",
+              "price": "free"
+            },
+            {
+              "name": "DataLemur",
+              "url": "https://datalemur.com/",
+              "description": "SQL interview questions from top tech companies with solutions.",
+              "price": "freemium"
+            },
+            {
+              "name": "StrataScratch",
+              "url": "https://www.stratascratch.com/",
+              "description": "Real SQL and Python interview questions from FAANG companies.",
+              "price": "freemium"
             }
           ]
         }
@@ -540,6 +630,36 @@
               "url": "https://www.oreilly.com/",
               "description": "Technical books, videos, and courses platform.",
               "price": "paid"
+            },
+            {
+              "name": "MIT OpenCourseWare",
+              "url": "https://ocw.mit.edu/",
+              "description": "Free MIT course materials including lectures, notes, and assignments.",
+              "price": "free"
+            },
+            {
+              "name": "Full Stack Open",
+              "url": "https://fullstackopen.com/",
+              "description": "University of Helsinki's free full-stack web development course.",
+              "price": "free"
+            },
+            {
+              "name": "CS50",
+              "url": "https://cs50.harvard.edu/",
+              "description": "Harvard's introduction to computer science, available free online.",
+              "price": "free"
+            },
+            {
+              "name": "Pathrise",
+              "url": "https://www.pathrise.com/",
+              "description": "Career accelerator with mentorship for tech job seekers.",
+              "price": "paid"
+            },
+            {
+              "name": "Maven",
+              "url": "https://maven.com/",
+              "description": "Cohort-based courses taught by industry experts on specialized topics.",
+              "price": "paid"
             }
           ]
         }
@@ -656,6 +776,36 @@
               "url": "https://www.interviewready.io/",
               "description": "System design and coding interview prep platform.",
               "price": "paid"
+            },
+            {
+              "name": "Tech Interview Handbook",
+              "url": "https://www.techinterviewhandbook.org/",
+              "description": "Curated interview preparation guide covering algorithms, behavioral, and resume tips.",
+              "price": "free"
+            },
+            {
+              "name": "Blind 75",
+              "url": "https://www.teamblind.com/post/New-Year-Gift---A-List-of-75-LeetCode-Questions-to-Get-Your-Interview-Ready",
+              "description": "Curated list of 75 essential LeetCode problems for interview prep.",
+              "price": "free"
+            },
+            {
+              "name": "Grokking the Coding Interview",
+              "url": "https://www.educative.io/courses/grokking-the-coding-interview",
+              "description": "Pattern-based approach to solving coding interview problems.",
+              "price": "paid"
+            },
+            {
+              "name": "Hello Interview",
+              "url": "https://www.hellointerview.com/",
+              "description": "AI-powered interview prep with mock interviews and problem walkthroughs.",
+              "price": "freemium"
+            },
+            {
+              "name": "ByteByteGo - System Design Interview",
+              "url": "https://bytebytego.com/",
+              "description": "System design interview preparation with visual architecture explanations.",
+              "price": "freemium"
             }
           ]
         },
@@ -715,6 +865,36 @@
               "name": "Scale Up",
               "url": "https://www.educative.io/scale-up",
               "description": "System design course for experienced engineers.",
+              "price": "paid"
+            },
+            {
+              "name": "System Design Primer",
+              "url": "https://github.com/donnemartin/system-design-primer",
+              "description": "GitHub repository with comprehensive system design interview resources.",
+              "price": "free"
+            },
+            {
+              "name": "Grokking the System Design Interview",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "description": "In-depth course on designing large-scale distributed systems.",
+              "price": "paid"
+            },
+            {
+              "name": "High Scalability",
+              "url": "http://highscalability.com/",
+              "description": "Real-world system architecture case studies from popular companies.",
+              "price": "free"
+            },
+            {
+              "name": "The System Design Newsletter",
+              "url": "https://blog.pragmaticengineer.com/",
+              "description": "Newsletter covering system design topics and engineering leadership.",
+              "price": "freemium"
+            },
+            {
+              "name": "Designing Data-Intensive Applications",
+              "url": "https://dataintensive.net/",
+              "description": "Book on distributed systems, databases, and data processing architectures.",
               "price": "paid"
             }
           ]
@@ -802,6 +982,36 @@
               "url": "https://www.root-me.org/?lang=en",
               "description": "Linux system challenges and exercises.",
               "price": "free"
+            },
+            {
+              "name": "OverTheWire - Bandit",
+              "url": "https://overthewire.org/wargames/bandit/",
+              "description": "Wargame that teaches Linux command line basics through progressive challenges.",
+              "price": "free"
+            },
+            {
+              "name": "Linux Journey",
+              "url": "https://linuxjourney.com/",
+              "description": "Free interactive guide covering Linux fundamentals from beginner to advanced.",
+              "price": "free"
+            },
+            {
+              "name": "Command Line Challenge",
+              "url": "https://cmdchallenge.com/",
+              "description": "Browser-based bash command line challenges with instant feedback.",
+              "price": "free"
+            },
+            {
+              "name": "SadServers",
+              "url": "https://sadservers.com/",
+              "description": "Linux troubleshooting scenarios in real browser-based terminal environments.",
+              "price": "freemium"
+            },
+            {
+              "name": "Terminus Game",
+              "url": "https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html",
+              "description": "Interactive game teaching terminal commands through puzzle-solving.",
+              "price": "free"
             }
           ]
         },
@@ -862,6 +1072,36 @@
               "url": "https://dcos.io/learn/",
               "description": "Container orchestration training.",
               "price": "free"
+            },
+            {
+              "name": "Kubernetes Docs - Tutorials",
+              "url": "https://kubernetes.io/docs/tutorials/",
+              "description": "Official Kubernetes interactive tutorials for beginners and advanced users.",
+              "price": "free"
+            },
+            {
+              "name": "Killer.sh",
+              "url": "https://killer.sh/",
+              "description": "CKA/CKS exam simulator with realistic Kubernetes challenges.",
+              "price": "paid"
+            },
+            {
+              "name": "KodeKloud",
+              "url": "https://kodekloud.com/",
+              "description": "Hands-on Kubernetes and DevOps courses with lab environments.",
+              "price": "freemium"
+            },
+            {
+              "name": "Docker Curriculum",
+              "url": "https://docker-curriculum.com/",
+              "description": "Step-by-step Docker tutorial from basics to production deployment.",
+              "price": "free"
+            },
+            {
+              "name": "Play with Kubernetes",
+              "url": "https://labs.play-with-k8s.com/",
+              "description": "Free browser-based Kubernetes playground with multi-node clusters.",
+              "price": "free"
             }
           ]
         },
@@ -903,6 +1143,36 @@
               "name": "A Cloud Guru",
               "url": "https://acloudguru.com/",
               "description": "Cloud certification training courses.",
+              "price": "paid"
+            },
+            {
+              "name": "AWS Skill Builder",
+              "url": "https://explore.skillbuilder.aws/",
+              "description": "Free AWS training with digital courses and hands-on lab exercises.",
+              "price": "free"
+            },
+            {
+              "name": "Google Cloud Skills Boost",
+              "url": "https://www.cloudskillsboost.google/",
+              "description": "Hands-on labs and quests for Google Cloud Platform services.",
+              "price": "freemium"
+            },
+            {
+              "name": "Azure Learn Modules",
+              "url": "https://learn.microsoft.com/en-us/training/",
+              "description": "Interactive Azure learning paths with sandbox environments.",
+              "price": "free"
+            },
+            {
+              "name": "Whizlabs",
+              "url": "https://www.whizlabs.com/",
+              "description": "Cloud certification prep with practice tests and hands-on labs.",
+              "price": "paid"
+            },
+            {
+              "name": "A Cloud Guru",
+              "url": "https://acloudguru.com/",
+              "description": "Cloud certification courses for AWS, Azure, and GCP with hands-on labs.",
               "price": "paid"
             }
           ]
@@ -996,6 +1266,36 @@
               "url": "https://overthewire.org/wargames/",
               "description": "Security wargames for learning.",
               "price": "free"
+            },
+            {
+              "name": "PicoCTF",
+              "url": "https://picoctf.org/",
+              "description": "Beginner-friendly CTF competition designed for high school students.",
+              "price": "free"
+            },
+            {
+              "name": "CTFlearn",
+              "url": "https://ctflearn.com/",
+              "description": "Community-driven CTF platform with challenges across multiple categories.",
+              "price": "free"
+            },
+            {
+              "name": "Root Me",
+              "url": "https://www.root-me.org/",
+              "description": "French-origin hacking challenges platform with real-world scenarios.",
+              "price": "free"
+            },
+            {
+              "name": "CryptoHack",
+              "url": "https://cryptohack.org/",
+              "description": "Interactive cryptography challenges from basics to advanced ciphers.",
+              "price": "free"
+            },
+            {
+              "name": "ImaginaryCTF",
+              "url": "https://imaginaryctf.org/",
+              "description": "Regular CTF competitions with beginner-friendly challenges and writeups.",
+              "price": "free"
             }
           ]
         },
@@ -1080,6 +1380,36 @@
               "url": "https://pentest-tools.com/",
               "description": "Online security testing tools.",
               "price": "freemium"
+            },
+            {
+              "name": "OWASP WebGoat",
+              "url": "https://owasp.org/www-project-webgoat/",
+              "description": "Deliberately insecure web application for learning web security flaws.",
+              "price": "free"
+            },
+            {
+              "name": "PortSwigger Web Security Academy",
+              "url": "https://portswigger.net/web-security",
+              "description": "Free web security training with hands-on labs for common vulnerabilities.",
+              "price": "free"
+            },
+            {
+              "name": "CyberDefenders",
+              "url": "https://cyberdefenders.org/",
+              "description": "Blue team training platform with real-world incident response challenges.",
+              "price": "freemium"
+            },
+            {
+              "name": "TryHackMe",
+              "url": "https://tryhackme.com/",
+              "description": "Guided cybersecurity learning paths from beginner to advanced.",
+              "price": "freemium"
+            },
+            {
+              "name": "RangeForce",
+              "url": "https://www.rangeforce.com/",
+              "description": "Interactive cybersecurity training with gamified modules and simulations.",
+              "price": "paid"
             }
           ]
         }
@@ -1208,6 +1538,36 @@
               "url": "https://codeception.io/",
               "description": "Learn coding through puzzles and challenges.",
               "price": "free"
+            },
+            {
+              "name": "Screeps",
+              "url": "https://screeps.com/",
+              "description": "MMO strategy game where you program your units with JavaScript.",
+              "price": "freemium"
+            },
+            {
+              "name": "TIS-100",
+              "url": "https://www.zachtronics.com/tis-100/",
+              "description": "Assembly language programming puzzle game by Zach Barth.",
+              "price": "paid"
+            },
+            {
+              "name": "Shenzhen I/O",
+              "url": "https://www.zachtronics.com/shenzhen-io/",
+              "description": "Circuit design and assembly programming puzzle game.",
+              "price": "paid"
+            },
+            {
+              "name": "Bitburner",
+              "url": "https://danielyxie.github.io/bitburner/",
+              "description": "Cyberpunk-themed idle game where you write scripts to automate hacking.",
+              "price": "free"
+            },
+            {
+              "name": "Human Resource Machine",
+              "url": "https://tomorrowcorporation.com/humanresourcemachine",
+              "description": "Programming puzzle game teaching low-level assembly concepts.",
+              "price": "paid"
             }
           ]
         }
@@ -1294,6 +1654,36 @@
               "url": "https://github.com/EbookFoundation/free-programming-books",
               "description": "Free programming and CS textbooks.",
               "price": "free"
+            },
+            {
+              "name": "Stanford Online",
+              "url": "https://online.stanford.edu/",
+              "description": "Free and paid Stanford courses in computer science and engineering.",
+              "price": "freemium"
+            },
+            {
+              "name": "Carnegie Mellon OLI",
+              "url": "https://oli.cmu.edu/",
+              "description": "Free Open Learning Initiative courses from Carnegie Mellon University.",
+              "price": "free"
+            },
+            {
+              "name": "NPTEL",
+              "url": "https://nptel.ac.in/",
+              "description": "Indian Institutes of Technology free engineering and CS courses.",
+              "price": "free"
+            },
+            {
+              "name": "OpenLearn - OU",
+              "url": "https://www.open.edu/openlearn/",
+              "description": "Free computing and IT courses from The Open University.",
+              "price": "free"
+            },
+            {
+              "name": "UC Berkeley Webcasts",
+              "url": "https://webcast.berkeley.edu/",
+              "description": "Free video recordings of UC Berkeley CS lectures and courses.",
+              "price": "free"
             }
           ]
         }
@@ -1367,6 +1757,36 @@
               "name": "Dev.to",
               "url": "https://dev.to/",
               "description": "Developer community to share projects.",
+              "price": "free"
+            },
+            {
+              "name": "Build Your Own X",
+              "url": "https://github.com/codecrafters-io/build-your-own-x",
+              "description": "Curated list of tutorials to build databases, compilers, Docker, and more from scratch.",
+              "price": "free"
+            },
+            {
+              "name": "App Ideas Collection",
+              "url": "https://github.com/florinpop17/app-ideas",
+              "description": "Progressive project ideas from beginner to advanced for portfolio building.",
+              "price": "free"
+            },
+            {
+              "name": "100Devs Projects",
+              "url": "https://www.100devs.org/",
+              "description": "Free full-stack development projects from Leon Noel's bootcamp.",
+              "price": "free"
+            },
+            {
+              "name": "Frontend Mentor",
+              "url": "https://www.frontendmentor.io/",
+              "description": "Real-world frontend challenges with designs and starter files.",
+              "price": "freemium"
+            },
+            {
+              "name": "JavaScript 30",
+              "url": "https://javascript30.com/",
+              "description": "30-day vanilla JavaScript coding challenge building real projects.",
               "price": "free"
             }
           ]

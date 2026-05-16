@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/coding-exercises) - 30 resources
-- [Free](/resources/interactive/coding-exercises/free) - 12 resources
-- [Freemium](/resources/interactive/coding-exercises/freemium) - 10 resources
-- [Paid](/resources/interactive/coding-exercises/paid) - 8 resources
+- [All](/resources/interactive/coding-exercises) - 35 resources
+- [Free](/resources/interactive/coding-exercises/free) - 14 resources
+- [Freemium](/resources/interactive/coding-exercises/freemium) - 11 resources
+- [Paid](/resources/interactive/coding-exercises/paid) - 10 resources
 
-## Freemium Resources (10)
+## Freemium Resources (11)
 
 - **[LeetCode](https://leetcode.com/)** <Badge type="warning" text="Freemium" />
   - Technical interview preparation with 3000+ coding problems and mock interviews.
@@ -34,3 +34,5 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Daily coding interview problems sent to your inbox.
 - **[Codebasil](https://codebasil.io/)** <Badge type="warning" text="Freemium" />
   - Mock coding interviews with real-time collaboration.
+- **[Edabit](https://edabit.com/)** <Badge type="warning" text="Freemium" />
+  - Beginner-friendly coding challenges with instant feedback in multiple languages.

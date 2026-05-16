@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/coding-exercises) - 30 resources
-- [Free](/resources/interactive/coding-exercises/free) - 12 resources
-- [Freemium](/resources/interactive/coding-exercises/freemium) - 10 resources
-- [Paid](/resources/interactive/coding-exercises/paid) - 8 resources
+- [All](/resources/interactive/coding-exercises) - 35 resources
+- [Free](/resources/interactive/coding-exercises/free) - 14 resources
+- [Freemium](/resources/interactive/coding-exercises/freemium) - 11 resources
+- [Paid](/resources/interactive/coding-exercises/paid) - 10 resources
 
-## Free Resources (12)
+## Free Resources (14)
 
 - **[Exercism](https://exercism.org/)** <Badge type="tip" text="Free" />
   - Free code mentorship and practice in 70+ programming languages with mentor feedback.
@@ -38,3 +38,7 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free peer-to-peer mock interviews for technical and behavioral questions.
 - **[Exercism - Mentoring](https://exercism.org/tracks)** <Badge type="tip" text="Free" />
   - Free one-on-one mentorship for code improvement in 70+ languages.
+- **[CodingBat](https://codingbat.com/)** <Badge type="tip" text="Free" />
+  - Free practice problems for Java and Python with instant testing.
+- **[Sphere Online Judge](https://www.spoj.com/)** <Badge type="tip" text="Free" />
+  - Large collection of algorithmic problems with community solutions.

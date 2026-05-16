@@ -7,12 +7,12 @@ Build real-world projects to learn and practice programming skills.
 
 ## Filter by Price
 
-- [All](/resources/practice-projects/build-projects) - 10 resources
-- [Free](/resources/practice-projects/build-projects/free) - 10 resources
-- [Freemium](/resources/practice-projects/build-projects/freemium) - 0 resources
+- [All](/resources/practice-projects/build-projects) - 15 resources
+- [Free](/resources/practice-projects/build-projects/free) - 14 resources
+- [Freemium](/resources/practice-projects/build-projects/freemium) - 1 resources
 - [Paid](/resources/practice-projects/build-projects/paid) - 0 resources
 
-## Free Resources (10)
+## Free Resources (14)
 
 - **[FreeCodeCamp - Projects](https://www.freecodecamp.org/learn/)** <Badge type="tip" text="Free" />
   - Coding projects for web development certification.
@@ -34,3 +34,11 @@ Build real-world projects to learn and practice programming skills.
   - Design portfolios and project inspiration.
 - **[Dev.to](https://dev.to/)** <Badge type="tip" text="Free" />
   - Developer community to share projects.
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** <Badge type="tip" text="Free" />
+  - Curated list of tutorials to build databases, compilers, Docker, and more from scratch.
+- **[App Ideas Collection](https://github.com/florinpop17/app-ideas)** <Badge type="tip" text="Free" />
+  - Progressive project ideas from beginner to advanced for portfolio building.
+- **[100Devs Projects](https://www.100devs.org/)** <Badge type="tip" text="Free" />
+  - Free full-stack development projects from Leon Noel's bootcamp.
+- **[JavaScript 30](https://javascript30.com/)** <Badge type="tip" text="Free" />
+  - 30-day vanilla JavaScript coding challenge building real projects.

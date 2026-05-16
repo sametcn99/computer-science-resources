@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/sql-practice) - 10 resources
-- [Free](/resources/interactive/sql-practice/free) - 8 resources
-- [Freemium](/resources/interactive/sql-practice/freemium) - 2 resources
+- [All](/resources/interactive/sql-practice) - 15 resources
+- [Free](/resources/interactive/sql-practice/free) - 11 resources
+- [Freemium](/resources/interactive/sql-practice/freemium) - 4 resources
 - [Paid](/resources/interactive/sql-practice/paid) - 0 resources
 
-## Free Resources (8)
+## Free Resources (11)
 
 - **[SQL Zoo](https://sqlzoo.net/)** <Badge type="tip" text="Free" />
   - Interactive SQL tutorials and exercises.
@@ -30,3 +30,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free online SQL database playground.
 - **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
   - SQL-based space strategy game.
+- **[SQLBolt Interactive](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorial with exercises built into the browser.
+- **[pgExercises](https://pgexercises.com/)** <Badge type="tip" text="Free" />
+  - PostgreSQL exercises from basic to advanced with a real database schema.
+- **[SQL Practice](https://sql-practice.com/)** <Badge type="tip" text="Free" />
+  - Browser-based SQL practice with instant query execution and results.

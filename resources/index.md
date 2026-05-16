@@ -9,18 +9,18 @@ description: 'Curated computer science resources, coding challenge, and online l
 
 | Total | Free | Freemium | Paid |
 | ----- | ---- | -------- | ---- |
-| 204   | 126  | 46       | 32   |
+| 274   | 166  | 62       | 46   |
 
 ## Categories
 
-- **[💻 Interactive Coding Platforms](/resources/interactive)** - 58 resources
-- **[📚 Online Learning Platforms](/resources/courses)** - 26 resources
-- **[🗣️ Interview Preparation](/resources/interview)** - 26 resources
-- **[🐧 Linux & DevOps Labs](/resources/devops)** - 27 resources
-- **[🛡️ Cybersecurity Labs](/resources/security)** - 26 resources
-- **[🎮 Game-Based Learning](/resources/games)** - 19 resources
-- **[🏛️ University & Academic](/resources/university)** - 12 resources
-- **[🛠️ Project-Based Practice](/resources/practice-projects)** - 10 resources
+- **[💻 Interactive Coding Platforms](/resources/interactive)** - 73 resources
+- **[📚 Online Learning Platforms](/resources/courses)** - 31 resources
+- **[🗣️ Interview Preparation](/resources/interview)** - 36 resources
+- **[🐧 Linux & DevOps Labs](/resources/devops)** - 42 resources
+- **[🛡️ Cybersecurity Labs](/resources/security)** - 36 resources
+- **[🎮 Game-Based Learning](/resources/games)** - 24 resources
+- **[🏛️ University & Academic](/resources/university)** - 17 resources
+- **[🛠️ Project-Based Practice](/resources/practice-projects)** - 15 resources
 
 ---
 

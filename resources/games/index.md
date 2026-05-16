@@ -7,9 +7,9 @@ Learn programming through gamified platforms and coding games.
 
 ## Subcategories
 
-- **[Coding Games](/resources/games/coding-games)** - 19 resources (12 free, 6 freemium, 1 paid)
+- **[Coding Games](/resources/games/coding-games)** - 24 resources (13 free, 7 freemium, 4 paid)
 
-## All Resources (19)
+## All Resources (24)
 
 ### Coding Games
 
@@ -51,3 +51,13 @@ Learn programming through gamified platforms and coding games.
   - Python game development library and examples.
 - **[Codeception](https://codeception.io/)** <Badge type="tip" text="Free" />
   - Learn coding through puzzles and challenges.
+- **[Screeps](https://screeps.com/)** <Badge type="warning" text="Freemium" />
+  - MMO strategy game where you program your units with JavaScript.
+- **[TIS-100](https://www.zachtronics.com/tis-100/)** <Badge type="danger" text="Paid" />
+  - Assembly language programming puzzle game by Zach Barth.
+- **[Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)** <Badge type="danger" text="Paid" />
+  - Circuit design and assembly programming puzzle game.
+- **[Bitburner](https://danielyxie.github.io/bitburner/)** <Badge type="tip" text="Free" />
+  - Cyberpunk-themed idle game where you write scripts to automate hacking.
+- **[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)** <Badge type="danger" text="Paid" />
+  - Programming puzzle game teaching low-level assembly concepts.

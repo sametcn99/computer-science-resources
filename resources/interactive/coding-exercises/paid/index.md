@@ -7,12 +7,12 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/coding-exercises) - 30 resources
-- [Free](/resources/interactive/coding-exercises/free) - 12 resources
-- [Freemium](/resources/interactive/coding-exercises/freemium) - 10 resources
-- [Paid](/resources/interactive/coding-exercises/paid) - 8 resources
+- [All](/resources/interactive/coding-exercises) - 35 resources
+- [Free](/resources/interactive/coding-exercises/free) - 14 resources
+- [Freemium](/resources/interactive/coding-exercises/freemium) - 11 resources
+- [Paid](/resources/interactive/coding-exercises/paid) - 10 resources
 
-## Paid Resources (8)
+## Paid Resources (10)
 
 - **[Interview Cake](https://www.interviewcake.com/)** <Badge type="danger" text="Paid" />
   - Interview preparation with guided practice problems and solutions.
@@ -30,3 +30,7 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Mock interviews with engineers from FAANG companies.
 - **[Interview Camp](https://interviewcamp.io/)** <Badge type="danger" text="Paid" />
   - System design and coding interview preparation course.
+- **[VetBoss](https://www.vetboss.com/)** <Badge type="danger" text="Paid" />
+  - System design and coding interview simulation with real-world scenarios.
+- **[AlgoExpert - Systems Expert](https://www.algoexpert.io/products#systemsexpert)** <Badge type="danger" text="Paid" />
+  - System design interview course with real-world architecture problems.

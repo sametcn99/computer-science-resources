@@ -7,12 +7,12 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/system-design) - 9 resources
-- [Free](/resources/interview/system-design/free) - 5 resources
-- [Freemium](/resources/interview/system-design/freemium) - 1 resources
-- [Paid](/resources/interview/system-design/paid) - 3 resources
+- [All](/resources/interview/system-design) - 14 resources
+- [Free](/resources/interview/system-design/free) - 7 resources
+- [Freemium](/resources/interview/system-design/freemium) - 2 resources
+- [Paid](/resources/interview/system-design/paid) - 5 resources
 
-## Free Resources (5)
+## Free Resources (7)
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
   - Open-source guide for learning system design and architecture.
@@ -24,3 +24,7 @@ Practice for technical interviews, system design, and behavioral questions.
   - Articles and case studies on building scalable systems.
 - **[Learn System Design](https://learnsystemdesign.com/)** <Badge type="tip" text="Free" />
   - Free system design learning resources.
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
+  - GitHub repository with comprehensive system design interview resources.
+- **[High Scalability](http://highscalability.com/)** <Badge type="tip" text="Free" />
+  - Real-world system architecture case studies from popular companies.

@@ -7,10 +7,10 @@ Learn programming through gamified platforms and coding games.
 
 ## Filter by Price
 
-- [All](/resources/games/coding-games) - 19 resources
-- [Free](/resources/games/coding-games/free) - 12 resources
-- [Freemium](/resources/games/coding-games/freemium) - 6 resources
-- [Paid](/resources/games/coding-games/paid) - 1 resources
+- [All](/resources/games/coding-games) - 24 resources
+- [Free](/resources/games/coding-games/free) - 13 resources
+- [Freemium](/resources/games/coding-games/freemium) - 7 resources
+- [Paid](/resources/games/coding-games/paid) - 4 resources
 
 ## All Resources
 
@@ -52,3 +52,13 @@ Learn programming through gamified platforms and coding games.
   - Python game development library and examples.
 - **[Codeception](https://codeception.io/)** <Badge type="tip" text="Free" />
   - Learn coding through puzzles and challenges.
+- **[Screeps](https://screeps.com/)** <Badge type="warning" text="Freemium" />
+  - MMO strategy game where you program your units with JavaScript.
+- **[TIS-100](https://www.zachtronics.com/tis-100/)** <Badge type="danger" text="Paid" />
+  - Assembly language programming puzzle game by Zach Barth.
+- **[Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)** <Badge type="danger" text="Paid" />
+  - Circuit design and assembly programming puzzle game.
+- **[Bitburner](https://danielyxie.github.io/bitburner/)** <Badge type="tip" text="Free" />
+  - Cyberpunk-themed idle game where you write scripts to automate hacking.
+- **[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)** <Badge type="danger" text="Paid" />
+  - Programming puzzle game teaching low-level assembly concepts.

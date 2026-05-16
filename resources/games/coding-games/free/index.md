@@ -7,12 +7,12 @@ Learn programming through gamified platforms and coding games.
 
 ## Filter by Price
 
-- [All](/resources/games/coding-games) - 19 resources
-- [Free](/resources/games/coding-games/free) - 12 resources
-- [Freemium](/resources/games/coding-games/freemium) - 6 resources
-- [Paid](/resources/games/coding-games/paid) - 1 resources
+- [All](/resources/games/coding-games) - 24 resources
+- [Free](/resources/games/coding-games/free) - 13 resources
+- [Freemium](/resources/games/coding-games/freemium) - 7 resources
+- [Paid](/resources/games/coding-games/paid) - 4 resources
 
-## Free Resources (12)
+## Free Resources (13)
 
 - **[CodinGame](https://www.codingame.com/)** <Badge type="tip" text="Free" />
   - Programming challenges in a gaming environment with multiplayer.
@@ -38,3 +38,5 @@ Learn programming through gamified platforms and coding games.
   - Python game development library and examples.
 - **[Codeception](https://codeception.io/)** <Badge type="tip" text="Free" />
   - Learn coding through puzzles and challenges.
+- **[Bitburner](https://danielyxie.github.io/bitburner/)** <Badge type="tip" text="Free" />
+  - Cyberpunk-themed idle game where you write scripts to automate hacking.

@@ -7,9 +7,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/algorithms) - 18 resources
-- [Free](/resources/interactive/algorithms/free) - 12 resources
-- [Freemium](/resources/interactive/algorithms/freemium) - 6 resources
+- [All](/resources/interactive/algorithms) - 23 resources
+- [Free](/resources/interactive/algorithms/free) - 15 resources
+- [Freemium](/resources/interactive/algorithms/freemium) - 8 resources
 - [Paid](/resources/interactive/algorithms/paid) - 0 resources
 
 ## All Resources
@@ -50,3 +50,13 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Programming problems for beginners to experts.
 - **[Project Euler](https://projecteuler.net/)** <Badge type="tip" text="Free" />
   - Mathematical and computational programming problems.
+- **[VisualAlgo](https://visualgo.net/)** <Badge type="tip" text="Free" />
+  - Interactive algorithm visualizations for sorting, graph, and data structure algorithms.
+- **[USACO Guide](https://usaco.guide/)** <Badge type="tip" text="Free" />
+  - Curated learning path for competitive programming from bronze to platinum.
+- **[CP-Algorithms](https://cp-algorithms.com/)** <Badge type="tip" text="Free" />
+  - Comprehensive archive of algorithms and data structures with implementations.
+- **[Brilliant - Computer Science](https://brilliant.org/courses/computer-science/)** <Badge type="warning" text="Freemium" />
+  - Interactive CS fundamentals including algorithms, logic, and cryptography.
+- **[GeeksforGeeks - DSA Self Paced](https://practice.geeksforgeeks.org/courses/dsa-self-paced)** <Badge type="warning" text="Freemium" />
+  - Structured data structures and algorithms course with practice problems.

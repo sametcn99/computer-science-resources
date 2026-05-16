@@ -7,12 +7,12 @@ Learn programming through gamified platforms and coding games.
 
 ## Filter by Price
 
-- [All](/resources/games/coding-games) - 19 resources
-- [Free](/resources/games/coding-games/free) - 12 resources
-- [Freemium](/resources/games/coding-games/freemium) - 6 resources
-- [Paid](/resources/games/coding-games/paid) - 1 resources
+- [All](/resources/games/coding-games) - 24 resources
+- [Free](/resources/games/coding-games/free) - 13 resources
+- [Freemium](/resources/games/coding-games/freemium) - 7 resources
+- [Paid](/resources/games/coding-games/paid) - 4 resources
 
-## Freemium Resources (6)
+## Freemium Resources (7)
 
 - **[CodeSignal](https://codesignal.com/)** <Badge type="warning" text="Freemium" />
   - Gamified coding challenges and interview preparation.
@@ -26,3 +26,5 @@ Learn programming through gamified platforms and coding games.
   - Puzzle game for learning programming logic.
 - **[Kodable](https://www.kodable.com/)** <Badge type="warning" text="Freemium" />
   - Coding game for kids ages 5-10.
+- **[Screeps](https://screeps.com/)** <Badge type="warning" text="Freemium" />
+  - MMO strategy game where you program your units with JavaScript.

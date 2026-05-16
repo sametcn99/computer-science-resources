@@ -7,10 +7,10 @@ University-level courses, certifications, and guided learning paths.
 
 ## Filter by Price
 
-- [All](/resources/courses/course-platforms) - 26 resources
-- [Free](/resources/courses/course-platforms/free) - 7 resources
+- [All](/resources/courses/course-platforms) - 31 resources
+- [Free](/resources/courses/course-platforms/free) - 10 resources
 - [Freemium](/resources/courses/course-platforms/freemium) - 10 resources
-- [Paid](/resources/courses/course-platforms/paid) - 9 resources
+- [Paid](/resources/courses/course-platforms/paid) - 11 resources
 
 ## All Resources
 
@@ -66,3 +66,13 @@ University-level courses, certifications, and guided learning paths.
   - Cloud and Linux training courses.
 - **[O'Reilly Learning](https://www.oreilly.com/)** <Badge type="danger" text="Paid" />
   - Technical books, videos, and courses platform.
+- **[MIT OpenCourseWare](https://ocw.mit.edu/)** <Badge type="tip" text="Free" />
+  - Free MIT course materials including lectures, notes, and assignments.
+- **[Full Stack Open](https://fullstackopen.com/)** <Badge type="tip" text="Free" />
+  - University of Helsinki's free full-stack web development course.
+- **[CS50](https://cs50.harvard.edu/)** <Badge type="tip" text="Free" />
+  - Harvard's introduction to computer science, available free online.
+- **[Pathrise](https://www.pathrise.com/)** <Badge type="danger" text="Paid" />
+  - Career accelerator with mentorship for tech job seekers.
+- **[Maven](https://maven.com/)** <Badge type="danger" text="Paid" />
+  - Cohort-based courses taught by industry experts on specialized topics.
