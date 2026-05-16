@@ -17,8 +17,8 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Subcategories
 
-- **[Capture The Flag (CTF)](/resources/security/ctf)** - 18 resources (14 free, 4 freemium, 0 paid)
-- **[Security Training](/resources/security/security-training)** - 20 resources (14 free, 4 freemium, 2 paid)
+- **[Capture The Flag (CTF)](/resources/security/ctf/)** - 18 resources (14 free, 4 freemium, 0 paid)
+- **[Security Training](/resources/security/security-training/)** - 20 resources (14 free, 4 freemium, 2 paid)
 
 ## All Resources (38)
 

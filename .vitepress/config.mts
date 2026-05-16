@@ -82,18 +82,42 @@ function buildHead() {
   return head
 }
 
-// Build sidebar from data
-const sidebarItems = [{ text: 'All Resources', link: '/resources/' }]
+// Build sidebar items with optional link overrides for price-page multi-sidebar
+function buildSidebar(linkOverrides: Record<string, string> = {}) {
+  const items: any[] = [{ text: 'All Resources', link: '/resources/' }]
+
+  for (const category of resourcesData.categories) {
+    items.push({
+      text: `${category.icon} ${category.name}`,
+      link: `/resources/${category.id}/`,
+      items: category.subcategories.map((sub) => {
+        const key = `${category.id}/${sub.id}`
+        return {
+          text: sub.name,
+          link: linkOverrides[key] || `/resources/${category.id}/${sub.id}/`
+        }
+      })
+    })
+  }
+  return [{ text: 'Resources', items }]
+}
+
+// Default sidebar (no price overrides)
+const defaultSidebar = buildSidebar()
+
+// Multi-sidebar: for each price sub-page, serve a sidebar where the parent
+// subcategory link points to the price-page URL so VitePress's exact-match
+// `isActive()` correctly highlights it — without showing price filter items
+const sidebarConfig: Record<string, any> = { '/resources/': defaultSidebar }
 
 for (const category of resourcesData.categories) {
-  sidebarItems.push({
-    text: `${category.icon} ${category.name}`,
-    link: `/resources/${category.id}/`,
-    items: category.subcategories.map((sub) => ({
-      text: sub.name,
-      link: `/resources/${category.id}/${sub.id}/`
-    }))
-  })
+  for (const sub of category.subcategories) {
+    for (const price of ['free', 'freemium', 'paid']) {
+      const key = `${category.id}/${sub.id}`
+      const pricePath = `/resources/${category.id}/${sub.id}/${price}/`
+      sidebarConfig[pricePath] = buildSidebar({ [key]: pricePath })
+    }
+  }
 }
 
 // Nav with resource counts
@@ -121,12 +145,7 @@ export default defineConfig({
 
     nav: navItems,
 
-    sidebar: [
-      {
-        text: 'Resources',
-        items: sidebarItems
-      }
-    ],
+    sidebar: sidebarConfig,
 
     footer: {
       message: 'Released under the MIT License.',

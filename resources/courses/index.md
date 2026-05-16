@@ -17,7 +17,7 @@ University-level courses, certifications, and guided learning paths.
 
 ## Subcategories
 
-- **[Courses & Certifications](/resources/courses/course-platforms)** - 32 resources (10 free, 11 freemium, 11 paid)
+- **[Courses & Certifications](/resources/courses/course-platforms/)** - 32 resources (10 free, 11 freemium, 11 paid)
 
 ## All Resources (32)
 

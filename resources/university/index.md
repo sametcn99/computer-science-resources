@@ -17,7 +17,7 @@ Free university-level computer science education.
 
 ## Subcategories
 
-- **[Open Courseware](/resources/university/open-courseware)** - 17 resources (16 free, 1 freemium, 0 paid)
+- **[Open Courseware](/resources/university/open-courseware/)** - 17 resources (16 free, 1 freemium, 0 paid)
 
 ## All Resources (17)
 

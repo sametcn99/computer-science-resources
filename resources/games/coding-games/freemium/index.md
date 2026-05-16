@@ -7,10 +7,10 @@ Learn programming through gamified platforms and coding games.
 
 ## Filter by Price
 
-- [All](/resources/games/coding-games) - 24 resources
-- [Free](/resources/games/coding-games/free) - 13 resources
-- [Freemium](/resources/games/coding-games/freemium) - 7 resources
-- [Paid](/resources/games/coding-games/paid) - 4 resources
+- [All](/resources/games/coding-games/) - 24 resources
+- [Free](/resources/games/coding-games/free/) - 13 resources
+- [Freemium](/resources/games/coding-games/freemium/) - 7 resources
+- [Paid](/resources/games/coding-games/paid/) - 4 resources
 
 ## Freemium Resources (7)
 

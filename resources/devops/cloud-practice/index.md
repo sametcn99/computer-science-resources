@@ -17,10 +17,10 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Filter by Price
 
-- [All](/resources/devops/cloud-practice) - 11 resources
-- [Free](/resources/devops/cloud-practice/free) - 5 resources
-- [Freemium](/resources/devops/cloud-practice/freemium) - 2 resources
-- [Paid](/resources/devops/cloud-practice/paid) - 4 resources
+- [All](/resources/devops/cloud-practice/) - 11 resources
+- [Free](/resources/devops/cloud-practice/free/) - 5 resources
+- [Freemium](/resources/devops/cloud-practice/freemium/) - 2 resources
+- [Paid](/resources/devops/cloud-practice/paid/) - 4 resources
 
 ## All Resources
 

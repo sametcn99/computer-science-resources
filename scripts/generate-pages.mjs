@@ -62,7 +62,7 @@ ${category.subcategories
     const freemiumCount = sub.resources.filter((r) => r.price === 'freemium').length
     const paidCount = sub.resources.filter((r) => r.price === 'paid').length
 
-    return `- **[${sub.name}](/resources/${category.id}/${sub.id})** - ${count} resources (${freeCount} free, ${freemiumCount} freemium, ${paidCount} paid)`
+    return `- **[${sub.name}](/resources/${category.id}/${sub.id}/)** - ${count} resources (${freeCount} free, ${freemiumCount} freemium, ${paidCount} paid)`
   })
   .join('\n')}
 
@@ -117,10 +117,10 @@ ${category.description}
 
 ## Filter by Price
 
-- [All](/resources/${category.id}/${subcategory.id}) - ${subcategory.resources.length} resources
-- [Free](/resources/${category.id}/${subcategory.id}/free) - ${subcategory.resources.filter((r) => r.price === 'free').length} resources
-- [Freemium](/resources/${category.id}/${subcategory.id}/freemium) - ${subcategory.resources.filter((r) => r.price === 'freemium').length} resources
-- [Paid](/resources/${category.id}/${subcategory.id}/paid) - ${subcategory.resources.filter((r) => r.price === 'paid').length} resources
+- [All](/resources/${category.id}/${subcategory.id}/) - ${subcategory.resources.length} resources
+- [Free](/resources/${category.id}/${subcategory.id}/free/) - ${subcategory.resources.filter((r) => r.price === 'free').length} resources
+- [Freemium](/resources/${category.id}/${subcategory.id}/freemium/) - ${subcategory.resources.filter((r) => r.price === 'freemium').length} resources
+- [Paid](/resources/${category.id}/${subcategory.id}/paid/) - ${subcategory.resources.filter((r) => r.price === 'paid').length} resources
 
 ## All Resources
 
@@ -148,10 +148,10 @@ ${category.description}
 
 ## Filter by Price
 
-- [All](/resources/${category.id}/${subcategory.id}) - ${subcategory.resources.length} resources
-- [Free](/resources/${category.id}/${subcategory.id}/free) - ${subcategory.resources.filter((r) => r.price === 'free').length} resources
-- [Freemium](/resources/${category.id}/${subcategory.id}/freemium) - ${subcategory.resources.filter((r) => r.price === 'freemium').length} resources
-- [Paid](/resources/${category.id}/${subcategory.id}/paid) - ${subcategory.resources.filter((r) => r.price === 'paid').length} resources
+- [All](/resources/${category.id}/${subcategory.id}/) - ${subcategory.resources.length} resources
+- [Free](/resources/${category.id}/${subcategory.id}/free/) - ${subcategory.resources.filter((r) => r.price === 'free').length} resources
+- [Freemium](/resources/${category.id}/${subcategory.id}/freemium/) - ${subcategory.resources.filter((r) => r.price === 'freemium').length} resources
+- [Paid](/resources/${category.id}/${subcategory.id}/paid/) - ${subcategory.resources.filter((r) => r.price === 'paid').length} resources
 
 ## ${priceLabel} Resources (${filteredResources.length})
 
@@ -224,7 +224,7 @@ pie
 ${data.categories
   .map((cat) => {
     const count = cat.subcategories.reduce((sum, sub) => sum + sub.resources.length, 0)
-    return `- **[${cat.icon} ${cat.name}](/resources/${cat.id})** - ${count} resources`
+    return `- **[${cat.icon} ${cat.name}](/resources/${cat.id}/)** - ${count} resources`
   })
   .join('\n')}
 

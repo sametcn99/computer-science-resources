@@ -17,7 +17,7 @@ Learn programming through gamified platforms and coding games.
 
 ## Subcategories
 
-- **[Coding Games](/resources/games/coding-games)** - 24 resources (13 free, 7 freemium, 4 paid)
+- **[Coding Games](/resources/games/coding-games/)** - 24 resources (13 free, 7 freemium, 4 paid)
 
 ## All Resources (24)
 

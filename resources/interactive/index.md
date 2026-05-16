@@ -17,9 +17,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Subcategories
 
-- **[Coding Exercises & Practice](/resources/interactive/coding-exercises)** - 35 resources (14 free, 11 freemium, 10 paid)
-- **[Algorithms & Data Structures](/resources/interactive/algorithms)** - 23 resources (15 free, 8 freemium, 0 paid)
-- **[SQL & Database Practice](/resources/interactive/sql-practice)** - 17 resources (13 free, 4 freemium, 0 paid)
+- **[Coding Exercises & Practice](/resources/interactive/coding-exercises/)** - 35 resources (14 free, 11 freemium, 10 paid)
+- **[Algorithms & Data Structures](/resources/interactive/algorithms/)** - 23 resources (15 free, 8 freemium, 0 paid)
+- **[SQL & Database Practice](/resources/interactive/sql-practice/)** - 17 resources (13 free, 4 freemium, 0 paid)
 
 ## All Resources (75)
 

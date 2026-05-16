@@ -7,10 +7,10 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/technical-interview) - 22 resources
-- [Free](/resources/interview/technical-interview/free) - 8 resources
-- [Freemium](/resources/interview/technical-interview/freemium) - 5 resources
-- [Paid](/resources/interview/technical-interview/paid) - 9 resources
+- [All](/resources/interview/technical-interview/) - 22 resources
+- [Free](/resources/interview/technical-interview/free/) - 8 resources
+- [Freemium](/resources/interview/technical-interview/freemium/) - 5 resources
+- [Paid](/resources/interview/technical-interview/paid/) - 9 resources
 
 ## Paid Resources (9)
 

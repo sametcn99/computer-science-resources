@@ -17,8 +17,8 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Subcategories
 
-- **[Technical Interview](/resources/interview/technical-interview)** - 22 resources (8 free, 5 freemium, 9 paid)
-- **[System Design](/resources/interview/system-design)** - 14 resources (7 free, 2 freemium, 5 paid)
+- **[Technical Interview](/resources/interview/technical-interview/)** - 22 resources (8 free, 5 freemium, 9 paid)
+- **[System Design](/resources/interview/system-design/)** - 14 resources (7 free, 2 freemium, 5 paid)
 
 ## All Resources (36)
 

@@ -17,7 +17,7 @@ Build real-world projects to learn and practice programming skills.
 
 ## Subcategories
 
-- **[Build Projects](/resources/practice-projects/build-projects)** - 15 resources (14 free, 1 freemium, 0 paid)
+- **[Build Projects](/resources/practice-projects/build-projects/)** - 15 resources (14 free, 1 freemium, 0 paid)
 
 ## All Resources (15)
 

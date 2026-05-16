@@ -17,9 +17,9 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ## Subcategories
 
-- **[Linux & Terminal](/resources/devops/linux-terminal)** - 17 resources (15 free, 2 freemium, 0 paid)
-- **[Container & Kubernetes](/resources/devops/container-kubernetes)** - 14 resources (12 free, 1 freemium, 1 paid)
-- **[Cloud Platforms](/resources/devops/cloud-practice)** - 11 resources (5 free, 2 freemium, 4 paid)
+- **[Linux & Terminal](/resources/devops/linux-terminal/)** - 17 resources (15 free, 2 freemium, 0 paid)
+- **[Container & Kubernetes](/resources/devops/container-kubernetes/)** - 14 resources (12 free, 1 freemium, 1 paid)
+- **[Cloud Platforms](/resources/devops/cloud-practice/)** - 11 resources (5 free, 2 freemium, 4 paid)
 
 ## All Resources (42)
 
