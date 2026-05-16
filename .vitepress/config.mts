@@ -83,14 +83,15 @@ function buildHead() {
 }
 
 // Build sidebar from data
-const sidebarItems = [{ text: 'All Resources', link: '/resources' }]
+const sidebarItems = [{ text: 'All Resources', link: '/resources/' }]
 
 for (const category of resourcesData.categories) {
   sidebarItems.push({
     text: `${category.icon} ${category.name}`,
+    link: `/resources/${category.id}/`,
     items: category.subcategories.map((sub) => ({
       text: sub.name,
-      link: `/resources/${category.id}/${sub.id}`
+      link: `/resources/${category.id}/${sub.id}/`
     }))
   })
 }
@@ -98,7 +99,7 @@ for (const category of resourcesData.categories) {
 // Nav with resource counts
 const navItems = [
   { text: 'Home', link: '/' },
-  { text: `Resources (${totalResources}+)`, link: '/resources' },
+  { text: `Resources (${totalResources}+)`, link: '/resources/' },
   {
     text: 'Contribute',
     link: 'https://github.com/sametcn99/computer-science-resources/blob/main/CONTRIBUTING.md'

@@ -128,3 +128,16 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+.VPSidebarItem.is-active > .item .link > .text {
+  font-weight: 600;
+}
+
+.VPSidebarItem.is-active > .item .indicator {
+  background-color: var(--vp-c-brand-1);
+}
+
+.VPSidebarItem.level-2.is-active > .item {
+  background-color: var(--vp-c-brand-soft);
+  border-radius: 6px;
+}
