@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { format } from 'prettier'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const rootDir = path.resolve(__dirname, '..')
@@ -216,11 +217,23 @@ Found a great resource? Contributions are welcome!
 `
 }
 
+async function writeFormatted(filePath, content) {
+  const formatted = await format(content, {
+    filepath: filePath,
+    singleQuote: true,
+    semi: false,
+    trailingComma: 'none',
+    printWidth: 100,
+    proseWrap: 'never'
+  })
+  fs.writeFileSync(filePath, formatted)
+}
+
 if (!fs.existsSync(resourcesDir)) {
   fs.mkdirSync(resourcesDir, { recursive: true })
 }
 
-fs.writeFileSync(path.join(resourcesDir, 'index.md'), generateIndexPage())
+await writeFormatted(path.join(resourcesDir, 'index.md'), generateIndexPage())
 
 for (const category of data.categories) {
   const categoryDir = path.join(resourcesDir, category.id)
@@ -228,7 +241,7 @@ for (const category of data.categories) {
     fs.mkdirSync(categoryDir, { recursive: true })
   }
 
-  fs.writeFileSync(path.join(categoryDir, 'index.md'), generateCategoryPage(category))
+  await writeFormatted(path.join(categoryDir, 'index.md'), generateCategoryPage(category))
 
   for (const subcategory of category.subcategories) {
     const subcategoryDir = path.join(categoryDir, subcategory.id)
@@ -236,7 +249,7 @@ for (const category of data.categories) {
       fs.mkdirSync(subcategoryDir, { recursive: true })
     }
 
-    fs.writeFileSync(
+    await writeFormatted(
       path.join(subcategoryDir, 'index.md'),
       generateSubcategoryPage(category, subcategory)
     )
@@ -247,7 +260,7 @@ for (const category of data.categories) {
         fs.mkdirSync(priceDir, { recursive: true })
       }
 
-      fs.writeFileSync(
+      await writeFormatted(
         path.join(priceDir, 'index.md'),
         generatePricePage(category, subcategory, price)
       )
