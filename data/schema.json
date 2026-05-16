@@ -1,0 +1,129 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Computer Science Resources Schema",
+  "description": "Schema for computer science resources data",
+  "type": "object",
+  "required": ["categories", "priceLabels", "priceBadge"],
+  "properties": {
+    "categories": {
+      "type": "array",
+      "description": "List of resource categories",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "description", "icon", "subcategories"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique identifier for the category (kebab-case)",
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "name": {
+            "type": "string",
+            "description": "Display name of the category"
+          },
+          "description": {
+            "type": "string",
+            "description": "Brief description of the category"
+          },
+          "icon": {
+            "type": "string",
+            "description": "Emoji icon for the category"
+          },
+          "subcategories": {
+            "type": "array",
+            "description": "List of subcategories within this category",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["id", "name", "resources"],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Unique identifier for the subcategory (kebab-case)",
+                  "pattern": "^[a-z][a-z0-9-]*$"
+                },
+                "name": {
+                  "type": "string",
+                  "description": "Display name of the subcategory"
+                },
+                "resources": {
+                  "type": "array",
+                  "description": "List of resources in this subcategory",
+                  "minItems": 1,
+                  "items": {
+                    "type": "object",
+                    "required": ["name", "url", "description", "price"],
+                    "properties": {
+                      "name": {
+                        "type": "string",
+                        "description": "Name of the resource"
+                      },
+                      "url": {
+                        "type": "string",
+                        "description": "URL to the resource",
+                        "format": "uri"
+                      },
+                      "description": {
+                        "type": "string",
+                        "description": "Brief description of the resource",
+                        "minLength": 10,
+                        "maxLength": 200
+                      },
+                      "price": {
+                        "type": "string",
+                        "description": "Pricing model",
+                        "enum": ["free", "freemium", "paid"]
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "priceLabels": {
+      "type": "object",
+      "description": "Display labels for each price type",
+      "required": ["free", "freemium", "paid"],
+      "properties": {
+        "free": {
+          "type": "string",
+          "const": "Free"
+        },
+        "freemium": {
+          "type": "string",
+          "const": "Freemium"
+        },
+        "paid": {
+          "type": "string",
+          "const": "Paid"
+        }
+      }
+    },
+    "priceBadge": {
+      "type": "object",
+      "description": "Badge types for each price category",
+      "required": ["free", "freemium", "paid"],
+      "properties": {
+        "free": {
+          "type": "string",
+          "const": "tip"
+        },
+        "freemium": {
+          "type": "string",
+          "const": "warning"
+        },
+        "paid": {
+          "type": "string",
+          "const": "danger"
+        }
+      }
+    }
+  }
+}

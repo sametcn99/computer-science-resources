@@ -1,0 +1,59 @@
+---
+title: "Resources"
+description: "Curated computer science resources, coding challenge, and online learning platforms for software developers."
+---
+
+> Curated computer science resources, coding challenge, and online learning platforms for software developers.
+
+## Statistics
+
+| Total | Free | Freemium | Paid |
+|-------|------|----------|------|
+| 204 | 126 | 46 | 32 |
+
+## Categories
+
+- **[💻 Interactive Coding Platforms](/resources/interactive)** - 58 resources
+- **[📚 Online Learning Platforms](/resources/courses)** - 26 resources
+- **[🗣️ Interview Preparation](/resources/interview)** - 26 resources
+- **[🐧 Linux & DevOps Labs](/resources/devops)** - 27 resources
+- **[🛡️ Cybersecurity Labs](/resources/security)** - 26 resources
+- **[🎮 Game-Based Learning](/resources/games)** - 19 resources
+- **[🏛️ University & Academic](/resources/university)** - 12 resources
+- **[🛠️ Project-Based Practice](/resources/practice-projects)** - 10 resources
+
+---
+
+## 🏷️ Categories Legend
+
+| Badge | Meaning |
+|-------|---------|
+| <Badge type="tip" text="Free" /> | Fully accessible without payment |
+| <Badge type="warning" text="Freemium" /> | Limited free content with paid upgrades |
+| <Badge type="danger" text="Paid" /> | Requires subscription or purchase |
+
+---
+
+## 🔮 Future Expansions
+
+Consider adding these categories in the future:
+
+- Frontend Practice - React, Vue, Angular, CSS, UI/UX
+- Backend Practice - Node.js, Python, Go, databases
+- Mobile Development - React Native, Flutter, Swift, Kotlin
+- Data Science & ML - Python, TensorFlow, PyTorch, Kaggle
+- Database Practice - SQL, NoSQL, PostgreSQL, MongoDB
+- API Development - REST, GraphQL, gRPC
+- Testing & QA - Unit testing, integration testing, automation
+- Version Control - Git, GitHub, GitLab workflows
+
+---
+
+## 🤝 Contributing
+
+Found a great resource? Contributions are welcome!
+
+1. Fork the repository
+2. Add your resource to `data/resources.json`
+3. Run `bun run generate` to regenerate pages
+4. Submit a pull request

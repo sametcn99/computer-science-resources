@@ -1,0 +1,39 @@
+{
+  "name": "computer-science-resources",
+  "version": "1.0.0",
+  "description": "Curated computer science learning resources, coding exercises, practice platforms, and online courses for developers.",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "generate": "node scripts/generate-pages.mjs",
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "markdownlint-cli2 index.md resources/index.md"
+  },
+  "keywords": [
+    "computer-science",
+    "programming",
+    "exercises",
+    "coding-challenges",
+    "learning",
+    "developer-resources",
+    "open-source"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sametcn99/computer-science-resources"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "prettier": "^3.8.3",
+    "markdownlint-cli2": "^0.22.1",
+    "ajv": "^8.20.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
