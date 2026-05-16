@@ -1,6 +1,6 @@
 ---
-title: "Resources"
-description: "Curated computer science resources, coding challenge, and online learning platforms for software developers."
+title: 'Resources'
+description: 'Curated computer science resources, coding challenge, and online learning platforms for software developers.'
 ---
 
 > Curated computer science resources, coding challenge, and online learning platforms for software developers.
@@ -8,8 +8,8 @@ description: "Curated computer science resources, coding challenge, and online l
 ## Statistics
 
 | Total | Free | Freemium | Paid |
-|-------|------|----------|------|
-| 204 | 126 | 46 | 32 |
+| ----- | ---- | -------- | ---- |
+| 204   | 126  | 46       | 32   |
 
 ## Categories
 
@@ -26,11 +26,11 @@ description: "Curated computer science resources, coding challenge, and online l
 
 ## 🏷️ Categories Legend
 
-| Badge | Meaning |
-|-------|---------|
-| <Badge type="tip" text="Free" /> | Fully accessible without payment |
+| Badge                                    | Meaning                                 |
+| ---------------------------------------- | --------------------------------------- |
+| <Badge type="tip" text="Free" />         | Fully accessible without payment        |
 | <Badge type="warning" text="Freemium" /> | Limited free content with paid upgrades |
-| <Badge type="danger" text="Paid" /> | Requires subscription or purchase |
+| <Badge type="danger" text="Paid" />      | Requires subscription or purchase       |
 
 ---
 

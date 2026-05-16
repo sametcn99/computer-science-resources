@@ -1,6 +1,6 @@
 ---
-title: "📚 Courses & Certifications - Paid"
-description: "University-level courses, certifications, and guided learning paths."
+title: '📚 Courses & Certifications - Paid'
+description: 'University-level courses, certifications, and guided learning paths.'
 ---
 
 University-level courses, certifications, and guided learning paths.

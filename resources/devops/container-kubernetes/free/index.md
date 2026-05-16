@@ -1,6 +1,6 @@
 ---
-title: "🐧 Container & Kubernetes - Free"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Container & Kubernetes - Free'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

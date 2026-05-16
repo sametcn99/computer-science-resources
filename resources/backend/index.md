@@ -1,6 +1,6 @@
 ---
-title: "⚙️ Backend Development"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ Backend Development'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.
@@ -57,4 +57,3 @@ Learn server-side programming, APIs, and database technologies.
   - REST and GraphQL framework for Symfony.
 - **[FastAPI](https://fastapi.tiangolo.com/)** <Badge type="tip" text="Free" />
   - Python fast API framework documentation.
-

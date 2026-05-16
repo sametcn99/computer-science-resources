@@ -1,6 +1,6 @@
 ---
-title: "🎮 Coding Games - Paid"
-description: "Learn programming through gamified platforms and coding games."
+title: '🎮 Coding Games - Paid'
+description: 'Learn programming through gamified platforms and coding games.'
 ---
 
 Learn programming through gamified platforms and coding games.

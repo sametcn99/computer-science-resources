@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Capture The Flag (CTF)"
-description: "Practice cybersecurity skills, penetration testing, and CTF challenges."
+title: '🛡️ Capture The Flag (CTF)'
+description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.

@@ -1,6 +1,6 @@
 ---
-title: "🐧 Linux & DevOps Labs"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Linux & DevOps Labs'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.
@@ -75,4 +75,3 @@ Hands-on practice for Linux, containerization, and DevOps tools.
   - Cloud computing training and labs.
 - **[A Cloud Guru](https://acloudguru.com/)** <Badge type="danger" text="Paid" />
   - Cloud certification training courses.
-

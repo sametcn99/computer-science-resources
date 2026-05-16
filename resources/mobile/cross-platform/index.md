@@ -1,6 +1,6 @@
 ---
-title: "📱 Cross-Platform"
-description: "Learn mobile app development for iOS and Android platforms."
+title: '📱 Cross-Platform'
+description: 'Learn mobile app development for iOS and Android platforms.'
 ---
 
 Learn mobile app development for iOS and Android platforms.

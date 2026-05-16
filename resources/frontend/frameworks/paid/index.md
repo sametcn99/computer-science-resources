@@ -1,6 +1,6 @@
 ---
-title: "🎨 Frameworks & Libraries - Paid"
-description: "Practice and learn modern frontend technologies and frameworks."
+title: '🎨 Frameworks & Libraries - Paid'
+description: 'Practice and learn modern frontend technologies and frameworks.'
 ---
 
 Practice and learn modern frontend technologies and frameworks.
@@ -13,5 +13,3 @@ Practice and learn modern frontend technologies and frameworks.
 - [Paid](/resources/frontend/frameworks/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Capture The Flag (CTF) - Freemium"
-description: "Practice cybersecurity skills, penetration testing, and CTF challenges."
+title: '🛡️ Capture The Flag (CTF) - Freemium'
+description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.

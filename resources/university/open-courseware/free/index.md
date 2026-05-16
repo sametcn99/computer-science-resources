@@ -1,6 +1,6 @@
 ---
-title: "🏛️ Open Courseware - Free"
-description: "Free university-level computer science education."
+title: '🏛️ Open Courseware - Free'
+description: 'Free university-level computer science education.'
 ---
 
 Free university-level computer science education.

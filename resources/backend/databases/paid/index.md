@@ -1,6 +1,6 @@
 ---
-title: "⚙️ Databases - Paid"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ Databases - Paid'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.
@@ -13,5 +13,3 @@ Learn server-side programming, APIs, and database technologies.
 - [Paid](/resources/backend/databases/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

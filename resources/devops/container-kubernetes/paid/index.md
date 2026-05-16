@@ -1,6 +1,6 @@
 ---
-title: "🐧 Container & Kubernetes - Paid"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Container & Kubernetes - Paid'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.
@@ -13,5 +13,3 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 - [Paid](/resources/devops/container-kubernetes/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

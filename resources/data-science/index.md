@@ -1,6 +1,6 @@
 ---
-title: "📊 Data Science & ML"
-description: "Learn data analysis, machine learning, and AI technologies."
+title: '📊 Data Science & ML'
+description: 'Learn data analysis, machine learning, and AI technologies.'
 ---
 
 Learn data analysis, machine learning, and AI technologies.
@@ -53,4 +53,3 @@ Learn data analysis, machine learning, and AI technologies.
   - AI-powered code editor.
 - **[Copilot](https://github.com/features/copilot)** <Badge type="warning" text="Freemium" />
   - GitHub's AI pair programmer.
-

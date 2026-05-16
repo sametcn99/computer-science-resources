@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Security Training - Paid"
-description: "Practice cybersecurity skills, penetration testing, and CTF challenges."
+title: '🛡️ Security Training - Paid'
+description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.

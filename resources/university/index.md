@@ -1,6 +1,6 @@
 ---
-title: "🏛️ University & Academic"
-description: "Free university-level computer science education."
+title: '🏛️ University & Academic'
+description: 'Free university-level computer science education.'
 ---
 
 Free university-level computer science education.
@@ -37,4 +37,3 @@ Free university-level computer science education.
   - Harvard CS50 video lectures archive.
 - **[Free CS Books](https://github.com/EbookFoundation/free-programming-books)** <Badge type="tip" text="Free" />
   - Free programming and CS textbooks.
-

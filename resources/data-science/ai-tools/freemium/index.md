@@ -1,6 +1,6 @@
 ---
-title: "📊 AI Tools & LLM - Freemium"
-description: "Learn data analysis, machine learning, and AI technologies."
+title: '📊 AI Tools & LLM - Freemium'
+description: 'Learn data analysis, machine learning, and AI technologies.'
 ---
 
 Learn data analysis, machine learning, and AI technologies.

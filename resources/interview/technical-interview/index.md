@@ -1,6 +1,6 @@
 ---
-title: "🗣️ Technical Interview"
-description: "Practice for technical interviews, system design, and behavioral questions."
+title: '🗣️ Technical Interview'
+description: 'Practice for technical interviews, system design, and behavioral questions.'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.

@@ -1,6 +1,6 @@
 ---
-title: "🎨 Frameworks & Libraries - Freemium"
-description: "Practice and learn modern frontend technologies and frameworks."
+title: '🎨 Frameworks & Libraries - Freemium'
+description: 'Practice and learn modern frontend technologies and frameworks.'
 ---
 
 Practice and learn modern frontend technologies and frameworks.

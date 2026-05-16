@@ -1,6 +1,6 @@
 ---
-title: "🎮 Game-Based Learning"
-description: "Learn programming through gamified platforms and coding games."
+title: '🎮 Game-Based Learning'
+description: 'Learn programming through gamified platforms and coding games.'
 ---
 
 Learn programming through gamified platforms and coding games.
@@ -51,4 +51,3 @@ Learn programming through gamified platforms and coding games.
   - Python game development library and examples.
 - **[Codeception](https://codeception.io/)** <Badge type="tip" text="Free" />
   - Learn coding through puzzles and challenges.
-

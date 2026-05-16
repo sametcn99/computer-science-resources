@@ -1,6 +1,6 @@
 ---
-title: "📱 Android Development"
-description: "Learn mobile app development for iOS and Android platforms."
+title: '📱 Android Development'
+description: 'Learn mobile app development for iOS and Android platforms.'
 ---
 
 Learn mobile app development for iOS and Android platforms.

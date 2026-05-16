@@ -1,6 +1,6 @@
 ---
-title: "🐧 Linux & Terminal - Freemium"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Linux & Terminal - Freemium'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

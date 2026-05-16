@@ -1,6 +1,6 @@
 ---
-title: "🐧 CI/CD & Infrastructure - Freemium"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 CI/CD & Infrastructure - Freemium'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.
@@ -13,5 +13,3 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 - [Paid](/resources/devops/cicd/paid) - 0 resources
 
 ## Freemium Resources (0)
-
-

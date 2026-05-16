@@ -1,6 +1,6 @@
 ---
-title: "📚 Online Learning Platforms"
-description: "University-level courses, certifications, and guided learning paths."
+title: '📚 Online Learning Platforms'
+description: 'University-level courses, certifications, and guided learning paths.'
 ---
 
 University-level courses, certifications, and guided learning paths.
@@ -65,4 +65,3 @@ University-level courses, certifications, and guided learning paths.
   - Cloud and Linux training courses.
 - **[O'Reilly Learning](https://www.oreilly.com/)** <Badge type="danger" text="Paid" />
   - Technical books, videos, and courses platform.
-

@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Capture The Flag (CTF) - Paid"
-description: "Practice cybersecurity skills, penetration testing, and CTF challenges."
+title: '🛡️ Capture The Flag (CTF) - Paid'
+description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
@@ -13,5 +13,3 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 - [Paid](/resources/security/ctf/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

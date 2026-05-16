@@ -1,6 +1,6 @@
 ---
-title: "📱 Cross-Platform - Paid"
-description: "Learn mobile app development for iOS and Android platforms."
+title: '📱 Cross-Platform - Paid'
+description: 'Learn mobile app development for iOS and Android platforms.'
 ---
 
 Learn mobile app development for iOS and Android platforms.
@@ -13,5 +13,3 @@ Learn mobile app development for iOS and Android platforms.
 - [Paid](/resources/mobile/cross-platform/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

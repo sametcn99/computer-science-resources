@@ -1,6 +1,6 @@
 ---
-title: "📊 Machine Learning - Free"
-description: "Learn data analysis, machine learning, and AI technologies."
+title: '📊 Machine Learning - Free'
+description: 'Learn data analysis, machine learning, and AI technologies.'
 ---
 
 Learn data analysis, machine learning, and AI technologies.

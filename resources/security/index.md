@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Cybersecurity Labs"
-description: "Practice cybersecurity skills, penetration testing, and CTF challenges."
+title: '🛡️ Cybersecurity Labs'
+description: 'Practice cybersecurity skills, penetration testing, and CTF challenges.'
 ---
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
@@ -69,4 +69,3 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
   - Various hacking challenges platform.
 - **[Pentest-Tools](https://pentest-tools.com/)** <Badge type="warning" text="Freemium" />
   - Online security testing tools.
-

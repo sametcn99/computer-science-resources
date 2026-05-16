@@ -1,6 +1,6 @@
 ---
-title: "💻 Algorithms & Data Structures - Free"
-description: "Hands-on coding exercises, challenges, and real-world practice platforms."
+title: '💻 Algorithms & Data Structures - Free'
+description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

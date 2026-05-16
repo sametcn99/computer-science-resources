@@ -1,6 +1,6 @@
 ---
-title: "🎨 CSS & Styling - Free"
-description: "Practice and learn modern frontend technologies and frameworks."
+title: '🎨 CSS & Styling - Free'
+description: 'Practice and learn modern frontend technologies and frameworks.'
 ---
 
 Practice and learn modern frontend technologies and frameworks.

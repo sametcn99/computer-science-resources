@@ -1,6 +1,6 @@
 ---
-title: "💻 Interactive Coding Platforms"
-description: "Hands-on coding exercises, challenges, and real-world practice platforms."
+title: '💻 Interactive Coding Platforms'
+description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
@@ -137,4 +137,3 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Free online SQL database playground.
 - **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
   - SQL-based space strategy game.
-

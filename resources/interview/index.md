@@ -1,6 +1,6 @@
 ---
-title: "🗣️ Interview Preparation"
-description: "Practice for technical interviews, system design, and behavioral questions."
+title: '🗣️ Interview Preparation'
+description: 'Practice for technical interviews, system design, and behavioral questions.'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.
@@ -69,4 +69,3 @@ Practice for technical interviews, system design, and behavioral questions.
   - Free system design learning resources.
 - **[Scale Up](https://www.educative.io/scale-up)** <Badge type="danger" text="Paid" />
   - System design course for experienced engineers.
-

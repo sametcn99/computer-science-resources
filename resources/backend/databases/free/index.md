@@ -1,6 +1,6 @@
 ---
-title: "⚙️ Databases - Free"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ Databases - Free'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.

@@ -1,6 +1,6 @@
 ---
-title: "💻 Algorithms & Data Structures - Paid"
-description: "Hands-on coding exercises, challenges, and real-world practice platforms."
+title: '💻 Algorithms & Data Structures - Paid'
+description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
@@ -13,5 +13,3 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 - [Paid](/resources/interactive/algorithms/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

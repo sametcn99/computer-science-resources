@@ -1,6 +1,6 @@
 ---
-title: "🐧 Cloud Platforms"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Cloud Platforms'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.

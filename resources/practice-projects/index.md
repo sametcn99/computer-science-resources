@@ -1,6 +1,6 @@
 ---
-title: "🛠️ Project-Based Practice"
-description: "Build real-world projects to learn and practice programming skills."
+title: '🛠️ Project-Based Practice'
+description: 'Build real-world projects to learn and practice programming skills.'
 ---
 
 Build real-world projects to learn and practice programming skills.
@@ -33,4 +33,3 @@ Build real-world projects to learn and practice programming skills.
   - Design portfolios and project inspiration.
 - **[Dev.to](https://dev.to/)** <Badge type="tip" text="Free" />
   - Developer community to share projects.
-

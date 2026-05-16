@@ -1,6 +1,6 @@
 ---
-title: "💻 Coding Exercises & Practice"
-description: "Hands-on coding exercises, challenges, and real-world practice platforms."
+title: '💻 Coding Exercises & Practice'
+description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

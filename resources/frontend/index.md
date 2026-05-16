@@ -1,6 +1,6 @@
 ---
-title: "🎨 Frontend Development"
-description: "Practice and learn modern frontend technologies and frameworks."
+title: '🎨 Frontend Development'
+description: 'Practice and learn modern frontend technologies and frameworks.'
 ---
 
 Practice and learn modern frontend technologies and frameworks.
@@ -45,4 +45,3 @@ Practice and learn modern frontend technologies and frameworks.
   - CSS linter and fixer.
 - **[PostCSS](https://postcss.org/)** <Badge type="tip" text="Free" />
   - CSS transformations tool.
-

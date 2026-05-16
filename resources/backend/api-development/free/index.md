@@ -1,6 +1,6 @@
 ---
-title: "⚙️ API Development - Free"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ API Development - Free'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.

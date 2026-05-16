@@ -1,6 +1,6 @@
 ---
-title: "🛠️ Build Projects - Freemium"
-description: "Build real-world projects to learn and practice programming skills."
+title: '🛠️ Build Projects - Freemium'
+description: 'Build real-world projects to learn and practice programming skills.'
 ---
 
 Build real-world projects to learn and practice programming skills.
@@ -13,5 +13,3 @@ Build real-world projects to learn and practice programming skills.
 - [Paid](/resources/practice-projects/build-projects/paid) - 0 resources
 
 ## Freemium Resources (0)
-
-

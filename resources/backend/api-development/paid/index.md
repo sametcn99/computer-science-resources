@@ -1,6 +1,6 @@
 ---
-title: "⚙️ API Development - Paid"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ API Development - Paid'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.
@@ -13,5 +13,3 @@ Learn server-side programming, APIs, and database technologies.
 - [Paid](/resources/backend/api-development/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

@@ -1,6 +1,6 @@
 ---
-title: "🏛️ Open Courseware - Freemium"
-description: "Free university-level computer science education."
+title: '🏛️ Open Courseware - Freemium'
+description: 'Free university-level computer science education.'
 ---
 
 Free university-level computer science education.
@@ -13,5 +13,3 @@ Free university-level computer science education.
 - [Paid](/resources/university/open-courseware/paid) - 0 resources
 
 ## Freemium Resources (0)
-
-

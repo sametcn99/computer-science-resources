@@ -1,6 +1,6 @@
 ---
-title: "📱 Mobile Development"
-description: "Learn mobile app development for iOS and Android platforms."
+title: '📱 Mobile Development'
+description: 'Learn mobile app development for iOS and Android platforms.'
 ---
 
 Learn mobile app development for iOS and Android platforms.
@@ -45,4 +45,3 @@ Learn mobile app development for iOS and Android platforms.
   - Weekly Flutter widget demonstrations.
 - **[Ionic](https://ionicframework.com/docs)** <Badge type="tip" text="Free" />
   - Cross-platform mobile app framework.
-

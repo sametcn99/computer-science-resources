@@ -1,6 +1,6 @@
 ---
-title: "🎨 CSS & Styling - Freemium"
-description: "Practice and learn modern frontend technologies and frameworks."
+title: '🎨 CSS & Styling - Freemium'
+description: 'Practice and learn modern frontend technologies and frameworks.'
 ---
 
 Practice and learn modern frontend technologies and frameworks.
@@ -13,5 +13,3 @@ Practice and learn modern frontend technologies and frameworks.
 - [Paid](/resources/frontend/css-tools/paid) - 0 resources
 
 ## Freemium Resources (0)
-
-

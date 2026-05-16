@@ -1,6 +1,6 @@
 ---
-title: "⚙️ Programming Languages - Freemium"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ Programming Languages - Freemium'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.
@@ -13,5 +13,3 @@ Learn server-side programming, APIs, and database technologies.
 - [Paid](/resources/backend/languages/paid) - 0 resources
 
 ## Freemium Resources (0)
-
-

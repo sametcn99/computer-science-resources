@@ -1,6 +1,6 @@
 ---
-title: "🗣️ System Design - Freemium"
-description: "Practice for technical interviews, system design, and behavioral questions."
+title: '🗣️ System Design - Freemium'
+description: 'Practice for technical interviews, system design, and behavioral questions.'
 ---
 
 Practice for technical interviews, system design, and behavioral questions.

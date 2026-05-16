@@ -1,6 +1,6 @@
 ---
-title: "📊 Data Analysis - Paid"
-description: "Learn data analysis, machine learning, and AI technologies."
+title: '📊 Data Analysis - Paid'
+description: 'Learn data analysis, machine learning, and AI technologies.'
 ---
 
 Learn data analysis, machine learning, and AI technologies.
@@ -13,5 +13,3 @@ Learn data analysis, machine learning, and AI technologies.
 - [Paid](/resources/data-science/data-analysis/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

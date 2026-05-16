@@ -1,6 +1,6 @@
 ---
-title: "⚙️ Programming Languages"
-description: "Learn server-side programming, APIs, and database technologies."
+title: '⚙️ Programming Languages'
+description: 'Learn server-side programming, APIs, and database technologies.'
 ---
 
 Learn server-side programming, APIs, and database technologies.

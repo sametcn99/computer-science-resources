@@ -1,6 +1,6 @@
 ---
-title: "📱 iOS Development - Paid"
-description: "Learn mobile app development for iOS and Android platforms."
+title: '📱 iOS Development - Paid'
+description: 'Learn mobile app development for iOS and Android platforms.'
 ---
 
 Learn mobile app development for iOS and Android platforms.
@@ -13,5 +13,3 @@ Learn mobile app development for iOS and Android platforms.
 - [Paid](/resources/mobile/ios-development/paid) - 0 resources
 
 ## Paid Resources (0)
-
-

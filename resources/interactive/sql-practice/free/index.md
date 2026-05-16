@@ -1,6 +1,6 @@
 ---
-title: "💻 SQL & Database Practice - Free"
-description: "Hands-on coding exercises, challenges, and real-world practice platforms."
+title: '💻 SQL & Database Practice - Free'
+description: 'Hands-on coding exercises, challenges, and real-world practice platforms.'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.

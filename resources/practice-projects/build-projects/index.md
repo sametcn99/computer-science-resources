@@ -1,6 +1,6 @@
 ---
-title: "🛠️ Build Projects"
-description: "Build real-world projects to learn and practice programming skills."
+title: '🛠️ Build Projects'
+description: 'Build real-world projects to learn and practice programming skills.'
 ---
 
 Build real-world projects to learn and practice programming skills.

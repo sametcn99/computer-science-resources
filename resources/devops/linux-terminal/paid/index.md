@@ -1,6 +1,6 @@
 ---
-title: "🐧 Linux & Terminal - Paid"
-description: "Hands-on practice for Linux, containerization, and DevOps tools."
+title: '🐧 Linux & Terminal - Paid'
+description: 'Hands-on practice for Linux, containerization, and DevOps tools.'
 ---
 
 Hands-on practice for Linux, containerization, and DevOps tools.
@@ -13,5 +13,3 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 - [Paid](/resources/devops/linux-terminal/paid) - 0 resources
 
 ## Paid Resources (0)
-
-
