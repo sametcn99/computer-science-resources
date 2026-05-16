@@ -7,9 +7,13 @@ description: 'Curated computer science resources, coding challenge, and online l
 
 ## Statistics
 
-| Total | Free | Freemium | Paid |
-| ----- | ---- | -------- | ---- |
-| 274   | 166  | 62       | 46   |
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 166
+    "Freemium" : 62
+    "Paid" : 46
+```
 
 ## Categories
 

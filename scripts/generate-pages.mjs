@@ -211,9 +211,13 @@ description: "Curated computer science resources, coding challenge, and online l
 
 ## Statistics
 
-| Total | Free | Freemium | Paid |
-|-------|------|----------|------|
-| ${totalResources} | ${freeCount} | ${freemiumCount} | ${paidCount} |
+\`\`\`mermaid
+pie
+    title Resource Distribution
+    "Free" : ${freeCount}
+    "Freemium" : ${freemiumCount}
+    "Paid" : ${paidCount}
+\`\`\`
 
 ## Categories
 

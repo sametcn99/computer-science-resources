@@ -88,7 +88,6 @@ const sidebarItems = [{ text: 'All Resources', link: '/resources' }]
 for (const category of resourcesData.categories) {
   sidebarItems.push({
     text: `${category.icon} ${category.name}`,
-    collapsed: true,
     items: category.subcategories.map((sub) => ({
       text: sub.name,
       link: `/resources/${category.id}/${sub.id}`
