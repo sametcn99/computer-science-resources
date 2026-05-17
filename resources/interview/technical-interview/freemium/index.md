@@ -14,13 +14,13 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Freemium Resources (5)
 
-- **[HackerRank Interview Prep](https://www.hackerrank.com/interview/preparation-kit)** <Badge type="warning" text="Freemium" />
-  - Structured preparation kit for coding interviews.
+- **[ByteByteGo - System Design Interview](https://bytebytego.com/)** <Badge type="warning" text="Freemium" />
+  - System design interview preparation with visual architecture explanations.
 - **[CareerCup](https://www.careercup.com/)** <Badge type="warning" text="Freemium" />
   - Interview questions and mock interviews from practitioners.
 - **[CodeSignal](https://codesignal.com/)** <Badge type="warning" text="Freemium" />
   - General coding assessment and interview prep platform.
+- **[HackerRank Interview Prep](https://www.hackerrank.com/interview/preparation-kit)** <Badge type="warning" text="Freemium" />
+  - Structured preparation kit for coding interviews.
 - **[Hello Interview](https://www.hellointerview.com/)** <Badge type="warning" text="Freemium" />
   - AI-powered interview prep with mock interviews and problem walkthroughs.
-- **[ByteByteGo - System Design Interview](https://bytebytego.com/)** <Badge type="warning" text="Freemium" />
-  - System design interview preparation with visual architecture explanations.

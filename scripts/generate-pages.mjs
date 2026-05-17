@@ -73,6 +73,13 @@ ${category.subcategories
     return `### ${sub.name}
 
 ${sub.resources
+  .sort((a, b) => {
+    const priceOrder = { free: 0, freemium: 1, paid: 2 }
+    if (priceOrder[a.price] !== priceOrder[b.price]) {
+      return priceOrder[a.price] - priceOrder[b.price]
+    }
+    return a.name.localeCompare(b.name)
+  })
   .map(
     (
       r
@@ -125,6 +132,13 @@ ${category.description}
 ## All Resources
 
 ${subcategory.resources
+  .sort((a, b) => {
+    const priceOrder = { free: 0, freemium: 1, paid: 2 }
+    if (priceOrder[a.price] !== priceOrder[b.price]) {
+      return priceOrder[a.price] - priceOrder[b.price]
+    }
+    return a.name.localeCompare(b.name)
+  })
   .map(
     (
       r

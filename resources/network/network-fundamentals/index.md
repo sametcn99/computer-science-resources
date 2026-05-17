@@ -24,11 +24,11 @@ Network fundamentals, subnetting, and networking practice platforms.
 
 ## All Resources
 
-- **[Subnetting Practice](https://subnettingpractice.com/)** <Badge type="tip" text="Free" />
-  - Free subnetting questions and practice tests for CCNA exam preparation.
-- **[ProProfs Networking Quizs](https://www.proprofs.com/quiz-school/topic/networking)** <Badge type="tip" text="Free" />
-  - Free networking quizzes covering various networking topics.
-- **[Subnetting.net](https://www.subnetting.net/Subnetting.aspx?mode=practice)** <Badge type="tip" text="Free" />
-  - Free subnetting practice questions and tutorials with multiple difficulty levels.
 - **[Learning About Electronics - Networking Quizzes](https://www.learningaboutelectronics.com/Articles/Network-quiz.php)** <Badge type="tip" text="Free" />
   - Free networking quizzes covering TCP/IP, subnetting, and network fundamentals.
+- **[ProProfs Networking Quizs](https://www.proprofs.com/quiz-school/topic/networking)** <Badge type="tip" text="Free" />
+  - Free networking quizzes covering various networking topics.
+- **[Subnetting Practice](https://subnettingpractice.com/)** <Badge type="tip" text="Free" />
+  - Free subnetting questions and practice tests for CCNA exam preparation.
+- **[Subnetting.net](https://www.subnetting.net/Subnetting.aspx?mode=practice)** <Badge type="tip" text="Free" />
+  - Free subnetting practice questions and tutorials with multiple difficulty levels.

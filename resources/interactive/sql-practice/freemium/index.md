@@ -14,11 +14,11 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Freemium Resources (4)
 
+- **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
+  - SQL interview questions from top tech companies with solutions.
 - **[HackerRank - SQL](https://www.hackerrank.com/domains/sql)** <Badge type="warning" text="Freemium" />
   - SQL practice problems from basic to advanced.
 - **[LeetCode - SQL](https://leetcode.com/problemset/?topicSlugs=sql)** <Badge type="warning" text="Freemium" />
   - SQL interview problems and solutions.
-- **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
-  - SQL interview questions from top tech companies with solutions.
 - **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
   - Real SQL and Python interview questions from FAANG companies.

@@ -14,11 +14,11 @@ Learn programming through gamified platforms and coding games.
 
 ## Paid Resources (4)
 
-- **[Minecraft Education](https://education.minecraft.net/)** <Badge type="danger" text="Paid" />
-  - Minecraft-based coding and creativity platform.
-- **[TIS-100](https://www.zachtronics.com/tis-100/)** <Badge type="danger" text="Paid" />
-  - Assembly language programming puzzle game by Zach Barth.
-- **[Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)** <Badge type="danger" text="Paid" />
-  - Circuit design and assembly programming puzzle game.
 - **[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)** <Badge type="danger" text="Paid" />
   - Programming puzzle game teaching low-level assembly concepts.
+- **[Minecraft Education](https://education.minecraft.net/)** <Badge type="danger" text="Paid" />
+  - Minecraft-based coding and creativity platform.
+- **[Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)** <Badge type="danger" text="Paid" />
+  - Circuit design and assembly programming puzzle game.
+- **[TIS-100](https://www.zachtronics.com/tis-100/)** <Badge type="danger" text="Paid" />
+  - Assembly language programming puzzle game by Zach Barth.

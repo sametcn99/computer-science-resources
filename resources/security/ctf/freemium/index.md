@@ -14,11 +14,11 @@ Practice cybersecurity skills, penetration testing, and CTF challenges.
 
 ## Freemium Resources (4)
 
+- **[CTF365](https://ctf365.com/)** <Badge type="warning" text="Freemium" />
+  - Year-round CTF training platform.
+- **[CyberSecLabs](https://www.cyberseclabs.co.uk/)** <Badge type="warning" text="Freemium" />
+  - Hands-on penetration testing labs.
 - **[Hack The Box](https://www.hackthebox.com/)** <Badge type="warning" text="Freemium" />
   - Realistic penetration testing labs and CTF challenges.
 - **[TryHackMe](https://tryhackme.com/)** <Badge type="warning" text="Freemium" />
   - Guided cybersecurity labs from beginner to advanced.
-- **[CyberSecLabs](https://www.cyberseclabs.co.uk/)** <Badge type="warning" text="Freemium" />
-  - Hands-on penetration testing labs.
-- **[CTF365](https://ctf365.com/)** <Badge type="warning" text="Freemium" />
-  - Year-round CTF training platform.

@@ -14,17 +14,17 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Free Resources (7)
 
-- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
-  - Open-source guide for learning system design and architecture.
-- **[Excalidraw](https://excalidraw.com/)** <Badge type="tip" text="Free" />
-  - Free tool for drawing system design diagrams.
 - **[Draw.io](https://app.diagrams.net/)** <Badge type="tip" text="Free" />
   - Free online diagram software for architecture design.
+- **[Excalidraw](https://excalidraw.com/)** <Badge type="tip" text="Free" />
+  - Free tool for drawing system design diagrams.
 - **[High Scalability](https://highscalability.com/)** <Badge type="tip" text="Free" />
   - Articles and case studies on building scalable systems.
+- **[High Scalability](http://highscalability.com/)** <Badge type="tip" text="Free" />
+  - Real-world system architecture case studies from popular companies.
 - **[Learn System Design](https://learnsystemdesign.com/)** <Badge type="tip" text="Free" />
   - Free system design learning resources.
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
+  - Open-source guide for learning system design and architecture.
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** <Badge type="tip" text="Free" />
   - GitHub repository with comprehensive system design interview resources.
-- **[High Scalability](http://highscalability.com/)** <Badge type="tip" text="Free" />
-  - Real-world system architecture case studies from popular companies.

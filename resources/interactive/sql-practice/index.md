@@ -24,37 +24,37 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## All Resources
 
-- **[SQL Zoo](https://sqlzoo.net/)** <Badge type="tip" text="Free" />
-  - Interactive SQL tutorials and exercises.
+- **[DB-Fiddle](https://www.db-fiddle.com/)** <Badge type="tip" text="Free" />
+  - Free online SQL database playground.
+- **[Learn SQL Online](https://www.learnsqlonline.org/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorials for beginners with hands-on exercises.
+- **[Mode SQL Tutorial](https://mode.com/sql-tutorial/)** <Badge type="tip" text="Free" />
+  - SQL analytics tutorial for data analysis.
+- **[pgExercises](https://pgexercises.com/)** <Badge type="tip" text="Free" />
+  - PostgreSQL exercises from basic to advanced with a real database schema.
+- **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
+  - SQL-based space strategy game.
 - **[Select Star SQL](https://selectstarsql.com/)** <Badge type="tip" text="Free" />
   - Free SQL tutorial based on real datasets.
+- **[SQL Practice](https://sql-practice.com/)** <Badge type="tip" text="Free" />
+  - Browser-based SQL practice with instant query execution and results.
+- **[SQL Zoo](https://sqlzoo.net/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorials and exercises.
+- **[SQLbolt](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL lessons and exercises.
+- **[SQLBolt Interactive](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL tutorial with exercises built into the browser.
 - **[SQLFiddle](http://sqlfiddle.com/)** <Badge type="tip" text="Free" />
   - Online tool for testing SQL queries.
+- **[SQLTeaching](https://www.sqlteaching.com/)** <Badge type="tip" text="Free" />
+  - Interactive SQL lessons with real-time query execution in the browser.
+- **[W3Schools SQL](https://www.w3schools.com/sql/)** <Badge type="tip" text="Free" />
+  - SQL tutorial with interactive exercises.
+- **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
+  - SQL interview questions from top tech companies with solutions.
 - **[HackerRank - SQL](https://www.hackerrank.com/domains/sql)** <Badge type="warning" text="Freemium" />
   - SQL practice problems from basic to advanced.
 - **[LeetCode - SQL](https://leetcode.com/problemset/?topicSlugs=sql)** <Badge type="warning" text="Freemium" />
   - SQL interview problems and solutions.
-- **[SQLbolt](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
-  - Interactive SQL lessons and exercises.
-- **[Mode SQL Tutorial](https://mode.com/sql-tutorial/)** <Badge type="tip" text="Free" />
-  - SQL analytics tutorial for data analysis.
-- **[W3Schools SQL](https://www.w3schools.com/sql/)** <Badge type="tip" text="Free" />
-  - SQL tutorial with interactive exercises.
-- **[DB-Fiddle](https://www.db-fiddle.com/)** <Badge type="tip" text="Free" />
-  - Free online SQL database playground.
-- **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
-  - SQL-based space strategy game.
-- **[SQLBolt Interactive](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
-  - Interactive SQL tutorial with exercises built into the browser.
-- **[pgExercises](https://pgexercises.com/)** <Badge type="tip" text="Free" />
-  - PostgreSQL exercises from basic to advanced with a real database schema.
-- **[SQL Practice](https://sql-practice.com/)** <Badge type="tip" text="Free" />
-  - Browser-based SQL practice with instant query execution and results.
-- **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
-  - SQL interview questions from top tech companies with solutions.
 - **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
   - Real SQL and Python interview questions from FAANG companies.
-- **[Learn SQL Online](https://www.learnsqlonline.org/)** <Badge type="tip" text="Free" />
-  - Interactive SQL tutorials for beginners with hands-on exercises.
-- **[SQLTeaching](https://www.sqlteaching.com/)** <Badge type="tip" text="Free" />
-  - Interactive SQL lessons with real-time query execution in the browser.

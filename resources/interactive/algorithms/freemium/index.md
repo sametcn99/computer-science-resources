@@ -14,19 +14,19 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Freemium Resources (8)
 
-- **[HackerRank - Algorithms](https://www.hackerrank.com/domains/algorithms)** <Badge type="warning" text="Freemium" />
-  - Algorithm practice problems from warm-up to hard difficulty.
-- **[LeetCode - Explore](https://leetcode.com/explore/)** <Badge type="warning" text="Freemium" />
-  - Curated learning paths for data structures and algorithms.
-- **[LeetCode Daily](https://leetcode.com/problemset/)** <Badge type="warning" text="Freemium" />
-  - Daily coding challenge with 3000+ problems.
 - **[Binary Search](https://binarysearch.io/)** <Badge type="warning" text="Freemium" />
   - Collaborative coding problems and real-world interview questions.
-- **[InterviewBit](https://www.interviewbit.com/)** <Badge type="warning" text="Freemium" />
-  - Interview preparation platform with curated problem sets.
-- **[LintCode](https://www.lintcode.com/)** <Badge type="warning" text="Freemium" />
-  - Coding interview practice with 1000+ algorithm problems.
 - **[Brilliant - Computer Science](https://brilliant.org/courses/computer-science/)** <Badge type="warning" text="Freemium" />
   - Interactive CS fundamentals including algorithms, logic, and cryptography.
 - **[GeeksforGeeks - DSA Self Paced](https://practice.geeksforgeeks.org/courses/dsa-self-paced)** <Badge type="warning" text="Freemium" />
   - Structured data structures and algorithms course with practice problems.
+- **[HackerRank - Algorithms](https://www.hackerrank.com/domains/algorithms)** <Badge type="warning" text="Freemium" />
+  - Algorithm practice problems from warm-up to hard difficulty.
+- **[InterviewBit](https://www.interviewbit.com/)** <Badge type="warning" text="Freemium" />
+  - Interview preparation platform with curated problem sets.
+- **[LeetCode - Explore](https://leetcode.com/explore/)** <Badge type="warning" text="Freemium" />
+  - Curated learning paths for data structures and algorithms.
+- **[LeetCode Daily](https://leetcode.com/problemset/)** <Badge type="warning" text="Freemium" />
+  - Daily coding challenge with 3000+ problems.
+- **[LintCode](https://www.lintcode.com/)** <Badge type="warning" text="Freemium" />
+  - Coding interview practice with 1000+ algorithm problems.
