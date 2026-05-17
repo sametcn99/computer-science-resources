@@ -5,7 +5,7 @@
       "id": "interactive",
       "name": "Interactive Coding Platforms",
       "description": "Hands-on coding exercises, challenges, and real-world practice platforms.",
-      "icon": "💻",
+      "icon": "\ud83d\udcbb",
       "subcategories": [
         {
           "id": "coding-exercises",
@@ -481,7 +481,7 @@
       "id": "courses",
       "name": "Online Learning Platforms",
       "description": "University-level courses, certifications, and guided learning paths.",
-      "icon": "📚",
+      "icon": "\ud83d\udcda",
       "subcategories": [
         {
           "id": "course-platforms",
@@ -687,7 +687,7 @@
       "id": "interview",
       "name": "Interview Preparation",
       "description": "Practice for technical interviews, system design, and behavioral questions.",
-      "icon": "🗣️",
+      "icon": "\ud83d\udde3\ufe0f",
       "subcategories": [
         {
           "id": "technical-interview",
@@ -923,7 +923,7 @@
       "id": "devops",
       "name": "Linux & DevOps Labs",
       "description": "Hands-on practice for Linux, containerization, and DevOps tools.",
-      "icon": "🐧",
+      "icon": "\ud83d\udc27",
       "subcategories": [
         {
           "id": "linux-terminal",
@@ -1198,10 +1198,48 @@
       ]
     },
     {
+      "id": "network",
+      "name": "Networking",
+      "description": "Network fundamentals, subnetting, and networking practice platforms.",
+      "icon": "\ud83c\udf10",
+      "subcategories": [
+        {
+          "id": "network-fundamentals",
+          "name": "Network Fundamentals",
+          "resources": [
+            {
+              "name": "Subnetting Practice",
+              "url": "https://subnettingpractice.com/",
+              "description": "Free subnetting questions and practice tests for CCNA exam preparation.",
+              "price": "free"
+            },
+            {
+              "name": "ProProfs Cisco Networking Quiz",
+              "url": "https://www.proprofs.com/quiz-school/story.php?title=nje5ode5vs0p",
+              "description": "Basic Cisco networking quiz with 25 questions covering OSI model, TCP/IP, and protocols.",
+              "price": "free"
+            },
+            {
+              "name": "Subnetting.net",
+              "url": "https://www.subnetting.net/Subnetting.aspx?mode=practice",
+              "description": "Free subnetting practice questions and tutorials with multiple difficulty levels.",
+              "price": "free"
+            },
+            {
+              "name": "Learning About Electronics - Networking Quizzes",
+              "url": "https://www.learningaboutelectronics.com/Articles/Network-quiz.php",
+              "description": "Free networking quizzes covering TCP/IP, subnetting, and network fundamentals.",
+              "price": "free"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "security",
       "name": "Cybersecurity Labs",
       "description": "Practice cybersecurity skills, penetration testing, and CTF challenges.",
-      "icon": "🛡️",
+      "icon": "\ud83d\udee1\ufe0f",
       "subcategories": [
         {
           "id": "ctf",
@@ -1449,7 +1487,7 @@
       "id": "games",
       "name": "Game-Based Learning",
       "description": "Learn programming through gamified platforms and coding games.",
-      "icon": "🎮",
+      "icon": "\ud83c\udfae",
       "subcategories": [
         {
           "id": "coding-games",
@@ -1607,7 +1645,7 @@
       "id": "university",
       "name": "University & Academic",
       "description": "Free university-level computer science education.",
-      "icon": "🏛️",
+      "icon": "\ud83c\udfdb\ufe0f",
       "subcategories": [
         {
           "id": "open-courseware",
@@ -1723,7 +1761,7 @@
       "id": "practice-projects",
       "name": "Project-Based Practice",
       "description": "Build real-world projects to learn and practice programming skills.",
-      "icon": "🛠️",
+      "icon": "\ud83d\udee0\ufe0f",
       "subcategories": [
         {
           "id": "build-projects",

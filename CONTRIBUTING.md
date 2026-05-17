@@ -29,6 +29,8 @@ This project lists **practice platforms, exercise sites, and learning resources*
 - Linux/DevOps hands-on labs (OverTheWire, Katacoda, etc.)
 - University open courseware (MIT OCW, Harvard CS50, etc.)
 - Game-based coding learning platforms (CodinGame, CodeCombat, etc.)
+- Networking practice platforms (Subnetting Practice, ProProfs Cisco Quiz, etc.)
+- Related new categories of learning platforms that fit the above criteria
 
 ### Language Requirement
 

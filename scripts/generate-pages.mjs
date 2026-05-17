@@ -302,4 +302,100 @@ for (const category of data.categories) {
   }
 }
 
+// Cleanup: Remove orphaned directories/files that no longer exist in resources.json
+function getExpectedPaths() {
+  const expected = new Set()
+
+  // Root index
+  expected.add('index.md')
+
+  for (const category of data.categories) {
+    // Category index
+    expected.add(`${category.id}/index.md`)
+
+    for (const subcategory of category.subcategories) {
+      // Subcategory index
+      expected.add(`${category.id}/${subcategory.id}/index.md`)
+
+      // Price pages
+      for (const price of ['free', 'freemium', 'paid']) {
+        expected.add(`${category.id}/${subcategory.id}/${price}/index.md`)
+      }
+    }
+  }
+
+  return expected
+}
+
+function cleanupOrphanedFiles() {
+  const expected = getExpectedPaths()
+
+  function walk(dir, relativePath = '') {
+    if (!fs.existsSync(dir)) return
+
+    const entries = fs.readdirSync(dir, { withFileTypes: true })
+
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name)
+      const relPath = relativePath ? `${relativePath}/${entry.name}` : entry.name
+
+      if (entry.isDirectory()) {
+        // Check if directory has index.md - if not, it's empty and should be removed
+        const indexPath = path.join(fullPath, 'index.md')
+
+        if (!expected.has(relPath + '/index.md') && !expected.has(relPath + '/')) {
+          // This directory shouldn't exist - delete it
+          fs.rmSync(fullPath, { recursive: true, force: true })
+          console.log(`🗑️  Removed orphaned directory: ${relPath}`)
+          continue
+        }
+
+        // Recurse into expected directories
+        walk(fullPath, relPath)
+      } else if (entry.isFile()) {
+        // Check if file is expected
+        const expectedPath = relPath.endsWith('.md') ? relPath : null
+
+        // The only expected file is index.md
+        if (!expected.has(relPath)) {
+          fs.unlinkSync(fullPath)
+          console.log(`🗑️  Removed orphaned file: ${relPath}`)
+        }
+      }
+    }
+  }
+
+  // Clean up empty directories that might remain
+  function cleanEmptyDirs(dir) {
+    if (!fs.existsSync(dir)) return
+
+    const entries = fs.readdirSync(dir, { withFileTypes: true })
+    let hasFiles = false
+
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name)
+
+      if (entry.isDirectory()) {
+        cleanEmptyDirs(fullPath)
+        // Check if directory is now empty
+        const remaining = fs.readdirSync(fullPath)
+        if (remaining.length === 0) {
+          fs.rmdirSync(fullPath)
+          console.log(`🗑️  Removed empty directory: ${path.relative(resourcesDir, fullPath)}`)
+        } else {
+          hasFiles = true
+        }
+      } else {
+        hasFiles = true
+      }
+    }
+  }
+
+  console.log('\n🧹 Running cleanup...')
+  walk(resourcesDir)
+  cleanEmptyDirs(resourcesDir)
+}
+
+cleanupOrphanedFiles()
+
 console.log('✅ Pages generated successfully!')
