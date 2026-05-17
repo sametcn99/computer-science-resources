@@ -26,8 +26,8 @@ Network fundamentals, subnetting, and networking practice platforms.
 
 - **[Subnetting Practice](https://subnettingpractice.com/)** <Badge type="tip" text="Free" />
   - Free subnetting questions and practice tests for CCNA exam preparation.
-- **[ProProfs Cisco Networking Quiz](https://www.proprofs.com/quiz-school/story.php?title=nje5ode5vs0p)** <Badge type="tip" text="Free" />
-  - Basic Cisco networking quiz with 25 questions covering OSI model, TCP/IP, and protocols.
+- **[ProProfs Networking Quizs](https://www.proprofs.com/quiz-school/topic/networking)** <Badge type="tip" text="Free" />
+  - Free networking quizzes covering various networking topics.
 - **[Subnetting.net](https://www.subnetting.net/Subnetting.aspx?mode=practice)** <Badge type="tip" text="Free" />
   - Free subnetting practice questions and tutorials with multiple difficulty levels.
 - **[Learning About Electronics - Networking Quizzes](https://www.learningaboutelectronics.com/Articles/Network-quiz.php)** <Badge type="tip" text="Free" />

@@ -1214,9 +1214,9 @@
               "price": "free"
             },
             {
-              "name": "ProProfs Cisco Networking Quiz",
-              "url": "https://www.proprofs.com/quiz-school/story.php?title=nje5ode5vs0p",
-              "description": "Basic Cisco networking quiz with 25 questions covering OSI model, TCP/IP, and protocols.",
+              "name": "ProProfs Networking Quizs",
+              "url": "https://www.proprofs.com/quiz-school/topic/networking",
+              "description": "Free networking quizzes covering various networking topics.",
               "price": "free"
             },
             {
