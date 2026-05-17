@@ -1230,6 +1230,96 @@
               "url": "https://www.learningaboutelectronics.com/Articles/Network-quiz.php",
               "description": "Free networking quizzes covering TCP/IP, subnetting, and network fundamentals.",
               "price": "free"
+            },
+            {
+              "name": "PacketTrainer",
+              "url": "https://packet-trainer.com/en/index.html",
+              "description": "Free interactive Cisco IOS command exercises with simulated terminal and instant validation.",
+              "price": "free"
+            },
+            {
+              "name": "NetworkAcademy.io",
+              "url": "https://www.networkacademy.io/",
+              "description": "CCNA practice tests and quizzes covering OSI model, IP addressing, routing, and switching fundamentals.",
+              "price": "freemium"
+            },
+            {
+              "name": "NetSandbox",
+              "url": "https://www.netsandbox.io/",
+              "description": "Browser-based network design tool with drag-and-drop topology builder, protocol validation, and STP/OSPF/BGP simulation.",
+              "price": "free"
+            },
+            {
+              "name": "Connected Dots Online",
+              "url": "https://learncomputernetworking.com/",
+              "description": "Interactive browser-based network device simulators for subnetting, VLANs, routing, OSPF, and DHCP with hands-on labs.",
+              "price": "freemium"
+            },
+            {
+              "name": "Open Networking Lab",
+              "url": "https://onl.kmi.open.ac.uk/",
+              "description": "Free browser-based network simulator from the Open University for designing, configuring, and testing virtual networks.",
+              "price": "free"
+            },
+            {
+              "name": "OSI Model Simulator",
+              "url": "https://osi-model-simulator.roboticela.com/",
+              "description": "Interactive OSI layer simulator showing step-by-step data encapsulation through all seven layers with real protocols.",
+              "price": "free"
+            }
+          ]
+        },
+        {
+          "id": "network-labs",
+          "name": "Network Labs & Simulation",
+          "resources": [
+            {
+              "name": "NetPilot",
+              "url": "https://www.netpilot.io/network-lab-online",
+              "description": "Browser-based multi-vendor network simulator with real Cisco, Juniper, Arista, and Nokia CLIs.",
+              "price": "freemium"
+            },
+            {
+              "name": "Cisco Packet Tracer",
+              "url": "https://www.netacad.com/learning-collections/cisco-packet-tracer",
+              "description": "Free network simulation tool from Cisco for practicing routing, switching, and network configuration.",
+              "price": "free"
+            },
+            {
+              "name": "Inventive HQ Firewall Rule Simulator",
+              "url": "https://inventivehq.com/tools/network/firewall-rule-simulator",
+              "description": "Interactive browser-based firewall rule simulator to build, test, and analyze firewall rulesets.",
+              "price": "free"
+            },
+            {
+              "name": "Kurose/Ross Wireshark Labs",
+              "url": "https://gaia.cs.umass.edu/kurose_ross/wireshark.php",
+              "description": "Free hands-on Wireshark labs covering HTTP, DNS, TCP, UDP, IP, NAT, DHCP, and more protocols.",
+              "price": "free"
+            },
+            {
+              "name": "Malware Traffic Analysis",
+              "url": "https://www.malware-traffic-analysis.net/training-exercises.html",
+              "description": "Free PCAP-based traffic analysis exercises for learning network forensics and packet inspection.",
+              "price": "free"
+            },
+            {
+              "name": "CTF Academy - Network Forensics",
+              "url": "https://ctfacademy.github.io/network/index.htm",
+              "description": "Free network forensics challenges teaching protocol analysis and Wireshark packet inspection skills.",
+              "price": "free"
+            },
+            {
+              "name": "NetworkDirection Labs",
+              "url": "https://networkdirection.net/labsandquizzes/labs/",
+              "description": "Free pre-built network labs for Cisco CML and VIRL covering routing, switching, and security topics.",
+              "price": "free"
+            },
+            {
+              "name": "Cybrary",
+              "url": "https://www.cybrary.it/practice-lab/network-segmentation",
+              "description": "Free virtual network labs covering segmentation, routing, and infrastructure skills with guided exercises.",
+              "price": "freemium"
             }
           ]
         }
