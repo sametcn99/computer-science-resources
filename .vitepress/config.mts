@@ -56,6 +56,15 @@ function buildHead() {
     // Twitter
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:image', content: `${SITE_URL}${DEFAULT_IMAGE}` }],
+    [
+      'script',
+      {
+        defer: '',
+        src: 'https://umami.sametcc.me/script.js',
+        'data-website-id': '850f0e07-9c31-4925-8771-b3c60e4a8074',
+        'data*performance': 'true'
+      }
+    ],
 
     // JSON-LD structured data
     [
