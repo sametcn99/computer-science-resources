@@ -7,9 +7,9 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Filter by Price
 
-- [All](/resources/interactive/coding-exercises/) - 35 resources
-- [Free](/resources/interactive/coding-exercises/free/) - 14 resources
-- [Freemium](/resources/interactive/coding-exercises/freemium/) - 11 resources
+- [All](/resources/interactive/coding-exercises/) - 55 resources
+- [Free](/resources/interactive/coding-exercises/free/) - 25 resources
+- [Freemium](/resources/interactive/coding-exercises/freemium/) - 20 resources
 - [Paid](/resources/interactive/coding-exercises/paid/) - 10 resources
 
 ## Paid Resources (10)

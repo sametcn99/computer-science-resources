@@ -7,10 +7,10 @@ Practice for technical interviews, system design, and behavioral questions.
 
 ## Filter by Price
 
-- [All](/resources/interview/system-design/) - 14 resources
-- [Free](/resources/interview/system-design/free/) - 7 resources
+- [All](/resources/interview/system-design/) - 31 resources
+- [Free](/resources/interview/system-design/free/) - 23 resources
 - [Freemium](/resources/interview/system-design/freemium/) - 2 resources
-- [Paid](/resources/interview/system-design/paid/) - 5 resources
+- [Paid](/resources/interview/system-design/paid/) - 6 resources
 
 ## Freemium Resources (2)
 

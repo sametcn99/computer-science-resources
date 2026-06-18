@@ -10,22 +10,22 @@ description: 'Curated computer science resources, coding challenge, and online l
 ```mermaid
 pie
     title Resource Distribution
-    "Free" : 216
-    "Freemium" : 72
-    "Paid" : 46
+    "Free" : 430
+    "Freemium" : 114
+    "Paid" : 78
 ```
 
 ## Categories
 
-- **[💻 Interactive Coding Platforms](/resources/interactive/)** - 112 resources
-- **[📚 Online Learning Platforms](/resources/courses/)** - 32 resources
-- **[🗣️ Interview Preparation](/resources/interview/)** - 36 resources
-- **[🐧 Linux & DevOps Labs](/resources/devops/)** - 42 resources
-- **[🌐 Networking](/resources/network/)** - 18 resources
-- **[🛡️ Cybersecurity Labs](/resources/security/)** - 38 resources
-- **[🎮 Game-Based Learning](/resources/games/)** - 24 resources
-- **[🏛️ University & Academic](/resources/university/)** - 17 resources
-- **[🛠️ Project-Based Practice](/resources/practice-projects/)** - 15 resources
+- **[💻 Interactive Coding Platforms](/resources/interactive/)** - 167 resources
+- **[📚 Online Learning Platforms](/resources/courses/)** - 54 resources
+- **[🗣️ Interview Preparation](/resources/interview/)** - 66 resources
+- **[🐧 Linux & DevOps Labs](/resources/devops/)** - 91 resources
+- **[🌐 Networking](/resources/network/)** - 43 resources
+- **[🛡️ Cybersecurity Labs](/resources/security/)** - 79 resources
+- **[🎮 Game-Based Learning](/resources/games/)** - 47 resources
+- **[🏛️ University & Academic](/resources/university/)** - 39 resources
+- **[🛠️ Project-Based Practice](/resources/practice-projects/)** - 36 resources
 
 ---
 

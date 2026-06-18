@@ -1,65 +1,101 @@
 ---
 title: '💻 Interactive Coding Platforms'
-description: '112 curated interactive coding platforms resources for developers. 74 free resources available across 4 subcategories.'
+description: '167 curated interactive coding platforms resources for developers. 116 free resources available across 4 subcategories.'
 head:
   - - meta
     - property: og:description
-      content: '112 curated interactive coding platforms resources for developers. 74 free resources available across 4 subcategories.'
+      content: '167 curated interactive coding platforms resources for developers. 116 free resources available across 4 subcategories.'
   - - meta
     - property: og:title
       content: 'Interactive Coding Platforms - CS Resources'
   - - script
     - type: application/ld+json
-      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interactive Coding Platforms","description":"112 curated interactive coding platforms resources for developers. 74 free resources available across 4 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interactive","numberOfItems":112}'
+      content: '{"@context":"https://schema.org","@type":"CollectionPage","name":"Interactive Coding Platforms","description":"167 curated interactive coding platforms resources for developers. 116 free resources available across 4 subcategories.","url":"https://computer-science-resources.vercel.app/resources/interactive","numberOfItems":167}'
 ---
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ## Subcategories
 
-- **[Coding Exercises & Practice](/resources/interactive/coding-exercises/)** - 35 resources (14 free, 11 freemium, 10 paid)
-- **[Algorithms & Data Structures](/resources/interactive/algorithms/)** - 23 resources (15 free, 8 freemium, 0 paid)
-- **[SQL & Database Practice](/resources/interactive/sql-practice/)** - 17 resources (13 free, 4 freemium, 0 paid)
+- **[Coding Exercises & Practice](/resources/interactive/coding-exercises/)** - 55 resources (25 free, 20 freemium, 10 paid)
+- **[Algorithms & Data Structures](/resources/interactive/algorithms/)** - 41 resources (33 free, 8 freemium, 0 paid)
+- **[SQL & Database Practice](/resources/interactive/sql-practice/)** - 34 resources (26 free, 7 freemium, 1 paid)
 - **[Programming Quizzes & MCQs](/resources/interactive/programming-quizzes/)** - 37 resources (32 free, 5 freemium, 0 paid)
 
-## All Resources (112)
+## All Resources (167)
 
 ### Coding Exercises & Practice
 
+- **[Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp/)** <Badge type="tip" text="Free" />
+  - Contest platform and problem archive from the University of Aizu featuring programming contest problems.
 - **[AtCoder](https://atcoder.jp/)** <Badge type="tip" text="Free" />
   - Japanese competitive programming contests and practice problems.
 - **[CodeChef](https://www.codechef.com/)** <Badge type="tip" text="Free" />
   - Competitive programming platform with monthly contests and practice problems.
 - **[Codeforces](https://codeforces.com/)** <Badge type="tip" text="Free" />
   - Competitive programming contests with real-time rating system.
+- **[CodeKata](http://codekata.com/)** <Badge type="tip" text="Free" />
+  - Dave Thomas's collection of coding katas designed to build skill through deliberate practice and repetition.
 - **[Codewars](https://www.codewars.com/)** <Badge type="tip" text="Free" />
   - Community-driven coding challenges (katas) in multiple programming languages.
 - **[CodinGame](https://www.codingame.com/)** <Badge type="tip" text="Free" />
   - Gamified coding challenges and programming puzzles with multiplayer.
 - **[CodingBat](https://codingbat.com/)** <Badge type="tip" text="Free" />
   - Free practice problems for Java and Python with instant testing.
+- **[CS Academy](https://csacademy.com/)** <Badge type="tip" text="Free" />
+  - Online judge hosting biweekly contests with live chat, interactive lessons, and an integrated online editor.
+- **[DevChallenges](https://devchallenges.io/)** <Badge type="tip" text="Free" />
+  - Project-based coding challenges for front-end, full-stack, and responsive web development with design specs.
 - **[Exercism](https://exercism.org/)** <Badge type="tip" text="Free" />
   - Free code mentorship and practice in 70+ programming languages with mentor feedback.
 - **[Exercism - Mentoring](https://exercism.org/tracks)** <Badge type="tip" text="Free" />
   - Free one-on-one mentorship for code improvement in 70+ languages.
+- **[Gophercises](https://gophercises.com/)** <Badge type="tip" text="Free" />
+  - Free Go programming course with hands-on mini-projects teaching the language through building small apps.
 - **[Interviewing.io](https://interviewing.io/)** <Badge type="tip" text="Free" />
   - Free anonymous technical interview practice with real engineers.
+- **[JSChallenger](https://www.jschallenger.com/)** <Badge type="tip" text="Free" />
+  - Focused JavaScript exercises covering arrays, dates, objects, and DOM manipulation with instant feedback.
 - **[Kickstart](https://kickstart.io/)** <Badge type="tip" text="Free" />
   - Free coding interview practice with Google engineers.
+- **[OmegaUp](https://omegaup.com/)** <Badge type="tip" text="Free" />
+  - Community-based competitive programming training platform that hosts the Mexican Olympiad in Informatics.
 - **[Pramp](https://www.pramp.com/)** <Badge type="tip" text="Free" />
   - Free peer-to-peer mock interviews for technical and behavioral questions.
+- **[Rosetta Code](https://rosettacode.org/)** <Badge type="tip" text="Free" />
+  - Programming chrestomathy site with hundreds of tasks solved in many languages for comparative practice.
 - **[Sanfoundry](https://www.sanfoundry.com/)** <Badge type="tip" text="Free" />
   - Thousands of MCQs, programming questions, and technical interview resources.
 - **[Sphere Online Judge](https://www.spoj.com/)** <Badge type="tip" text="Free" />
   - Large collection of algorithmic problems with community solutions.
+- **[The Python Challenge](http://www.pythonchallenge.com/)** <Badge type="tip" text="Free" />
+  - Series of puzzles requiring Python code to advance to the next level blending math and programming.
+- **[Timus Online Judge](http://acm.timus.ru/)** <Badge type="tip" text="Free" />
+  - Russia's largest archive of programming problems with automatic judging from Ural Federal University contests.
 - **[TopCoder](https://www.topcoder.com/)** <Badge type="tip" text="Free" />
   - Competitive programming arena and software development challenges.
+- **[Virtual Judge](http://vjudge.net/)** <Badge type="tip" text="Free" />
+  - Platform that lets users create virtual contests by aggregating problems from many notable online judges.
+- **[AlgoDaily](https://algodaily.com/)** <Badge type="warning" text="Freemium" />
+  - Daily coding interview challenges with detailed explanations designed to help land software engineering jobs.
+- **[CheckiO](https://checkio.org/)** <Badge type="warning" text="Freemium" />
+  - Coding game platform where players solve Python and TypeScript missions to progress through island levels.
+- **[Codeasy](https://codeasy.net/)** <Badge type="warning" text="Freemium" />
+  - Story-driven C# coding course where you solve exercises to advance a military-themed narrative.
 - **[Codebasil](https://codebasil.io/)** <Badge type="warning" text="Freemium" />
   - Mock coding interviews with real-time collaboration.
+- **[Codecademy](https://www.codecademy.com/)** <Badge type="warning" text="Freemium" />
+  - Interactive coding platform with exercises and projects across many languages and technologies.
+- **[CodeCrafters](https://codecrafters.io/)** <Badge type="warning" text="Freemium" />
+  - Recreate popular tools like Redis, Git, and HTTP servers from scratch by completing step-by-step coding tasks.
+- **[CodeHS](https://codehs.com/)** <Badge type="warning" text="Freemium" />
+  - Interactive coding exercises for students and teachers with autograding spanning K-12 to AP level.
 - **[Codelab](https://codelab.interviewbit.com/)** <Badge type="warning" text="Freemium" />
   - Interview preparation platform with coding problems and company tests.
 - **[Codemia](https://codemia.io/)** <Badge type="warning" text="Freemium" />
   - Real-world software engineering exercises and system design practice.
+- **[CodeStudio by Coding Ninjas](https://www.codingninjas.com/codestudio)** <Badge type="warning" text="Freemium" />
+  - Indian platform with coding problems, guided interview tracks, and mock tests curated by mentors.
 - **[Codility](https://www.codility.com/)** <Badge type="warning" text="Freemium" />
   - Programming tasks and online interviews for developers.
 - **[Daily Coding Problem](https://dailycodingproblem.com/)** <Badge type="warning" text="Freemium" />
@@ -74,6 +110,10 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Coding challenges, algorithms, data structures, and interview preparation.
 - **[LeetCode](https://leetcode.com/)** <Badge type="warning" text="Freemium" />
   - Technical interview preparation with 3000+ coding problems and mock interviews.
+- **[Python Principles](https://pythonprinciples.com/)** <Badge type="warning" text="Freemium" />
+  - Python-focused exercises with instant verification organized by topic to build core programming skills.
+- **[Sololearn](https://www.sololearn.com/)** <Badge type="warning" text="Freemium" />
+  - Mobile-friendly coding exercises and bite-sized challenges across many languages with community competitions.
 - **[TestDome](https://www.testdome.com/)** <Badge type="warning" text="Freemium" />
   - Pre-employment testing platform with programming exercises.
 - **[ Interview Pro](https://www.interviewproxy.com/)** <Badge type="danger" text="Paid" />
@@ -101,34 +141,70 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 - **[A2OJ](https://a2oj.com/)** <Badge type="tip" text="Free" />
   - Problem sets organized by difficulty and topic.
+- **[Algo Deck](https://github.com/teivah/algodeck)** <Badge type="tip" text="Free" />
+  - Open-source collection of 200+ algorithmic flashcards for quick review and interview prep.
+- **[Algomation](http://www.algomation.com/)** <Badge type="tip" text="Free" />
+  - Algorithm visualization library using JavaScript generators to animate execution of common algorithms.
+- **[Algorithms Illuminated](https://www.algorithmsilluminated.org/)** <Badge type="tip" text="Free" />
+  - Tim Roughgarden's companion site with lecture videos and slides for his algorithms book series.
 - **[AtCoder Problems](https://atcoder.jp/problems)** <Badge type="tip" text="Free" />
   - AtCoder practice problems with difficulty ratings.
+- **[basecs](https://medium.com/basecs)** <Badge type="tip" text="Free" />
+  - Medium blog by Vaidehi Joshi with illustrated in-depth tutorials on algorithms and data structures.
 - **[Code Abbey](https://www.codeabbey.com/)** <Badge type="tip" text="Free" />
   - Programming problems for beginners to experts.
 - **[Codeforces - Problems](https://codeforces.com/problemset)** <Badge type="tip" text="Free" />
   - Database of competitive programming problems.
 - **[Codeground](https://www.codeground.org/)** <Badge type="tip" text="Free" />
   - Practice platform with algorithmic problems.
+- **[Competitive Programmer's Handbook](https://cses.fi/book/index.html)** <Badge type="tip" text="Free" />
+  - Antti Laaksonen's free book introducing competitive programming for IOI and ICPC aspirants.
 - **[CP-Algorithms](https://cp-algorithms.com/)** <Badge type="tip" text="Free" />
   - Comprehensive archive of algorithms and data structures with implementations.
 - **[CSES Problem Set](https://cses.fi/problemset/)** <Badge type="tip" text="Free" />
   - Competitive Programming Essential Skills problem set.
+- **[E-Maxx Algorithms](http://e-maxx.ru/algo/)** <Badge type="tip" text="Free" />
+  - Widely-referenced Russian tutorial site covering a huge range of competitive programming algorithms.
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/)** <Badge type="tip" text="Free" />
   - Computer science tutorials, algorithm explanations, and practice problems.
+- **[HackerEarth Code Monk](https://www.hackerearth.com/practice/codemonk/)** <Badge type="tip" text="Free" />
+  - Step-by-step tutorials on essential competitive programming topics with practice problems.
+- **[IDeserve YouTube](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw)** <Badge type="tip" text="Free" />
+  - YouTube channel with detailed algorithm and data structure interview tutorials and walkthroughs.
 - **[Kattis](https://open.kattis.com/)** <Badge type="tip" text="Free" />
   - Programming contest problems from various competitions.
+- **[KTH KACTL Notebook](https://github.com/kth-competitive-programming/kactl)** <Badge type="tip" text="Free" />
+  - Well-organized competitive programming team notebook from KTH Royal Institute.
+- **[MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)** <Badge type="tip" text="Free" />
+  - MIT OCW video lectures and materials for the classic undergraduate algorithms course.
+- **[mycodeschool YouTube](https://www.youtube.com/user/mycodeschool)** <Badge type="tip" text="Free" />
+  - High-quality video tutorials on basic programming data structures and algorithms.
 - **[NeetCode](https://neetcode.io/)** <Badge type="tip" text="Free" />
   - Curated coding problems for interview preparation.
+- **[OI Wiki](https://oi-wiki.org/)** <Badge type="tip" text="Free" />
+  - Community-driven Chinese wiki covering competitive programming algorithms and data structures.
 - **[Project Euler](https://projecteuler.net/)** <Badge type="tip" text="Free" />
   - Mathematical and computational programming problems.
+- **[See Algorithms](https://see-algorithms.com/)** <Badge type="tip" text="Free" />
+  - Interactive site that visualizes algorithms and lets users create and share custom graphs and trees.
 - **[SPOJ](https://www.spoj.com/)** <Badge type="tip" text="Free" />
   - Online judge with thousands of programming problems.
+- **[Stanford CS 97SI](http://web.stanford.edu/class/cs97si/)** <Badge type="tip" text="Free" />
+  - Stanford's introduction to competitive programming with comprehensive lecture slides and practice problems.
+- **[Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)** <Badge type="tip" text="Free" />
+  - Classic tutorials by Topcoder members covering algorithms and data structures used in competition.
+- **[USA Computing Olympiad](http://www.usaco.org/)** <Badge type="tip" text="Free" />
+  - USACO training pages with self-paced algorithmic problems to develop contest programming skills.
 - **[USACO Guide](https://usaco.guide/)** <Badge type="tip" text="Free" />
   - Curated learning path for competitive programming from bronze to platinum.
+- **[USFCA Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)** <Badge type="tip" text="Free" />
+  - David Galles' interactive visualizations for sorting, graphs, trees, heaps and data structures.
 - **[UVa Online Judge](https://onlinejudge.org/)** <Badge type="tip" text="Free" />
   - Classic programming problems and contests.
 - **[VisualAlgo](https://visualgo.net/)** <Badge type="tip" text="Free" />
   - Interactive algorithm visualizations for sorting, graph, and data structure algorithms.
+- **[William Fiset YouTube](https://www.youtube.com/user/purpongie)** <Badge type="tip" text="Free" />
+  - Comprehensive YouTube channel covering almost all data structures and algorithms with animations.
 - **[Binary Search](https://binarysearch.io/)** <Badge type="warning" text="Freemium" />
   - Collaborative coding problems and real-world interview questions.
 - **[Brilliant - Computer Science](https://brilliant.org/courses/computer-science/)** <Badge type="warning" text="Freemium" />
@@ -148,20 +224,42 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
 
 ### SQL & Database Practice
 
+- **[CodeChef SQL Practice](https://www.codechef.com/practice/sql-case-studies-topic-wise)** <Badge type="tip" text="Free" />
+  - Interactive SQL course with topic-wise case studies covering JOINs, subqueries, and aggregate functions.
 - **[DB-Fiddle](https://www.db-fiddle.com/)** <Badge type="tip" text="Free" />
   - Free online SQL database playground.
+- **[DBeaver](https://dbeaver.io/)** <Badge type="tip" text="Free" />
+  - Free multi-platform database tool supporting all popular databases for querying and administration.
+- **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** <Badge type="tip" text="Free" />
+  - Free cloud platform for practicing SQL on real-world public datasets with just a Google account.
+- **[GUVI SQLKata](https://www.guvi.in/sqlkata/)** <Badge type="tip" text="Free" />
+  - Structured SQL coding challenges based on real company scenarios with auto-grading and rewards.
+- **[Hackr.io SQL Tutorials](https://hackr.io/tutorials/learn-sql)** <Badge type="tip" text="Free" />
+  - Community-curated directory of the best SQL tutorials and courses for learning SQL.
 - **[Learn SQL Online](https://www.learnsqlonline.org/)** <Badge type="tip" text="Free" />
   - Interactive SQL tutorials for beginners with hands-on exercises.
 - **[Mode SQL Tutorial](https://mode.com/sql-tutorial/)** <Badge type="tip" text="Free" />
   - SQL analytics tutorial for data analysis.
+- **[Oracle Live SQL](https://livesql.oracle.com/)** <Badge type="tip" text="Free" />
+  - Oracle's free online SQL workspace for running SQL and PL/SQL scripts on live Oracle databases.
 - **[pgExercises](https://pgexercises.com/)** <Badge type="tip" text="Free" />
   - PostgreSQL exercises from basic to advanced with a real database schema.
+- **[Practice-SQL](https://www.practice-sql.com/)** <Badge type="tip" text="Free" />
+  - Free SQL practice platform with online terminal offering easy, medium, and hard query challenges.
+- **[Scaler SQL Topics](https://www.scaler.com/topics/sql/)** <Badge type="tip" text="Free" />
+  - Curated interactive learning space for mastering SQL skills with basic and advanced concepts.
 - **[Schemaverse](https://schemaverse.com/)** <Badge type="tip" text="Free" />
   - SQL-based space strategy game.
 - **[Select Star SQL](https://selectstarsql.com/)** <Badge type="tip" text="Free" />
   - Free SQL tutorial based on real datasets.
+- **[SQL Drills](https://sqldrills.com/)** <Badge type="tip" text="Free" />
+  - 300+ free SQL exercises organized by difficulty covering SELECT, JOINs, GROUP BY, and subqueries.
 - **[SQL Practice](https://sql-practice.com/)** <Badge type="tip" text="Free" />
   - Browser-based SQL practice with instant query execution and results.
+- **[SQL Practice Online](https://www.sql-practice.online/)** <Badge type="tip" text="Free" />
+  - SQL playground supporting PostgreSQL, MySQL, SQL Server with FAANG-style interview questions.
+- **[SQL Query Lab](https://learn-sql-practice.vercel.app/)** <Badge type="tip" text="Free" />
+  - Practice SQL queries against in-browser SQLite databases with 74 exercises across real schemas.
 - **[SQL Zoo](https://sqlzoo.net/)** <Badge type="tip" text="Free" />
   - Interactive SQL tutorials and exercises.
 - **[SQLbolt](https://sqlbolt.com/)** <Badge type="tip" text="Free" />
@@ -170,18 +268,30 @@ Hands-on coding exercises, challenges, and real-world practice platforms.
   - Interactive SQL tutorial with exercises built into the browser.
 - **[SQLFiddle](http://sqlfiddle.com/)** <Badge type="tip" text="Free" />
   - Online tool for testing SQL queries.
+- **[SQLite Online](https://sqliteonline.com/)** <Badge type="tip" text="Free" />
+  - Online SQL IDE supporting SQLite, PostgreSQL, MySQL, SQL Server with import and charting.
+- **[SQLPractice.in](https://www.sqlpractice.in/)** <Badge type="tip" text="Free" />
+  - Free online SQL compiler with real-world interview questions from top tech companies.
 - **[SQLTeaching](https://www.sqlteaching.com/)** <Badge type="tip" text="Free" />
   - Interactive SQL lessons with real-time query execution in the browser.
 - **[W3Schools SQL](https://www.w3schools.com/sql/)** <Badge type="tip" text="Free" />
   - SQL tutorial with interactive exercises.
 - **[DataLemur](https://datalemur.com/)** <Badge type="warning" text="Freemium" />
   - SQL interview questions from top tech companies with solutions.
+- **[EverSQL](https://www.eversql.com/)** <Badge type="warning" text="Freemium" />
+  - AI-powered SQL query optimization tool that automatically analyzes and tunes slow SQL queries.
 - **[HackerRank - SQL](https://www.hackerrank.com/domains/sql)** <Badge type="warning" text="Freemium" />
   - SQL practice problems from basic to advanced.
+- **[LearnSQL.com](https://learnsql.com/)** <Badge type="warning" text="Freemium" />
+  - Interactive SQL learning platform with step-by-step courses and real-time feedback across databases.
 - **[LeetCode - SQL](https://leetcode.com/problemset/?topicSlugs=sql)** <Badge type="warning" text="Freemium" />
   - SQL interview problems and solutions.
+- **[SQL Academy](https://sql-academy.org/en)** <Badge type="warning" text="Freemium" />
+  - Learn SQL with interactive lessons and 130+ practice tasks with MySQL and PostgreSQL.
 - **[StrataScratch](https://www.stratascratch.com/)** <Badge type="warning" text="Freemium" />
   - Real SQL and Python interview questions from FAANG companies.
+- **[SQL Habit](https://www.sqlhabit.com/)** <Badge type="danger" text="Paid" />
+  - Story-driven SQL and data analysis course with mock interviews simulating real product challenges.
 
 ### Programming Quizzes & MCQs
 
