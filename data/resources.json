@@ -132,12 +132,6 @@
               "price": "paid"
             },
             {
-              "name": "DeveloperQuiz",
-              "url": "https://developerquiz.org",
-              "description": "Learn to Code RPG Quiz Practice with 1200+ Questions",
-              "price": "free"
-            },
-            {
               "name": "HireVue",
               "url": "https://www.hirevue.com/",
               "description": "Code-based assessments and technical interviews platform.",
@@ -477,6 +471,108 @@
               "name": "SQLTeaching",
               "url": "https://www.sqlteaching.com/",
               "description": "Interactive SQL lessons with real-time query execution in the browser.",
+              "price": "free"
+            }
+          ]
+        },
+        {
+          "id": "programming-quizzes",
+          "name": "Programming Quizzes & MCQs",
+          "resources": [
+            {
+              "name": "W3Schools Quizzes",
+              "url": "https://www.w3schools.com/quiztest/",
+              "description": "Multiple choice quizzes for many programming languages and web technologies to test your knowledge.",
+              "price": "free"
+            },
+            {
+              "name": "DeveloperQuiz",
+              "url": "https://developerquiz.org",
+              "description": "Learn to Code RPG Quiz Practice with 1200+ Questions",
+              "price": "free"
+            },
+            {
+              "name": "GeeksforGeeks Quiz Hub",
+              "url": "https://www.geeksforgeeks.org/quizzes/",
+              "description": "Topic-wise MCQs and mock tests covering C, algorithms, data structures, networks, and aptitude.",
+              "price": "free"
+            },
+            {
+              "name": "Solviyo Programming Quizzes",
+              "url": "https://www.solviyo.com/quizzes/",
+              "description": "Interactive programming quizzes in Python, JavaScript, Java, C++, Go, Kotlin, and HTML.",
+              "price": "free"
+            },
+            {
+              "name": "ProgQuiz",
+              "url": "https://www.progquiz.com/",
+              "description": "Daily programming quizzes and challenges for Python, JavaScript, Java, and more languages.",
+              "price": "free"
+            },
+            {
+              "name": "CoderMantra Coding Quiz",
+              "url": "https://www.codermantra.com/quiz/",
+              "description": "Free MCQ coding quizzes for Python, Java, C, SQL, and more for interview preparation.",
+              "price": "free"
+            },
+            {
+              "name": "MyCodeSkills",
+              "url": "https://www.mycodeskills.com/",
+              "description": "10,000+ free coding MCQs with answers and explanations for Java, Python, SQL, and React.",
+              "price": "free"
+            },
+            {
+              "name": "MCQs.dev",
+              "url": "https://mcqs.dev/",
+              "description": "Free and open-source programming and computer science MCQs across 55+ languages.",
+              "price": "free"
+            },
+            {
+              "name": "Learn Programming Quiz",
+              "url": "https://learnprogrammingquiz.com/",
+              "description": "Interactive coding quizzes in Python, JavaScript, Java, and C++ with progress tracking.",
+              "price": "free"
+            },
+            {
+              "name": "TechieLearn Quiz",
+              "url": "https://techielearn.com/quiz",
+              "description": "Free interactive programming quizzes across 60+ subjects including JS, Python, React, SQL, and DevOps.",
+              "price": "free"
+            },
+            {
+              "name": "CoderStar Coding Quizzes",
+              "url": "https://coderstar.in/coding-quizzes/",
+              "description": "Interactive real-world coding quizzes across multiple languages and topic-based problem sets.",
+              "price": "free"
+            },
+            {
+              "name": "CodingTests.online",
+              "url": "https://codingtests.online/",
+              "description": "Free coding tests for Python, Java, C#, and JavaScript to prepare for developer interviews.",
+              "price": "free"
+            },
+            {
+              "name": "Code Conquest Coding Quizzes",
+              "url": "https://www.codeconquest.com/coding-quizzes/",
+              "description": "Free multiple-choice coding quizzes with 10 random questions per quiz across languages.",
+              "price": "free"
+            },
+            {
+              "name": "PSkills",
+              "url": "https://www.pskills.org/",
+              "description": "Online programming tests in C, Java, .NET, PHP, and HTML with explanations and interview Q&A.",
+              "price": "free"
+            },
+            {
+              "name": "IndiaBIX Programming MCQs",
+              "url": "https://www.indiabix.com/java-programming/questions-and-answers/",
+              "description": "Programming MCQs and interview questions with detailed answers and explanations for many languages.",
+              "price": "free"
+            },
+            {
+              "name": "Placement Preparation MCQs",
+              "url": "https://www.placementpreparation.io/mcq/",
+              "description": "Extensive technical MCQs covering programming and computer science topics for placement and interview prep.",
               "price": "free"
             }
           ]

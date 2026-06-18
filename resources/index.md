@@ -10,14 +10,14 @@ description: 'Curated computer science resources, coding challenge, and online l
 ```mermaid
 pie
     title Resource Distribution
-    "Free" : 184
+    "Free" : 200
     "Freemium" : 67
     "Paid" : 46
 ```
 
 ## Categories
 
-- **[💻 Interactive Coding Platforms](/resources/interactive/)** - 75 resources
+- **[💻 Interactive Coding Platforms](/resources/interactive/)** - 91 resources
 - **[📚 Online Learning Platforms](/resources/courses/)** - 32 resources
 - **[🗣️ Interview Preparation](/resources/interview/)** - 36 resources
 - **[🐧 Linux & DevOps Labs](/resources/devops/)** - 42 resources
