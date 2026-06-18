@@ -7,7 +7,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "generate": "node scripts/generate-pages.mjs",
+    "generate": "node scripts/generate-pages.mjs && bun run format",
     "validate": "node scripts/validate.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",

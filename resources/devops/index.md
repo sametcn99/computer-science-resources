@@ -62,7 +62,7 @@ Hands-on practice for Linux, containerization, and DevOps tools.
 
 ### Container & Kubernetes
 
-- **[Dcos Academy](https://dcos.io/learn/)** <Badge type="tip" text="Free" />
+- **[Dcos Academy](https://dcos.io/learning/)** <Badge type="tip" text="Free" />
   - Container orchestration training.
 - **[Docker Curriculum](https://docker-curriculum.com/)** <Badge type="tip" text="Free" />
   - Step-by-step Docker tutorial for beginners.
