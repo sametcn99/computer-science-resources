@@ -132,6 +132,12 @@
               "price": "paid"
             },
             {
+              "name": "DeveloperQuiz",
+              "url": "https://developerquiz.org",
+              "description": "Learn to Code RPG Quiz Practice with 1200+ Questions",
+              "price": "free"
+            },
+            {
               "name": "HireVue",
               "url": "https://www.hirevue.com/",
               "description": "Code-based assessments and technical interviews platform.",
