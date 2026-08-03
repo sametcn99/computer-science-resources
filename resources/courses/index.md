@@ -15,6 +15,16 @@ head:
 
 University-level courses, certifications, and guided learning paths.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 16
+    "Freemium" : 20
+    "Paid" : 18
+```
+
 ## Subcategories
 
 - **[Courses & Certifications](/resources/courses/course-platforms/)** - 54 resources (16 free, 20 freemium, 18 paid)

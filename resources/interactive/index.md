@@ -15,6 +15,16 @@ head:
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 116
+    "Freemium" : 40
+    "Paid" : 11
+```
+
 ## Subcategories
 
 - **[Coding Exercises & Practice](/resources/interactive/coding-exercises/)** - 55 resources (25 free, 20 freemium, 10 paid)

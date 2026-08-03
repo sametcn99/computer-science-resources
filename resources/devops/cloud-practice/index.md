@@ -15,6 +15,16 @@ head:
 
 Hands-on practice for Linux, containerization, and DevOps tools.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 16
+    "Freemium" : 4
+    "Paid" : 5
+```
+
 ## Filter by Price
 
 - [All](/resources/devops/cloud-practice/) - 25 resources

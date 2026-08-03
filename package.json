@@ -22,17 +22,16 @@
     "developer-resources",
     "open-source"
   ],
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/sametcn99/computer-science-resources"
   },
   "devDependencies": {
     "ajv": "^8.20.0",
-    "markdownlint-cli2": "^0.22.1",
-    "prettier": "^3.8.4",
+    "markdownlint-cli2": "^0.23.2",
+    "prettier": "^3.9.6",
     "vitepress": "^1.6.4",
-    "vitepress-mermaid-renderer": "^1.1.27"
+    "vitepress-mermaid-renderer": "^1.1.28"
   },
   "engines": {
     "node": ">=18.0.0"

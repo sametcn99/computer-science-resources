@@ -15,6 +15,16 @@ head:
 
 Hands-on practice for Linux, containerization, and DevOps tools.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 75
+    "Freemium" : 10
+    "Paid" : 6
+```
+
 ## Subcategories
 
 - **[Linux & Terminal](/resources/devops/linux-terminal/)** - 35 resources (31 free, 4 freemium, 0 paid)

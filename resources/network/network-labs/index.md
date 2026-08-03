@@ -15,6 +15,16 @@ head:
 
 Network fundamentals, subnetting, and networking practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 12
+    "Freemium" : 3
+    "Paid" : 5
+```
+
 ## Filter by Price
 
 - [All](/resources/network/network-labs/) - 20 resources

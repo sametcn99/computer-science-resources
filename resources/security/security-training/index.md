@@ -15,6 +15,16 @@ head:
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 32
+    "Freemium" : 5
+    "Paid" : 3
+```
+
 ## Filter by Price
 
 - [All](/resources/security/security-training/) - 40 resources

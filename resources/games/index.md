@@ -15,6 +15,16 @@ head:
 
 Learn programming through gamified platforms and coding games.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 24
+    "Freemium" : 9
+    "Paid" : 14
+```
+
 ## Subcategories
 
 - **[Coding Games](/resources/games/coding-games/)** - 47 resources (24 free, 9 freemium, 14 paid)

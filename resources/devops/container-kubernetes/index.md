@@ -15,6 +15,16 @@ head:
 
 Hands-on practice for Linux, containerization, and DevOps tools.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 28
+    "Freemium" : 2
+    "Paid" : 1
+```
+
 ## Filter by Price
 
 - [All](/resources/devops/container-kubernetes/) - 31 resources

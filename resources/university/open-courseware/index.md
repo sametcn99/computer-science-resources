@@ -15,6 +15,16 @@ head:
 
 Free university-level computer science education.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 38
+    "Freemium" : 1
+    "Paid" : 0
+```
+
 ## Filter by Price
 
 - [All](/resources/university/open-courseware/) - 39 resources

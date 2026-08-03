@@ -27,6 +27,14 @@ function generateCategoryPage(category) {
     (s, sub) => s + sub.resources.filter((r) => r.price === 'free').length,
     0
   )
+  const freemiumCount = category.subcategories.reduce(
+    (s, sub) => s + sub.resources.filter((r) => r.price === 'freemium').length,
+    0
+  )
+  const paidCount = category.subcategories.reduce(
+    (s, sub) => s + sub.resources.filter((r) => r.price === 'paid').length,
+    0
+  )
   const desc = `${resourcesCount} curated ${category.name.toLowerCase()} resources for developers. ${freeCount} free resources available across ${category.subcategories.length} subcategories.`
 
   return `---
@@ -52,6 +60,16 @@ head:
 ---
 
 ${category.description}
+
+## Statistics
+
+\`\`\`mermaid
+pie
+    title Resource Distribution
+    "Free" : ${freeCount}
+    "Freemium" : ${freemiumCount}
+    "Paid" : ${paidCount}
+\`\`\`
 
 ## Subcategories
 
@@ -96,6 +114,8 @@ ${sub.resources
 function generateSubcategoryPage(category, subcategory) {
   const count = subcategory.resources.length
   const freeCount = subcategory.resources.filter((r) => r.price === 'free').length
+  const freemiumCount = subcategory.resources.filter((r) => r.price === 'freemium').length
+  const paidCount = subcategory.resources.filter((r) => r.price === 'paid').length
   const desc = `${count} ${subcategory.name.toLowerCase()} resources for developers. ${freeCount} free ${subcategory.name.toLowerCase()} platforms and tools to practice and learn.`
 
   return `---
@@ -121,6 +141,16 @@ head:
 ---
 
 ${category.description}
+
+## Statistics
+
+\`\`\`mermaid
+pie
+    title Resource Distribution
+    "Free" : ${freeCount}
+    "Freemium" : ${freemiumCount}
+    "Paid" : ${paidCount}
+\`\`\`
 
 ## Filter by Price
 

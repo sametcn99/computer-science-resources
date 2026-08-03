@@ -15,6 +15,16 @@ head:
 
 Practice for technical interviews, system design, and behavioral questions.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 16
+    "Freemium" : 8
+    "Paid" : 11
+```
+
 ## Filter by Price
 
 - [All](/resources/interview/technical-interview/) - 35 resources

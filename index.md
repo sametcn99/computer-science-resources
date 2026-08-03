@@ -91,9 +91,3 @@ This is an **open-source project** maintained by the developer community. If you
 4. **Submit** a pull request
 
 Check our [Contributing Guidelines](https://github.com/sametcn99/computer-science-resources/blob/main/CONTRIBUTING.md) for details.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — feel free to use, share, and contribute!

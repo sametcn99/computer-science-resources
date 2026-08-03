@@ -15,6 +15,16 @@ head:
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 32
+    "Freemium" : 5
+    "Paid" : 0
+```
+
 ## Filter by Price
 
 - [All](/resources/interactive/programming-quizzes/) - 37 resources

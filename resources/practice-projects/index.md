@@ -15,6 +15,16 @@ head:
 
 Build real-world projects to learn and practice programming skills.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 27
+    "Freemium" : 7
+    "Paid" : 2
+```
+
 ## Subcategories
 
 - **[Build Projects](/resources/practice-projects/build-projects/)** - 36 resources (27 free, 7 freemium, 2 paid)

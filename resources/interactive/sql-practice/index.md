@@ -15,6 +15,16 @@ head:
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 26
+    "Freemium" : 7
+    "Paid" : 1
+```
+
 ## Filter by Price
 
 - [All](/resources/interactive/sql-practice/) - 34 resources

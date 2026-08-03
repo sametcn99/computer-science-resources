@@ -15,6 +15,16 @@ head:
 
 Network fundamentals, subnetting, and networking practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 29
+    "Freemium" : 7
+    "Paid" : 7
+```
+
 ## Subcategories
 
 - **[Network Fundamentals](/resources/network/network-fundamentals/)** - 23 resources (17 free, 4 freemium, 2 paid)

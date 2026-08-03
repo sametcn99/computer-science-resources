@@ -15,6 +15,16 @@ head:
 
 Hands-on coding exercises, challenges, and real-world practice platforms.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 33
+    "Freemium" : 8
+    "Paid" : 0
+```
+
 ## Filter by Price
 
 - [All](/resources/interactive/algorithms/) - 41 resources

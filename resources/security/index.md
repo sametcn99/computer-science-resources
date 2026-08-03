@@ -15,6 +15,16 @@ head:
 
 Practice cybersecurity skills, penetration testing, and CTF challenges.
 
+## Statistics
+
+```mermaid
+pie
+    title Resource Distribution
+    "Free" : 66
+    "Freemium" : 10
+    "Paid" : 3
+```
+
 ## Subcategories
 
 - **[Capture The Flag (CTF)](/resources/security/ctf/)** - 39 resources (34 free, 5 freemium, 0 paid)

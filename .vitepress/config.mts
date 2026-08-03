@@ -157,7 +157,6 @@ export default defineConfig({
     sidebar: sidebarConfig,
 
     footer: {
-      message: 'Released under the MIT License.',
       copyright: `Copyright © ${new Date().getFullYear()} CS Resources Contributors`
     },
 
