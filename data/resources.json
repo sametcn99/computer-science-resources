@@ -1528,6 +1528,12 @@
               "price": "free"
             },
             {
+              "name": "PracHub Study Plan Generator",
+              "url": "https://prachub.com/resources/free-coding-interview-study-plan-generator-build-a-7-14-or-30-day-plan",
+              "description": "Build a free 7, 14, or 30 day coding interview plan around available study time and topic coverage.",
+              "price": "free"
+            },
+            {
               "name": "Front End Interview Handbook",
               "url": "https://www.frontendinterviewhandbook.com/",
               "description": "Front end interview prep with HTML CSS and JavaScript questions and detailed answers.",
