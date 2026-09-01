@@ -1,0 +1,156 @@
+name: Open PR overlap check
+
+on:
+  pull_request_target:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+# This workflow is API-only. It deliberately does not checkout or execute PR code.
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  open-pr-overlap:
+    name: Open PR overlap
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Compare open PR resource changes
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs')
+
+            const owner = context.repo.owner
+            const repo = context.repo.repo
+            const currentNumber = context.payload.pull_request.number
+            const resourcePath = 'data/resources.json'
+
+            const openPulls = await github.paginate(github.rest.pulls.list, {
+              owner,
+              repo,
+              state: 'open',
+              base: 'main',
+              per_page: 100
+            })
+
+            async function listFiles(pullNumber) {
+              return github.paginate(github.rest.pulls.listFiles, {
+                owner,
+                repo,
+                pull_number: pullNumber,
+                per_page: 100
+              })
+            }
+
+            async function readJsonAtRef(ref) {
+              const response = await github.rest.repos.getContent({
+                owner,
+                repo,
+                path: resourcePath,
+                ref
+              })
+
+              if (Array.isArray(response.data)) {
+                throw new Error(`${resourcePath} resolved to a directory`)
+              }
+
+              return JSON.parse(Buffer.from(response.data.content, 'base64').toString('utf8'))
+            }
+
+            function getUrls(data) {
+              return new Set(
+                data.categories.flatMap((category) =>
+                  category.subcategories.flatMap((subcategory) =>
+                    subcategory.resources.map((resource) => resource.url)
+                  )
+                )
+              )
+            }
+
+            function intersect(left, right) {
+              return [...left].filter((value) => right.has(value))
+            }
+
+            let baseData
+            try {
+              baseData = await readJsonAtRef('main')
+            } catch (error) {
+              core.setFailed(`Could not read ${resourcePath} from main: ${error.message}`)
+              return
+            }
+
+            const baseUrls = getUrls(baseData)
+            const pullData = []
+
+            for (const pull of openPulls) {
+              const files = await listFiles(pull.number)
+              const changedPaths = new Set(files.map((file) => file.filename))
+              const dataFile = files.find((file) => file.filename === resourcePath)
+              let addedUrls = new Set()
+
+              if (dataFile && dataFile.status !== 'removed') {
+                try {
+                  const pullDataJson = await readJsonAtRef(`refs/pull/${pull.number}/head`)
+                  const pullUrls = getUrls(pullDataJson)
+                  addedUrls = new Set([...pullUrls].filter((url) => !baseUrls.has(url)))
+                } catch (error) {
+                  core.warning(
+                    `PR #${pull.number}: could not read ${resourcePath} (${error.message}); file overlap was still checked.`
+                  )
+                }
+              }
+
+              pullData.push({
+                number: pull.number,
+                url: pull.html_url,
+                changedPaths,
+                addedUrls
+              })
+            }
+
+            const current = pullData.find((pull) => pull.number === currentNumber)
+            const otherPulls = pullData.filter((pull) => pull.number !== currentNumber)
+            const warnings = []
+
+            if (current) {
+              for (const other of otherPulls) {
+                const sharedFiles = intersect(current.changedPaths, other.changedPaths)
+                if (sharedFiles.length > 0) {
+                  warnings.push(
+                    `PR #${current.number} and PR #${other.number} both change: ${sharedFiles.join(', ')}`
+                  )
+                }
+
+                const sharedUrls = intersect(current.addedUrls, other.addedUrls)
+                if (sharedUrls.length > 0) {
+                  warnings.push(
+                    `PR #${current.number} and PR #${other.number} add the same new URL(s): ${sharedUrls.join(', ')}`
+                  )
+                }
+              }
+            }
+
+            const lines = [
+              '## Open PR overlap check',
+              '',
+              `Compared PR #${currentNumber} with ${otherPulls.length} other open PR(s) targeting main.`,
+              ''
+            ]
+
+            if (warnings.length === 0) {
+              lines.push('No overlapping resource changes were detected.')
+              core.notice('No overlapping resource changes were detected.')
+            } else {
+              lines.push('Potential overlaps (advisory; no failure yet):', '')
+              for (const warning of warnings) {
+                lines.push(`- ${warning}`)
+                core.warning(warning)
+              }
+            }
+
+            if (process.env.GITHUB_STEP_SUMMARY) {
+              fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `${lines.join('\n')}\n`)
+            }

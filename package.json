@@ -5,13 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "bun run generate && vitepress build",
     "preview": "vitepress preview",
     "generate": "node scripts/generate-pages.mjs && bun run format",
     "validate": "node scripts/validate.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "markdownlint-cli2 index.md resources/index.md"
+    "lint": "markdownlint-cli2 index.md \"resources/**/*.md\""
   },
   "keywords": [
     "computer-science",

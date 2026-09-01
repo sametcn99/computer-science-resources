@@ -5,10 +5,19 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  merge_group:
+    types: [checks_requested]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate:
-    name: Validate Resources
+    name: Quality
     runs-on: ubuntu-latest
 
     steps:
@@ -23,13 +32,13 @@ jobs:
       - name: Install Dependencies
         run: bun install --frozen-lockfile
 
-      - name: Validate JSON Schema
+      - name: Validate JSON schema
         run: bun run validate
 
-      - name: Generate Pages
-        run: bun run generate
+      - name: Build site
+        run: bun run build
 
-      - name: Check Formatting
+      - name: Check formatting
         run: bun run format:check
 
       - name: Lint Markdown

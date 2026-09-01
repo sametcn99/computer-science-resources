@@ -2,11 +2,11 @@
 
 ## ⚠️ Important Notes
 
-### Do Not Edit the `resources/` Folder
+### Generated Pages Are Not Source Files
 
-The `resources/` folder is **automatically generated** from `data/resources.json`. All files in this directory are overwritten each time you run `bun run generate`.
+The `resources/` folder is **automatically generated** from `data/resources.json`. It is ignored by Git and rebuilt during local and CI/Vercel builds.
 
-**Never make manual edits to files in the `resources/` folder.** Your changes will be lost.
+**Never make manual edits to files in the `resources/` folder or commit generated pages.** Add or update resources only in `data/resources.json`.
 
 ### What This Project Is NOT
 
@@ -47,14 +47,6 @@ If you find a resource that violates the above rules (e.g., documentation, refer
 
 ## How to Add or Update Resources
 
-The `resources/` folder is **automatically generated** from `data/resources.json`. All files in this directory are overwritten each time you run `bun run generate`.
-
-**Never make manual edits to files in the `resources/` folder.** Your changes will be lost.
-
----
-
-## How to Add or Update Resources
-
 ### Step 1: Edit the Data Source
 
 All resources are stored in a single source of truth:
@@ -86,7 +78,7 @@ Commit the following files:
 - `data/resources.json` (your changes)
 - `data/resources.json.bak` (if created by validation)
 
-Do **not** commit the `resources/` folder - it is generated automatically.
+Do **not** commit the `resources/` folder; it is generated automatically and ignored by Git.
 
 ---
 

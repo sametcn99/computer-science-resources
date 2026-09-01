@@ -104,6 +104,10 @@ dist
 # vitepress cache directory
 **/.vitepress/cache
 
+# Generated resource pages and Vercel project metadata
+resources/
+.vercel/
+
 # Docusaurus cache and generated files
 .docusaurus
 
