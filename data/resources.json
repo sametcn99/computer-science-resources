@@ -1592,6 +1592,12 @@
               "url": "https://github.com/donnemartin/interactive-coding-challenges",
               "description": "Interactive Python coding interview challenges with Anki flashcards for spaced repetition.",
               "price": "free"
+            },
+            {
+              "name": "FrontendAtlas Essential 60",
+              "url": "https://frontendatlas.com/interview-questions/essential",
+              "description": "Frontend interview practice with 60 essential questions, concise answers, and topic-based preparation for HTML, CSS, JavaScript, and modern frameworks.",
+              "price": "freemium"
             }
           ]
         },
